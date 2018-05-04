@@ -2,7 +2,7 @@
 LeetCode solutions in python under random sequence.</br>
 For daily practice.</br>
 
-| # | Title | Solution | Difficulty |
+| Index | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium|
 |566|Reshape the Matrix | [Python](./566_Reshape-the-Matrix.py)|Easy|
