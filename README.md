@@ -4,6 +4,7 @@ For daily practice.</br>
 
 | Index | Title | Solution | Difficulty | Keywords |
 |---| ----- | -------- | ---------- | ---------- |
+|2|Add Two Numbers | [Python](./2_Add-Two-Numbers.py)|Medium|Linked List|
 |3|Length of Longest Subsrting | [Python](./3_Length-of-Longest-Substring.py)|Medium|Hash Table|
 |11|Container with Most Water | [Python](./11_Container-with-Most-Water.py)|Medium|Array|
 |56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium| |
