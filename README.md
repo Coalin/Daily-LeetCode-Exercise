@@ -11,5 +11,6 @@ For daily practice.</br>
 |56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium| |
 |62|Unique Paths | [Python](./62_Unique-Paths.py)|Medium|Dynamic Programming|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
+|94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Tree|
 |175|Combine Two Tables | [Python](./175_Combine-Two-Tables.sql)|Easy| |
 |566|Reshape the Matrix | [Python](./566_Reshape-the-Matrix.py)|Easy| |
