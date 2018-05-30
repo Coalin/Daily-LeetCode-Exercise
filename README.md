@@ -10,6 +10,7 @@ For daily practice.</br>
 |50|Pow(x,n) | [Python](./50_Pow.py)|Medium|Binary Search; Recursion|
 |56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium| |
 |62|Unique Paths | [Python](./62_Unique-Paths.py)|Medium|Dynamic Programming|
+|64|Minimum Path Sum | [Python](./64_Minimum-Path-Sum.py)|Medium|Dynamic Programming|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
 |94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Tree|
 |175|Combine Two Tables | [Python](./175_Combine-Two-Tables.sql)|Easy| |
