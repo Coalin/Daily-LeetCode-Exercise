@@ -13,5 +13,6 @@ For daily practice.</br>
 |64|Minimum Path Sum | [Python](./64_Minimum-Path-Sum.py)|Medium|Dynamic Programming|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
 |94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Tree|
-|175|Combine Two Tables | [Python](./175_Combine-Two-Tables.sql)|Easy| |
+|175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
+|176|Second Highest Salary | [SQL](./176_Second-Highest-Salary.sql)|Easy|SQL|
 |566|Reshape the Matrix | [Python](./566_Reshape-the-Matrix.py)|Easy| |
