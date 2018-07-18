@@ -13,6 +13,7 @@ For my daily practice.</br>
 |62|Unique Paths | [Python](./62_Unique-Paths.py)|Medium|Dynamic Programming|
 |64|Minimum Path Sum | [Python](./64_Minimum-Path-Sum.py)|Medium|Dynamic Programming|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
+|88|Merge Sorted Array | [Python](./88_Merge-Sorted-Array.py)|Easy|Array|
 |94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Tree|
 |175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
 |176|Second Highest Salary | [SQL](./176_Second-Highest-Salary.sql)|Easy|SQL|
