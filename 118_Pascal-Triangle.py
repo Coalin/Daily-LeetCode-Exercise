@@ -18,8 +18,8 @@ class Solution(object):
                 for j in range(1, i):
                 
                 # Pay attention to 
-                # [1]The above i
-                # [2]List.append() 
+                # [1] The above i in iteration: rather than numRows
+                # [2] List.append(): rather than direct "="
                 
                     num = res[i - 1][j - 1] + res[i - 1][j]
                     row.append(num)
