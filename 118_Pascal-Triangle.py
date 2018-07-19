@@ -17,7 +17,7 @@ class Solution(object):
                 row = [1]
                 for j in range(1, i):
                 
-                # Pay attention to 
+                # Pay attention to: 
                 # [1] The above i in iteration: rather than numRows
                 # [2] List.append(): rather than direct "="
                 
