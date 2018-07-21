@@ -16,6 +16,7 @@ For my daily practice.</br>
 |88|Merge Sorted Array | [Python](./88_Merge-Sorted-Array.py)|Easy|Array|
 |94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Tree|
 |118|Pascal Triangle | [Python](./118_Pascal-Triangle.py)|Easy|Array|
+|122|Best Time to Buy and Sell Stock | [Python](./122_Best-Time-to-Buy-and-Sell-Stock.py)|Easy|Array|
 |175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
 |176|Second Highest Salary | [SQL](./176_Second-Highest-Salary.sql)|Easy|SQL|
 |566|Reshape the Matrix | [Python](./566_Reshape-the-Matrix.py)|Easy| |
