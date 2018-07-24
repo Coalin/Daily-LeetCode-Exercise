@@ -16,6 +16,7 @@ For daily practice.</br>
 |88|Merge Sorted Array | [Python](./88_Merge-Sorted-Array.py)|Easy|Array|
 |94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Tree|
 |118|Pascal Triangle | [Python](./118_Pascal-Triangle.py)|Easy|Array|
+|118|Pascal Triangle II | [Python](./119_Pascal-Triangle-II.py)|Easy|Array|
 |121|Best Time to Buy and Sell Stock I | [Python](./121_Best-Time-to-Buy-and-Sell-Stock-I.py)|Easy|Array|
 |122|Best Time to Buy and Sell Stock II| [Python](./122_Best-Time-to-Buy-and-Sell-Stock-II.py)|Easy|Array|
 |175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
