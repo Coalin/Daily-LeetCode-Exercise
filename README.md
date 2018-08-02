@@ -25,4 +25,5 @@ For daily practice.</br>
 |169|Majority Element | [Python](./169_Majority-Element.py)|Easy|Hash Table|
 |175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
 |176|Second Highest Salary | [SQL](./176_Second-Highest-Salary.sql)|Easy|SQL|
+|283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy|Python|
 |566|Reshape the Matrix | [Python](./566_Reshape-the-Matrix.py)|Easy| |
