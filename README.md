@@ -14,7 +14,7 @@ For daily practice.</br>
 |58|Length of Last Word | [Python](./58_Length-of-Last-Word.py)|Easy|String|
 |62|Unique Paths | [Python](./62_Unique-Paths.py)|Medium|Dynamic Programming|
 |62|Unique Paths | [Python](./62_Unique-Paths.py)|Medium|Dynamic Programming|
-|70|Climbing Stairs | [Python](./70_Climbing Stairs.py)|Easy|Dynamic Programming|
+|70|Climbing Stairs | [Python](./70_Climbing-Stairs.py)|Easy|Dynamic Programming|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
 |88|Merge Sorted Array | [Python](./88_Merge-Sorted-Array.py)|Easy|Array|
 |94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Tree|
