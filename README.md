@@ -9,6 +9,7 @@ For daily practice.</br>
 |11|Container with Most Water | [Python](./11_Container-with-Most-Water.py)|Medium|Array|
 |39|Combination Sum | [Python](./39_Combination-Sum.py)|Medium|DFS|
 |50|Pow(x,n) | [Python](./50_Pow.py)|Medium|Binary Search; Recursion|
+|53|Maximum Subarray | [Python](./53_Maximum-Subarray.py)|Easy|Dynamic Programming|
 |56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium| |
 |58|Length of Last Word | [Python](./58_Length-of-Last-Word.py)|Easy|String|
 |62|Unique Paths | [Python](./62_Unique-Paths.py)|Medium|Dynamic Programming|
