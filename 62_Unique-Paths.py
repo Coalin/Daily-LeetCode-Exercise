@@ -7,7 +7,8 @@ class Solution(object):
         """
         if m < 1 or n < 1:
             return 0
-        dp = [[0]*n]*m
+        dp = [[0 for col in range(n)] for row in range(m)]
+        # dp = [[0]*n]*m
         for i in xrange(m):
             dp[i][0] = 1
         for j in xrange(n):
