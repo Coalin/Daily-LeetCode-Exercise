@@ -27,6 +27,7 @@ For daily practice.</br>
 |121|Best Time to Buy and Sell Stock I | [Python](./121_Best-Time-to-Buy-and-Sell-Stock-I.py)|Easy|Array|
 |122|Best Time to Buy and Sell Stock II| [Python](./122_Best-Time-to-Buy-and-Sell-Stock-II.py)|Easy|Array|
 |136|Single Number | [Python](./136_Single-Number.py)|Easy|Hash Table|
+|137|Single Number | [Python](./137_Single-Number-II.py)|Medium|Hash Table|
 |167|Two Sum II | [Python](./167_Two-Sum-II.py)|Easy|Dual Pointer|
 |169|Majority Element | [Python](./169_Majority-Element.py)|Easy|Hash Table|
 |175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
