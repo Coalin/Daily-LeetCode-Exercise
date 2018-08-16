@@ -9,6 +9,7 @@ For daily practice.</br>
 |3|Length of Longest Subsrting | [Python](./3_Length-of-Longest-Substring.py)|Medium|Hash Table|
 |11|Container with Most Water | [Python](./11_Container-with-Most-Water.py)|Medium|Array; Dual Pointer|
 |15|Three Sum | [Python](./15_Three-Sum.py)|Medium|Array; Dual Pointer|
+|21|Merge Two Sorted Lists | [Python](./21_Merge-Two-Sorted-Lists.py)|Easy|List|
 |33|Search in Rotated Sorted Array | [Python](./33_Search-In-Rotated-Sorted-Array.py)|Medium|Binary Search|
 |35|Search Insert Position | [Python](./35_Search-Insert-Position.py)|Easy|Binary Search|
 |39|Combination Sum | [Python](./39_Combination-Sum.py)|Medium|DFS|
