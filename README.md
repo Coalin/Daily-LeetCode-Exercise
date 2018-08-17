@@ -25,6 +25,7 @@ For daily practice.</br>
 |69|Sqrt() | [Python](./69_Sqrt.py)|Easy|Binary Search|
 |70|Climbing Stairs | [Python](./70_Climbing-Stairs.py)|Easy|Dynamic Programming|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
+|83|Remove Duplicates From Sorted Lists| [Python](./83_Remove-Duplicates-From-Sorted-Lists.py)|Medium|Linked List |
 |88|Merge Sorted Array | [Python](./88_Merge-Sorted-Array.py)|Easy|Array|
 |94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Tree|
 |118|Pascal Triangle I | [Python](./118_Pascal-Triangle-I.py)|Easy|Array|
