@@ -19,6 +19,7 @@ For daily practice.</br>
 |53|Maximum Subarray | [Python](./53_Maximum-Subarray.py)|Easy|Dynamic Programming|
 |56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium| |
 |58|Length of Last Word | [Python](./58_Length-of-Last-Word.py)|Easy|String|
+|61|Rotate List | [Python](./61_Rotate-List.py)|Medium|Linked List|
 |62|Unique Paths | [Python](./62_Unique-Paths.py)|Medium|Dynamic Programming|
 |63|Unique Paths II | [Python](./63_Unique-Paths-II.py)|Medium|Dynamic Programming|
 |64|Minimum Paths Sum | [Python](./64_Minimum-Paths-Sum.py)|Medium|Dynamic Programming|
