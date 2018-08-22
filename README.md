@@ -32,6 +32,7 @@ For daily practice.</br>
 |94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Tree|
 |118|Pascal Triangle I | [Python](./118_Pascal-Triangle-I.py)|Easy|Array|
 |119|Pascal Triangle II | [Python](./119_Pascal-Triangle-II.py)|Easy|Array|
+|120|Triangle | [Python](./120_Triangle.py)|Medium|Dynamic Programming|
 |121|Best Time to Buy and Sell Stock I | [Python](./121_Best-Time-to-Buy-and-Sell-Stock-I.py)|Easy|Array|
 |122|Best Time to Buy and Sell Stock II| [Python](./122_Best-Time-to-Buy-and-Sell-Stock-II.py)|Easy|Array|
 |136|Single Number | [Python](./136_Single-Number.py)|Easy|Hash Table|
