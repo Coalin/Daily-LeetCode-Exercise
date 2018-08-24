@@ -42,6 +42,7 @@ For daily practice.</br>
 |175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
 |176|Second Highest Salary | [SQL](./176_Second-Highest-Salary.sql)|Easy|SQL|
 |198|House Robber | [Python](./198_House-Robber.py)|Easy|Dynamic Programming|
+|213|House Robber II | [Python](./213_House-Robber-II.py)|Medium|Dynamic Programming|
 |260|Single Number III | [Python](./260_Single-Number-III.py)|Medium|Hash Table|
-|283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy|Python|
+|283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy||
 |566|Reshape the Matrix | [Python](./566_Reshape-the-Matrix.py)|Easy| |
