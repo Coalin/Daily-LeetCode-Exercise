@@ -26,8 +26,8 @@ For daily practice.</br>
 |69|Sqrt() | [Python](./69_Sqrt.py)|Easy|Binary Search|
 |70|Climbing Stairs | [Python](./70_Climbing-Stairs.py)|Easy|Dynamic Programming|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
-|82|Remove Duplicates From Sorted Lists II| [Python](./82_Remove-Duplicates-From-Sorted-Lists-II.py)|Medium|Linked List |
-|83|Remove Duplicates From Sorted Lists| [Python](./83_Remove-Duplicates-From-Sorted-Lists.py)|Easy|Linked List |
+|82|Remove Duplicates From Sorted Lists II| [Python](./82_Remove-Duplicates-From-Sorted-Lists-II.py)|Medium|Linked List|
+|83|Remove Duplicates From Sorted Lists| [Python](./83_Remove-Duplicates-From-Sorted-Lists.py)|Easy|Linked List|
 |88|Merge Sorted Array | [Python](./88_Merge-Sorted-Array.py)|Easy|Array|
 |94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Tree|
 |118|Pascal Triangle I | [Python](./118_Pascal-Triangle-I.py)|Easy|Array|
@@ -42,6 +42,7 @@ For daily practice.</br>
 |175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
 |176|Second Highest Salary | [SQL](./176_Second-Highest-Salary.sql)|Easy|SQL|
 |198|House Robber | [Python](./198_House-Robber.py)|Easy|Dynamic Programming|
+|206|Reverse Linked List | [Python](./206_Reverse-Linked-List.py)|Easy|Linked List|
 |213|House Robber II | [Python](./213_House-Robber-II.py)|Medium|Dynamic Programming|
 |260|Single Number III | [Python](./260_Single-Number-III.py)|Medium|Hash Table|
 |283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy||
