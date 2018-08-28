@@ -48,4 +48,5 @@ For daily practice.</br>
 |213|House Robber II | [Python](./213_House-Robber-II.py)|Medium|Dynamic Programming|
 |260|Single Number III | [Python](./260_Single-Number-III.py)|Medium|Hash Table|
 |283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy||
+|287|Find the Duplicate Number | [Python](./287_Find-the-Duplicate-Number.py)|Medium|Hash Table|
 |566|Reshape the Matrix | [Python](./566_Reshape-the-Matrix.py)|Easy| |
