@@ -52,4 +52,5 @@ For daily practice.</br>
 |283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy||
 |287|Find the Duplicate Number | [Python](./287_Find-the-Duplicate-Number.py)|Medium|Hash Table|
 |344|Reverse String |[Python](./344_Reverse-String.py)|Easy|String; Recursion|
+|345|Reverse Vowels of a String |[Python](./345_Reverse-Vowels-of-a-String.py)|Easy|String|
 |566|Reshape the Matrix | [Python](./566_Reshape-the-Matrix.py)|Easy| |
