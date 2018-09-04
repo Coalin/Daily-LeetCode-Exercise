@@ -16,6 +16,7 @@ For daily practice.</br>
 |33|Search in Rotated Sorted Array | [Python](./33_Search-In-Rotated-Sorted-Array.py)|Medium|Binary Search|
 |35|Search Insert Position | [Python](./35_Search-Insert-Position.py)|Easy|Binary Search|
 |39|Combination Sum | [Python](./39_Combination-Sum.py)|Medium|DFS|
+|46|Permutation | [Python](./46_Permutation.py)|Medium|Recursion|
 |50|Pow(x,n) | [Python](./50_Pow.py)|Medium|Binary Search; Recursion|
 |53|Maximum Subarray | [Python](./53_Maximum-Subarray.py)|Easy|Dynamic Programming|
 |56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium| |
