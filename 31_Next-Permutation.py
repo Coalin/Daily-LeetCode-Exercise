@@ -28,6 +28,7 @@ class Solution(object):
         #         nums[left] = middle
         
 # Attempt II: Accepted:
+# Reference: https://blog.csdn.net/zr1076311296/article/details/51296008
 
         if len(nums) > 1:
             pos = -1
