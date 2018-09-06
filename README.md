@@ -40,6 +40,7 @@ For daily practice.</br>
 |120|Triangle | [Python](./120_Triangle.py)|Medium|Dynamic Programming|
 |121|Best Time to Buy and Sell Stock I | [Python](./121_Best-Time-to-Buy-and-Sell-Stock-I.py)|Easy|Array|
 |122|Best Time to Buy and Sell Stock II| [Python](./122_Best-Time-to-Buy-and-Sell-Stock-II.py)|Easy|Array|
+|125|Valid Palindrome | [Python](./125_Valid-Palindrome.py)|Easy|String|
 |136|Single Number | [Python](./136_Single-Number.py)|Easy|Hash Table|
 |137|Single Number II| [Python](./137_Single-Number-II.py)|Medium|Hash Table|
 |167|Two Sum II | [Python](./167_Two-Sum-II.py)|Easy|Dual Pointer|
