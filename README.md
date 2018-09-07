@@ -29,6 +29,7 @@ For daily practice.</br>
 |64|Minimum Paths Sum | [Python](./64_Minimum-Paths-Sum.py)|Medium|Dynamic Programming|
 |69|Sqrt() | [Python](./69_Sqrt.py)|Easy|Binary Search|
 |70|Climbing Stairs | [Python](./70_Climbing-Stairs.py)|Easy|Dynamic Programming|
+|74|Search a 2D Matrix | [Python](./74_Search-a-2D-Matrix.py)|Medium|Binary Search|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
 |82|Remove Duplicates From Sorted Lists II| [Python](./82_Remove-Duplicates-From-Sorted-Lists-II.py)|Medium|Linked List|
 |83|Remove Duplicates From Sorted Lists| [Python](./83_Remove-Duplicates-From-Sorted-Lists.py)|Easy|Linked List|
