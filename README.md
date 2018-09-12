@@ -7,6 +7,7 @@ For daily practice.</br>
 |1|Two Sum | [Python](./1_Two-Sum.py)|Easy|Array; Dual Pointer; Hash Table|
 |2|Add Two Numbers | [Python](./2_Add-Two-Numbers.py)|Medium|Linked List|
 |3|Length of Longest Subsrting | [Python](./3_Length-of-Longest-Substring.py)|Medium|Hash Table|
+|4|Median of Two Sorted Arrays | [Python](./4_Median-of-Two-Sorted-Arrays.py)|Hard|Binary Search(expected)|
 |11|Container with Most Water | [Python](./11_Container-with-Most-Water.py)|Medium|Array; Dual Pointer|
 |15|Three Sum | [Python](./15_Three-Sum.py)|Medium|Array; Dual Pointer|
 |19|Remove Nth Node from End of List | [Python](./19_Remove-Nth-Node-From-End-Of-List.py)|Medium|Linked List; Dual Pointer|
