@@ -12,6 +12,7 @@ For daily practice.</br>
 |7|Reverse Integer | [Python](./7_Reverse-Integer.py)|Easy|String|
 |9|Palindrome Number | [Python](./9_Palindrome-Number.py)|Easy|String|
 |11|Container with Most Water | [Python](./11_Container-with-Most-Water.py)|Medium|Array; Dual Pointer|
+|14|Longest Common Prefix |[Python](./14_Longest-Common-Prefix.py)|Easy|String|
 |15|Three Sum | [Python](./15_Three-Sum.py)|Medium|Array; Dual Pointer|
 |19|Remove Nth Node from End of List | [Python](./19_Remove-Nth-Node-From-End-Of-List.py)|Medium|Linked List; Dual Pointer|
 |21|Merge Two Sorted Lists | [Python](./21_Merge-Two-Sorted-Lists.py)|Easy|Linked List|
