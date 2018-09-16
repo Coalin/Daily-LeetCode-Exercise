@@ -41,3 +41,5 @@ class Solution:
         if l2:
             new_head.next = l2
         return new_list.next 
+   
+# 12.10%; 5,508ms.
