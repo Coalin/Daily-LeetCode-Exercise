@@ -16,6 +16,7 @@ For daily practice.</br>
 |15|Three Sum | [Python](./15_Three-Sum.py)|Medium|Array; Dual Pointer|
 |19|Remove Nth Node from End of List | [Python](./19_Remove-Nth-Node-From-End-Of-List.py)|Medium|Linked List; Dual Pointer|
 |21|Merge Two Sorted Lists | [Python](./21_Merge-Two-Sorted-Lists.py)|Easy|Linked List|
+|23|Merge K Sorted Lists | [Python](./23_Merge-K-Sorted-Lists.py)|Hard|Linked List|
 |24|Swap Nodes In Pairs | [Python](./24_Swap-Nodes-In-Pairs.py)|Medium|Linked List|
 |28|Implement strStr() | [Python](./28_Implement-strStr.py)|Easy|String|
 |31|Next Permutation | [Python](./31_Next-Permutation.py)|Medium|String|
