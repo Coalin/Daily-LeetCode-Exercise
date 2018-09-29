@@ -39,6 +39,7 @@ For daily practice.</br>
 |70|Climbing Stairs | [Python](./70_Climbing-Stairs.py)|Easy|Dynamic Programming|
 |74|Search a 2D Matrix | [Python](./74_Search-a-2D-Matrix.py)|Medium|Binary Search|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
+|78|Subsets | [Python](./78_Subsets.py)|Medium|Array|
 |82|Remove Duplicates From Sorted Lists II| [Python](./82_Remove-Duplicates-From-Sorted-Lists-II.py)|Medium|Linked List|
 |83|Remove Duplicates From Sorted Lists| [Python](./83_Remove-Duplicates-From-Sorted-Lists.py)|Easy|Linked List|
 |88|Merge Sorted Array | [Python](./88_Merge-Sorted-Array.py)|Easy|Array|
