@@ -42,7 +42,7 @@ For daily practice.</br>
 |78|Subsets | [Python](./78_Subsets.py)|Medium|Array|
 |82|Remove Duplicates From Sorted Lists II| [Python](./82_Remove-Duplicates-From-Sorted-Lists-II.py)|Medium|Linked List|
 |83|Remove Duplicates From Sorted Lists| [Python](./83_Remove-Duplicates-From-Sorted-Lists.py)|Easy|Linked List|
-|88|Merge Sorted Array | [Python](./88_Merge-Sorted-Array.py)|Easy|Array|
+|88|Merge Sorted Array | [Python](./88_Merge-Sorted-Array.py)|Easy|Array; Dual Pointer|
 |92|Reverse Linked List II | [Python](./92_Reverse-Linked-List-II.py)|Medium|Linked List|
 |94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Tree|
 |118|Pascal Triangle I | [Python](./118_Pascal-Triangle-I.py)|Easy|Array|
