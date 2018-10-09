@@ -54,6 +54,7 @@ For daily practice.</br>
 |125|Valid Palindrome | [Python](./125_Valid-Palindrome.py)|Easy|String|
 |136|Single Number | [Python](./136_Single-Number.py)|Easy|Hash Table|
 |137|Single Number II| [Python](./137_Single-Number-II.py)|Medium|Hash Table|
+|141|Linked List Cycle| [Python](./141_Linked-List-Cycle.py)|Easy|Linked List; Dual Pointer|
 |167|Two Sum II | [Python](./167_Two-Sum-II.py)|Easy|Dual Pointer|
 |169|Majority Element | [Python](./169_Majority-Element.py)|Easy|Hash Table|
 |175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
