@@ -56,6 +56,7 @@ For daily practice.</br>
 |137|Single Number II| [Python](./137_Single-Number-II.py)|Medium|Hash Table|
 |141|Linked List Cycle| [Python](./141_Linked-List-Cycle.py)|Easy|Linked List; Dual Pointer|
 |142|Linked List Cycle II| [Python](./142_Linked-List-Cycle-II.py)|Medium|Linked List; Dual Pointer|
+|155|Min Stack| [Python](./155_Min-Stack.py)|Easy|Stack|
 |167|Two Sum II | [Python](./167_Two-Sum-II.py)|Easy|Dual Pointer|
 |169|Majority Element | [Python](./169_Majority-Element.py)|Easy|Hash Table|
 |175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
