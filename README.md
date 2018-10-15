@@ -66,6 +66,7 @@ For daily practice.</br>
 |202|Happy Number | [Python](./202_Happy-Number.py)|Easy|Hash Table|
 |206|Reverse Linked List | [Python](./206_Reverse-Linked-List.py)|Easy|Linked List|
 |213|House Robber II | [Python](./213_House-Robber-II.py)|Medium|Dynamic Programming|
+|217|Contains Duplicate | [Python](./217_Contains-Duplicate.py)|Easy|Array; Hash Table|
 |229|Majority Element II | [Python](./229_Majority-Element-II.py)|Medium|Hash Table|
 |260|Single Number III | [Python](./260_Single-Number-III.py)|Medium|Hash Table|
 |283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy||
