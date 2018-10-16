@@ -69,6 +69,7 @@ For daily practice.</br>
 |217|Contains Duplicate | [Python](./217_Contains-Duplicate.py)|Easy|Array; Hash Table|
 |229|Majority Element II | [Python](./229_Majority-Element-II.py)|Medium|Hash Table|
 |230|Kth Smallest Element in a BST | [Python](./230_Kth-Smallest-Element-in-a-BST.py)|Medium|BST|
+|231|Power of Two | [Python](./231_Power-of-Two.py)|Easy|Maths|
 |260|Single Number III | [Python](./260_Single-Number-III.py)|Medium|Hash Table|
 |283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy||
 |287|Find the Duplicate Number | [Python](./287_Find-the-Duplicate-Number.py)|Medium|Hash Table|
