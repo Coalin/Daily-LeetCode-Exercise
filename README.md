@@ -64,7 +64,7 @@ For daily practice.</br>
 |176|Second Highest Salary | [SQL](./176_Second-Highest-Salary.sql)|Easy|SQL|
 |198|House Robber | [Python](./198_House-Robber.py)|Easy|Dynamic Programming|
 |202|Happy Number | [Python](./202_Happy-Number.py)|Easy|Hash Table|
-|206|Reverse Linked List | [Python](./206_Reverse-Linked-List.py)|Easy|Linked List|
+|206|Reverse Linked List | [Python](./206_Reverse-Linked-List.py)|Easy|Linked List|*|
 |213|House Robber II | [Python](./213_House-Robber-II.py)|Medium|Dynamic Programming|
 |217|Contains Duplicate | [Python](./217_Contains-Duplicate.py)|Easy|Array; Hash Table|
 |229|Majority Element II | [Python](./229_Majority-Element-II.py)|Medium|Hash Table|
