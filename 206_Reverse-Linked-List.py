@@ -30,3 +30,19 @@ class Solution(object):
             pre = cur
         return cur
         
+class Solution:
+    def reverseList(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        """
+        if head == None or head.next == None:
+            return head
+        post = head.next
+        head.next = None
+        while post != None:
+            pre = head
+            head = post
+            post = head.next            
+            head.next = pre
+        return head
