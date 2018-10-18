@@ -2,8 +2,8 @@
 LeetCode solutions and thoughts in python under random sequence.</br>
 For daily practice.</br>
 
-| Index | Title | Solution | Difficulty | Keywords |
-|---| ----- | -------- | ---------- | ---------- |
+| Index | Title | Solution | Difficulty | Keywords | Star |
+|---| ----- | -------- | ---------- | ---------- | -----|
 |1|Two Sum | [Python](./1_Two-Sum.py)|Easy|Array; Dual Pointer; Hash Table|
 |2|Add Two Numbers | [Python](./2_Add-Two-Numbers.py)|Medium|Linked List|
 |3|Length of Longest Subsrting | [Python](./3_Length-of-Longest-Substring.py)|Medium|Hash Table|
@@ -71,6 +71,7 @@ For daily practice.</br>
 |230|Kth Smallest Element in a BST | [Python](./230_Kth-Smallest-Element-in-a-BST.py)|Medium|BST|
 |231|Power of Two | [Python](./231_Power-of-Two.py)|Easy|Maths|
 |235|Lowest Common Ancestor of a Binary Search Tree | [Python](./235_Lowest-Common-Ancestor-of-a-Binary-Search-Tree.py)|Easy|BST|
+|236|Lowest Common Ancestor of a Binary Tree | [Python](./236_Lowest-Common-Ancestor-of-a-Binary-Tree.py)|Medium|BST|*|
 |260|Single Number III | [Python](./260_Single-Number-III.py)|Medium|Hash Table|
 |283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy||
 |287|Find the Duplicate Number | [Python](./287_Find-the-Duplicate-Number.py)|Medium|Hash Table|
