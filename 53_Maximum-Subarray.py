@@ -13,6 +13,23 @@ class Solution(object):
             cursum = max(num, cursum+num)
             maxsum = max(cursum, maxsum)
         return maxsum
+
+class Solution(object):
+    def maxSubArray(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        if len(nums) == 0:
+            return None
+        if len(nums) == 1:
+            return nums[0]
+        cur_res = nums[0]
+        final_res = nums[0]
+        for i in range(1, len(nums)):
+            cur_res = max(cur_res+nums[i], nums[i])
+            final_res = max(cur_res, final_res)
+        return final_res
     
 # Method II: DP
 # Complexity: O(n)
