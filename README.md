@@ -33,6 +33,7 @@ For daily practice.</br>
 |55|Jump Game | [Python](./55_Jump-Game.py)|Medium|Greedy Algorithm|
 |56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium| |
 |58|Length of Last Word | [Python](./58_Length-of-Last-Word.py)|Easy|String|
+|59|Spiral Matrix II | [Python](./59_Spiral-Matrix-II.py)|Medium|Array|
 |61|Rotate List | [Python](./61_Rotate-List.py)|Medium|Linked List|
 |62|Unique Paths | [Python](./62_Unique-Paths.py)|Medium|Dynamic Programming|
 |63|Unique Paths II | [Python](./63_Unique-Paths-II.py)|Medium|Dynamic Programming|
