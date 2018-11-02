@@ -1,4 +1,5 @@
 # 这题纠结的点在于...破外圈while循环所用的break位置.
+# 24 ms, 99.68%.
 
 class Solution(object):
     def spiralOrder(self, matrix):
