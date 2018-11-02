@@ -30,6 +30,7 @@ For daily practice.</br>
 |47|Permutation II | [Python](./47_Permutation-II.py)|Medium|Recursion|
 |50|Pow(x,n) | [Python](./50_Pow.py)|Medium|Binary Search; Recursion|
 |53|Maximum Subarray | [Python](./53_Maximum-Subarray.py)|Easy|Dynamic Programming; Divide and Conquer|*|
+|54|Spiral Matrix| [Python](./54_Spiral-Matrix.py)|Medium|Array|
 |55|Jump Game | [Python](./55_Jump-Game.py)|Medium|Greedy Algorithm|
 |56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium| |
 |58|Length of Last Word | [Python](./58_Length-of-Last-Word.py)|Easy|String|
