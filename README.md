@@ -37,7 +37,7 @@ For daily practice.</br>
 |59|Spiral Matrix II | [Python](./59_Spiral-Matrix-II.py)|Medium|Array|
 |61|Rotate List | [Python](./61_Rotate-List.py)|Medium|Linked List|
 |62|Unique Paths | [Python](./62_Unique-Paths.py)|Medium|Dynamic Programming|
-|63|Unique Paths II | [Python](./63_Unique-Paths-II.py)|Medium|Dynamic Programming|
+|63|Unique Paths II | [Python](./63_Unique-Paths-II.py)|Medium|Dynamic Programming|*|
 |64|Minimum Paths Sum | [Python](./64_Minimum-Paths-Sum.py)|Medium|Dynamic Programming|
 |69|Sqrt() | [Python](./69_Sqrt.py)|Easy|Binary Search|
 |70|Climbing Stairs | [Python](./70_Climbing-Stairs.py)|Easy|Dynamic Programming|
