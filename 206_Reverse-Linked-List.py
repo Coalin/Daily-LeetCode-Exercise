@@ -15,7 +15,7 @@ class Solution(object):
         new_head = None
         while head:
             p = head
-            head = head.next
+            head = head.next    # 这一步的位置不能改！！！
             p.next = new_head
             new_head = p
         return new_head
