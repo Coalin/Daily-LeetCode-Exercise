@@ -72,6 +72,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |202|Happy Number | [Python](./202_Happy-Number.py)|Easy|Hash Table|
 |206|Reverse Linked List | [Python](./206_Reverse-Linked-List.py)|Easy|Linked List|*|
 |213|House Robber II | [Python](./213_House-Robber-II.py)|Medium|Dynamic Programming|
+|215|Kth Largest Element in an Array | [Python](./215_Kth-Largest-Element-in-an-Array.py)|Medium|Heap|
 |217|Contains Duplicate | [Python](./217_Contains-Duplicate.py)|Easy|Array; Hash Table|
 |229|Majority Element II | [Python](./229_Majority-Element-II.py)|Medium|Hash Table|
 |230|Kth Smallest Element in a BST | [Python](./230_Kth-Smallest-Element-in-a-BST.py)|Medium|BST|
