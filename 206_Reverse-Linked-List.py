@@ -21,6 +21,7 @@ class Solution(object):
         return new_head
     
         # Method II: 遍历时直接将指针反转
+        # 48 ms, 99.42%.
         cur = None 
         pre = None 
         while head:
