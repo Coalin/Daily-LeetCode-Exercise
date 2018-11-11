@@ -12,5 +12,19 @@ class Solution:
             return True
         else:
             return False
+        
+        
+class Solution(object):
+    def isPowerOfTwo(self, n):
+        """
+        :type n: int
+        :rtype: bool
+        """
+        origin = n
+        count = 0
+        while n > 1:
+            n = n//2
+            count += 1
+        return 2**count == origin
             
         
