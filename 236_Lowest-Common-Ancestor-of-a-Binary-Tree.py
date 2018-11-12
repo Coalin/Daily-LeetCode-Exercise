@@ -5,6 +5,16 @@
 #         self.left = None
 #         self.right = None
 
+"""
+当遍历到一个root点的时候，
+
+1.判断root是不是null. 如果root为null，那么就无所谓祖先节点，直接返回null就好了;
+
+2.如果root的左子树存在p，右子树存在q，那么root肯定就是最近祖先;
+
+3.如果pq都在root的左子树，那么就需要递归root的左子树，右子树同理。
+"""
+
 class Solution:
     def lowestCommonAncestor(self, root, p, q):
         """
