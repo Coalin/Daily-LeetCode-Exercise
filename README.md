@@ -72,6 +72,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |198|House Robber | [Python](./198_House-Robber.py)|Easy|Dynamic Programming|
 |202|Happy Number | [Python](./202_Happy-Number.py)|Easy|Hash Table|
 |206|Reverse Linked List | [Python](./206_Reverse-Linked-List.py)|Easy|Linked List|*|
+|209|Minimum Size Subarray Sum | [Python](./209_Minimum-Size-Subarray-Sum.py)|Medium|Array; Dual Pointer; Binary Search|
 |213|House Robber II | [Python](./213_House-Robber-II.py)|Medium|Dynamic Programming|
 |215|Kth Largest Element in an Array | [Python](./215_Kth-Largest-Element-in-an-Array.py)|Medium|Heap|*|
 |217|Contains Duplicate | [Python](./217_Contains-Duplicate.py)|Easy|Array; Hash Table|
