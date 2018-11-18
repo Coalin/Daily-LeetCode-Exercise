@@ -69,7 +69,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |169|Majority Element | [Python](./169_Majority-Element.py)|Easy|Hash Table|
 |175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
 |176|Second Highest Salary | [SQL](./176_Second-Highest-Salary.sql)|Easy|SQL|
-|187|Repeated DNA Sequences | [SQL](./187_Repeated-DNA-Sequences.py)|Medium|String; Hash Table|
+|187|Repeated DNA Sequences | [Python](./187_Repeated-DNA-Sequences.py)|Medium|String; Hash Table|
 |198|House Robber | [Python](./198_House-Robber.py)|Easy|Dynamic Programming|
 |202|Happy Number | [Python](./202_Happy-Number.py)|Easy|Hash Table|
 |206|Reverse Linked List | [Python](./206_Reverse-Linked-List.py)|Easy|Linked List|*|
