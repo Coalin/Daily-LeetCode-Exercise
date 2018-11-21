@@ -46,7 +46,7 @@ class Solution:
     
 # Method III:
 
-44ms, 97.93%
+# 44ms, 97.93%
 
 class Solution:
     def preorderTraversal(self, root):
