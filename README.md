@@ -49,7 +49,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |83|Remove Duplicates From Sorted Lists| [Python](./83_Remove-Duplicates-From-Sorted-Lists.py)|Easy|Linked List|
 |88|Merge Sorted Array | [Python](./88_Merge-Sorted-Array.py)|Easy|Array; Dual Pointer|
 |92|Reverse Linked List II | [Python](./92_Reverse-Linked-List-II.py)|Medium|Linked List|
-|94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Tree|
+|94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Binary Tree; Stack|
 |104|Maximum Depth of Binary Tree | [Python](./104_Maximum-Depth-of-Binary-Tree.py)|Easy|Tree; Recursion|
 |111|Minimum Depth of Binary Tree | [Python](./111_Minimum-Depth-of-Binary-Tree.py)|Easy|Tree; Recursion|
 |118|Pascal Triangle I | [Python](./118_Pascal-Triangle-I.py)|Easy|Array|
