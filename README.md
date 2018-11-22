@@ -5,7 +5,7 @@ Those questions with stars at the end were faced during one or more interviews b
 
 | Index | Title | Solution | Difficulty | Keywords | Star |
 |---| ----- | -------- | ---------- | ---------- | -----|
-|1|Two Sum | [Python](./1_Two-Sum.py)|Easy|Array; Dual Pointer; Hash Table|
+|1|Two Sum | [Python](./1_Two-Sum.py)|Easy|Array; Dual Pointer; Hash Table|\*|
 |2|Add Two Numbers | [Python](./2_Add-Two-Numbers.py)|Medium|Linked List|
 |3|Length of Longest Subsrting | [Python](./3_Length-of-Longest-Substring.py)|Medium|Hash Table|
 |4|Median of Two Sorted Arrays | [Python](./4_Median-of-Two-Sorted-Arrays.py)|Hard|Binary Search(expected)|
@@ -30,7 +30,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |46|Permutation | [Python](./46_Permutation.py)|Medium|Recursion|
 |47|Permutation II | [Python](./47_Permutation-II.py)|Medium|Recursion|
 |50|Pow(x,n) | [Python](./50_Pow.py)|Medium|Binary Search; Recursion|
-|53|Maximum Subarray | [Python](./53_Maximum-Subarray.py)|Easy|Dynamic Programming; Divide and Conquer|*|
+|53|Maximum Subarray | [Python](./53_Maximum-Subarray.py)|Easy|Dynamic Programming; Divide and Conquer|\*|
 |54|Spiral Matrix| [Python](./54_Spiral-Matrix.py)|Medium|Array|
 |55|Jump Game | [Python](./55_Jump-Game.py)|Medium|Greedy Algorithm|
 |56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium| |
@@ -38,7 +38,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |59|Spiral Matrix II | [Python](./59_Spiral-Matrix-II.py)|Medium|Array|
 |61|Rotate List | [Python](./61_Rotate-List.py)|Medium|Linked List|
 |62|Unique Paths | [Python](./62_Unique-Paths.py)|Medium|Dynamic Programming|
-|63|Unique Paths II | [Python](./63_Unique-Paths-II.py)|Medium|Dynamic Programming|*|
+|63|Unique Paths II | [Python](./63_Unique-Paths-II.py)|Medium|Dynamic Programming|\*|
 |64|Minimum Paths Sum | [Python](./64_Minimum-Paths-Sum.py)|Medium|Dynamic Programming|
 |69|Sqrt() | [Python](./69_Sqrt.py)|Easy|Binary Search|
 |70|Climbing Stairs | [Python](./70_Climbing-Stairs.py)|Easy|Dynamic Programming|
@@ -83,9 +83,9 @@ Those questions with stars at the end were faced during one or more interviews b
 |230|Kth Smallest Element in a BST | [Python](./230_Kth-Smallest-Element-in-a-BST.py)|Medium|BST|
 |231|Power of Two | [Python](./231_Power-of-Two.py)|Easy|Maths|
 |235|Lowest Common Ancestor of a Binary Search Tree | [Python](./235_Lowest-Common-Ancestor-of-a-Binary-Search-Tree.py)|Easy|BST|
-|236|Lowest Common Ancestor of a Binary Tree | [Python](./236_Lowest-Common-Ancestor-of-a-Binary-Tree.py)|Medium|Tree|*|
+|236|Lowest Common Ancestor of a Binary Tree | [Python](./236_Lowest-Common-Ancestor-of-a-Binary-Tree.py)|Medium|Tree|\*|
 |237|Delete Node in a Linked List | [Python](./237_Delete-Node-in-a-Linked-List.py)|Easy|Linked List|
-|238|Product of Array Except Self | [Python](./238_Product-of-Array-Except-Self.py)|Medium|Array|*|
+|238|Product of Array Except Self | [Python](./238_Product-of-Array-Except-Self.py)|Medium|Array|\*|
 |260|Single Number III | [Python](./260_Single-Number-III.py)|Medium|Hash Table|
 |283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy||
 |287|Find the Duplicate Number | [Python](./287_Find-the-Duplicate-Number.py)|Medium|Hash Table|
