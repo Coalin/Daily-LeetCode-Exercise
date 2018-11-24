@@ -93,5 +93,6 @@ Those questions with stars at the end were faced during one or more interviews b
 |344|Reverse String |[Python](./344_Reverse-String.py)|Easy|String; Recursion|
 |345|Reverse Vowels of a String |[Python](./345_Reverse-Vowels-of-a-String.py)|Easy|String|
 |416|Partition Equal Subset Sum |[Python](./416_Partition-Equal-Subset-Sum.py)|Medium|Dynamic Programming; 0-1 Backpack Problem|
+|485|Max Consecutive Ones |[Python](./485_Max-Consecutive-Ones.py)|Easy|Array|
 |557|Reverse Words in a String III |[Python](./557_Reverse-Words-in-a-String-III.py)|Easy|String|
 |566|Reshape the Matrix | [Python](./566_Reshape-the-Matrix.py)|Easy| |
