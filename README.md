@@ -88,6 +88,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |237|Delete Node in a Linked List | [Python](./237_Delete-Node-in-a-Linked-List.py)|Easy|Linked List|
 |238|Product of Array Except Self | [Python](./238_Product-of-Array-Except-Self.py)|Medium|Array|\*|
 |260|Single Number III | [Python](./260_Single-Number-III.py)|Medium|Hash Table|
+|263|Ugly Number | [Python](./263_Ugly-Number.py)|Easy|Math|
 |283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy||
 |287|Find the Duplicate Number | [Python](./287_Find-the-Duplicate-Number.py)|Medium|Hash Table|
 |328|Odd Even Linked List | [Python](./328_Odd-Even-Linked-List.py)|Medium|Linked List|
