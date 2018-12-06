@@ -65,6 +65,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |142|Linked List Cycle II| [Python](./142_Linked-List-Cycle-II.py)|Medium|Linked List; Dual Pointer|
 |144|Binary Tree Preorder Traversal | [Python](./144_Binary-Tree-Preorder-Traversal.py)|Medium|Binary Tree; Stack|
 |148|Sort List| [Python](./148_Sort-List.py)|Medium|Linked List; Merge Sort|
+|149|Max Points on a Line| [Python](./149_Max-Points-on-a-Line.py)|Hard|Hash Table|
 |151|Reverse Words in a String| [Python](./151_Reverse-Words-in-a-String.py)|Medium|String|
 |155|Min Stack| [Python](./155_Min-Stack.py)|Easy|Stack|
 |160|Intersection of Two Linked Lists| [Python](./160_Intersection-of-Two-Linked-Lists.py)|Easy|Linked List|
