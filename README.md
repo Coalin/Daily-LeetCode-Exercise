@@ -54,6 +54,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |110|Balanced Binary Tree | [Python](./110_Balanced-Binary-Tree.py)|Easy|Binary Tree|
 |104|Maximum Depth of Binary Tree | [Python](./104_Maximum-Depth-of-Binary-Tree.py)|Easy|Tree; Recursion|
 |111|Minimum Depth of Binary Tree | [Python](./111_Minimum-Depth-of-Binary-Tree.py)|Easy|Tree; Recursion|
+|116|Populating Next Right Pointers in Each Node | [Python](./116_Populating-Next-Right-Pointers-in-Each-Node.py)|Medium|Binary Tree|
 |118|Pascal Triangle I | [Python](./118_Pascal-Triangle-I.py)|Easy|Array|
 |119|Pascal Triangle II | [Python](./119_Pascal-Triangle-II.py)|Easy|Array|
 |120|Triangle | [Python](./120_Triangle.py)|Medium|Dynamic Programming|
