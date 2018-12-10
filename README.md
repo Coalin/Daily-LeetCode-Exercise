@@ -62,6 +62,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |121|Best Time to Buy and Sell Stock I | [Python](./121_Best-Time-to-Buy-and-Sell-Stock-I.py)|Easy|Array|
 |122|Best Time to Buy and Sell Stock II| [Python](./122_Best-Time-to-Buy-and-Sell-Stock-II.py)|Easy|Array; Greedy Algorithm|
 |125|Valid Palindrome | [Python](./125_Valid-Palindrome.py)|Easy|String|
+|130|Surrounded Regions | [Python](./130_Surrounded-Regions.py)|Medium|DFS|
 |136|Single Number | [Python](./136_Single-Number.py)|Easy|Hash Table|
 |137|Single Number II| [Python](./137_Single-Number-II.py)|Medium|Hash Table|
 |141|Linked List Cycle| [Python](./141_Linked-List-Cycle.py)|Easy|Linked List; Dual Pointer|
