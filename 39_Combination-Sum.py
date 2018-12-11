@@ -1,21 +1,24 @@
-class Solution(object):
+class Solution:
+    def __init__(self):
+        self.res = []
+    
     def combinationSum(self, candidates, target):
         """
         :type candidates: List[int]
         :type target: int
         :rtype: List[List[int]]
         """
-        candidates = sorted(candidates)
-        def dfs(candidates, target, start, path, res):
-            if target == 0:
-                return res.append(path+[])
-                
-            for i in range(start, len(candidates)):
-                if target-candidates[i] >= 0:
-                    path.append(candidates[i])
-                    dfs(candidates, target-candidates[i], i, path, res)
-                    path.pop()
-                    
-        res = []
-        dfs(candidates, target, 0, [], res)
-        return res
+        candidates.sort()
+        self.dfs(candidates, target, 0, [])
+        return self.res
+    
+    def dfs(self, candidates, target, start, val_list):
+        if target == 0:
+            self.res.append(val_list[:])
+            return 
+        if target < 0:
+            return 
+        for i in range(start, len(candidates)):
+            val_list.append(candidates[i])
+            self.dfs(candidates, target-candidates[i], i, val_list)
+            val_list.pop()
