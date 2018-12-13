@@ -100,6 +100,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |238|Product of Array Except Self | [Python](./238_Product-of-Array-Except-Self.py)|Medium|Array|\*|
 |260|Single Number III | [Python](./260_Single-Number-III.py)|Medium|Hash Table|
 |263|Ugly Number | [Python](./263_Ugly-Number.py)|Easy|Math|
+|278|First Bad Version | [Python](./278_First-Bad-Version.py)|Easy|Binary Search|
 |283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy||
 |287|Find the Duplicate Number | [Python](./287_Find-the-Duplicate-Number.py)|Medium|Hash Table|
 |299|Bulls and Cows | [Python](./299_Bulls-and-Cows.py)|Medium|Hash Table|
