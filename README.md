@@ -52,6 +52,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |92|Reverse Linked List II | [Python](./92_Reverse-Linked-List-II.py)|Medium|Linked List|
 |94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Binary Tree; Stack|
 |98|Validate Binary Search Tree | [Python](./98_Validate-Binary-Search-Tree.py)|Medium|BST|
+|101|Symmetric Tree | [Python](./101_Symmetric-Tree.py)|Easy|Tree|
 |110|Balanced Binary Tree | [Python](./110_Balanced-Binary-Tree.py)|Easy|Binary Tree|
 |104|Maximum Depth of Binary Tree | [Python](./104_Maximum-Depth-of-Binary-Tree.py)|Easy|Tree; Recursion|
 |111|Minimum Depth of Binary Tree | [Python](./111_Minimum-Depth-of-Binary-Tree.py)|Easy|Tree; Recursion|
