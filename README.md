@@ -91,6 +91,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |215|Kth Largest Element in an Array | [Python](./215_Kth-Largest-Element-in-an-Array.py)|Medium|Heap|\*|
 |217|Contains Duplicate | [Python](./217_Contains-Duplicate.py)|Easy|Array; Hash Table|
 |222|Count Complete Tree Nodes | [Python](./222_Count-Complete-Tree-Nodes.py)|Medium|Tree|
+|228|Summary Ranges | [Python](./228_Summary-Ranges.py)|Medium|Array; Dual Pointer|
 |229|Majority Element II | [Python](./229_Majority-Element-II.py)|Medium|Hash Table|
 |230|Kth Smallest Element in a BST | [Python](./230_Kth-Smallest-Element-in-a-BST.py)|Medium|BST|
 |231|Power of Two | [Python](./231_Power-of-Two.py)|Easy|Maths|
