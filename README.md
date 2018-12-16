@@ -116,7 +116,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |413|Arithmetic Slices |[Python](./413_Arithmetic-Slices.py)|Medium|Dynamic Programming|
 |416|Partition Equal Subset Sum |[Python](./416_Partition-Equal-Subset-Sum.py)|Medium|Dynamic Programming; 0-1 Backpack Problem|
 |417|Pacific Atlantic Water Flow |[Python](./417_Pacific-Atlantic-Water-Flow.py)|Medium|DFS; BFS|
-|430|Flatten a Multilevel Doubly Linked List |[Python](./430_Flatten-a-Multilevel-Doubly-Linked-List.py)|Medium|DFS|
+|430|Flatten a Multilevel Doubly Linked List |[Python](./430_Flatten-a-Multilevel-Doubly-Linked-List.py)|Medium|DFS; Linked List|
 |448|Find All Numbers Disappeared in an Array |[Python](./448_Find-All-Numbers-Disappeared-in-an-Array.py)|Easy|Array|
 |451|Sort Characters By Frequency |[Python](./451_Sort-Characters-By-Frequency.py)|Medium|Hash Table; Stack|
 |482|License Key Formatting |[Python](./482_License-Key-Formatting.py)|Easy|String|
