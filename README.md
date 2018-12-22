@@ -67,6 +67,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |130|Surrounded Regions | [Python](./130_Surrounded-Regions.py)|Medium|DFS|
 |136|Single Number | [Python](./136_Single-Number.py)|Easy|Hash Table|
 |137|Single Number II| [Python](./137_Single-Number-II.py)|Medium|Hash Table|
+|139|Word Break| [Python](./139_Word-Break.py)|Medium|Dynamic Programming|
 |141|Linked List Cycle| [Python](./141_Linked-List-Cycle.py)|Easy|Linked List; Dual Pointer|
 |142|Linked List Cycle II| [Python](./142_Linked-List-Cycle-II.py)|Medium|Linked List; Dual Pointer|
 |144|Binary Tree Preorder Traversal | [Python](./144_Binary-Tree-Preorder-Traversal.py)|Medium|Binary Tree; Stack|
