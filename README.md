@@ -107,6 +107,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |278|First Bad Version | [Python](./278_First-Bad-Version.py)|Easy|Binary Search|
 |283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy||
 |287|Find the Duplicate Number | [Python](./287_Find-the-Duplicate-Number.py)|Medium|Hash Table|
+|290|Word Pattern | [Python](./290_Word-Pattern.py)|Easy|Hash Table|
 |299|Bulls and Cows | [Python](./299_Bulls-and-Cows.py)|Medium|Hash Table|
 |328|Odd Even Linked List | [Python](./328_Odd-Even-Linked-List.py)|Medium|Linked List|
 |337|House Robber III | [Python](./337_House-Robber-III.py)|Medium|Dynamic Programming; Binary Tree; DFS(Expected)|
