@@ -129,4 +129,5 @@ Those questions with stars at the end were faced during one or more interviews b
 |485|Max Consecutive Ones |[Python](./485_Max-Consecutive-Ones.py)|Easy|Array|
 |557|Reverse Words in a String III |[Python](./557_Reverse-Words-in-a-String-III.py)|Easy|String|
 |566|Reshape the Matrix |[Python](./566_Reshape-the-Matrix.py)|Easy|Array|
+|589|N-ary Tree Preorder Traversal |[Python](./589_N-ary-Tree-Preorder-Traversal.py)|Easy|Tree|
 |590|N-ary Tree Postorder Traversal |[Python](./590_N-ary-Tree-Postorder-Traversal.py)|Easy|Tree|
