@@ -128,4 +128,5 @@ Those questions with stars at the end were faced during one or more interviews b
 |482|License Key Formatting |[Python](./482_License-Key-Formatting.py)|Easy|String|
 |485|Max Consecutive Ones |[Python](./485_Max-Consecutive-Ones.py)|Easy|Array|
 |557|Reverse Words in a String III |[Python](./557_Reverse-Words-in-a-String-III.py)|Easy|String|
-|566|Reshape the Matrix | [Python](./566_Reshape-the-Matrix.py)|Easy| |
+|566|Reshape the Matrix |[Python](./566_Reshape-the-Matrix.py)|Easy|Array|
+|590|N-ary Tree Postorder Traversal |[Python](./590_N-ary-Tree-Postorder-Traversal.py)|Easy|Tree|
