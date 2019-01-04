@@ -127,6 +127,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |417|Pacific Atlantic Water Flow |[Python](./417_Pacific-Atlantic-Water-Flow.py)|Medium|DFS; BFS|
 |429|N-ary Tree Level Order Traversal |[Python](./429_N-ary-Tree-Level-Order-Traversal.py)|Easy|Tree|
 |430|Flatten a Multilevel Doubly Linked List |[Python](./430_Flatten-a-Multilevel-Doubly-Linked-List.py)|Medium|DFS; Linked List|
+|437|Path Sum III |[Python](./437_Path-Sum-III.py)|Easy|Tree|
 |448|Find All Numbers Disappeared in an Array |[Python](./448_Find-All-Numbers-Disappeared-in-an-Array.py)|Easy|Array|
 |451|Sort Characters By Frequency |[Python](./451_Sort-Characters-By-Frequency.py)|Medium|Hash Table; Stack|
 |455|Assign Cookies |[Python](./455_Assign-Cookies.py)|Easy|Greedy|
