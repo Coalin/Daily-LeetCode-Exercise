@@ -131,7 +131,8 @@ Those questions with stars at the end were faced during one or more interviews b
 |437|Path Sum III |[Python](./437_Path-Sum-III.py)|Easy|Tree|
 |448|Find All Numbers Disappeared in an Array |[Python](./448_Find-All-Numbers-Disappeared-in-an-Array.py)|Easy|Array|
 |451|Sort Characters By Frequency |[Python](./451_Sort-Characters-By-Frequency.py)|Medium|Hash Table; Stack|
-|455|Assign Cookies |[Python](./455_Assign-Cookies.py)|Easy|Greedy|
+|452|Minimum Number of Arrows to Burst Balloons |[Python](./452_Minimum-Number-of-Arrows-to-Burst-Balloons.py)|Medium|Greedy Algorithm|
+|455|Assign Cookies |[Python](./455_Assign-Cookies.py)|Easy|Greedy Algorithm|
 |461|Hamming Distance |[Python](./461_Hamming-Distance.py)|Easy|Bit|
 |482|License Key Formatting |[Python](./482_License-Key-Formatting.py)|Easy|String|
 |485|Max Consecutive Ones |[Python](./485_Max-Consecutive-Ones.py)|Easy|Array|
