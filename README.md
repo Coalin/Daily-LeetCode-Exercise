@@ -106,7 +106,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |236|Lowest Common Ancestor of a Binary Tree | [Python](./236_Lowest-Common-Ancestor-of-a-Binary-Tree.py)|Medium|Tree|\*|
 |237|Delete Node in a Linked List | [Python](./237_Delete-Node-in-a-Linked-List.py)|Easy|Linked List|
 |238|Product of Array Except Self | [Python](./238_Product-of-Array-Except-Self.py)|Medium|Array|\*|
-|240|Search a 2D Matrix II | [Python](./240_Search-a-2D-Matrix-II.py)|Medium|Binary Search(Expected)|
+|240|Search a 2D Matrix II | [Python](./240_Search-a-2D-Matrix-II.py)|Medium|Two Pointers; Binary Search(Expected)|
 |260|Single Number III | [Python](./260_Single-Number-III.py)|Medium|Hash Table|
 |263|Ugly Number | [Python](./263_Ugly-Number.py)|Easy|Math|
 |278|First Bad Version | [Python](./278_First-Bad-Version.py)|Easy|Binary Search|
