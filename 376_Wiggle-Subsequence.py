@@ -14,18 +14,12 @@
 
 #     def dfs(self, nums, index, path):
 #         for i in range(index, len(nums)):
-#             if len(path) == 0:
+#             if len(path) == 0 or (len(path) == 1 and path[0] != nums[i]) or (len(path) >=2 and (path[-1]-path[-2])*(nums[i]-path[-1]) < 0):
 #                 path += [nums[i]]
-#             elif len(path) == 1:
-#                 if path[0] != nums[i]:
-#                     path += [nums[i]]
-#             else:
-#                 if (path[-1]-path[-2])*(nums[i]-path[-1]) < 0:
-#                     path += [nums[i]]
-#             self.res = max(self.res, len(path))
-#             self.dfs(nums, i+1, path)
-#             if path:
-#                 path.pop()
+#                 self.dfs(nums, i+1, path)
+#                 self.res = max(self.res, len(path))
+#                 if path:
+#                     path.pop()
 
 # Method II: DP
 class Solution:
