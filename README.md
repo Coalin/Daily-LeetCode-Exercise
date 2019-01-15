@@ -113,6 +113,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy||
 |284|Peeking Iterator | [Python](./284_Peeking-Iterator.py)|Medium|Designing|
 |287|Find the Duplicate Number | [Python](./287_Find-the-Duplicate-Number.py)|Medium|Hash Table|
+|289|Game of Life | [Python](./289_Game-of-Life.py)|Medium|Array|
 |290|Word Pattern | [Python](./290_Word-Pattern.py)|Easy|Hash Table|
 |299|Bulls and Cows | [Python](./299_Bulls-and-Cows.py)|Medium|Hash Table|
 |300|Longest Increasing Subsequence | [Python](./300_Longest-Increasing-Subsequence.py)|Medium|Array; Dynamic Programming|
