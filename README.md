@@ -37,7 +37,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium| |
 |58|Length of Last Word | [Python](./58_Length-of-Last-Word.py)|Easy|String|
 |59|Spiral Matrix II | [Python](./59_Spiral-Matrix-II.py)|Medium|Array|
-|61|Rotate List | [Python](./61_Rotate-List.py)|Medium|Linked List|
+|61|Rotate List | [Python](./61_Rotate-List.py)|Medium|Linked List; Dual Pointer|
 |62|Unique Paths | [Python](./62_Unique-Paths.py)|Medium|Dynamic Programming|
 |63|Unique Paths II | [Python](./63_Unique-Paths-II.py)|Medium|Dynamic Programming|\*|
 |64|Minimum Paths Sum | [Python](./64_Minimum-Paths-Sum.py)|Medium|Dynamic Programming|
