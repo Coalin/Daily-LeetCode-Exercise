@@ -74,6 +74,48 @@ class Solution:
         return new_head.next
 
 # 22.25%; 76ms.
+
+# Method III: Two Pointers
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def rotateRight(self, head, k):
+        """
+        :type head: ListNode
+        :type k: int
+        :rtype: ListNode
+        """
+        if k == 0 or not head:
+            return head
+        
+        new_head = head
+        
+        count = 0
+        while head:
+            count += 1
+            head = head.next
+        k = k%count
+        
+
+        fast = new_head
+        slow = new_head
+        
+        for _ in range(k):
+            fast = fast.next
+        
+        while fast.next:
+            slow = slow.next
+            fast = fast.next
+            
+        fast.next = new_head
+        res = slow.next
+        slow.next = None    
+        
+        return res
     
 
             
