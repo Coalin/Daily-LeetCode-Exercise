@@ -157,3 +157,4 @@ Those questions with stars at the end were faced during one or more interviews b
 |590|N-ary Tree Postorder Traversal |[Python](./590_N-ary-Tree-Postorder-Traversal.py)|Easy|Tree|
 |637|Average of Levels in Binary Tree |[Python](./637_Average-of-Levels-in-Binary-Tree.py)|Easy|Tree|
 |670|Maximum Swap |[Python](./670_Maximum-Swap.py)|Medium|Array|
+|713|Subarray Product Less Than K |[Python](./713_Subarray-Product-Less-Than-K.py)|Medium|Array; Dual Pointers|
