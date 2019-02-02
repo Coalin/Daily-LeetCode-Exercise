@@ -122,6 +122,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |299|Bulls and Cows | [Python](./299_Bulls-and-Cows.py)|Medium|Hash Table|
 |300|Longest Increasing Subsequence | [Python](./300_Longest-Increasing-Subsequence.py)|Medium|Array; Dynamic Programming|
 |328|Odd Even Linked List | [Python](./328_Odd-Even-Linked-List.py)|Medium|Linked List|
+|334|Increasing Triplet Subsequence | [Python](./334_Increasing-Triplet-Subsequence.py)|Medium|Dynamic Programming(not expected)|
 |337|House Robber III | [Python](./337_House-Robber-III.py)|Medium|Dynamic Programming; Binary Tree; DFS(Expected)|
 |344|Reverse String |[Python](./344_Reverse-String.py)|Easy|String; Recursion|
 |345|Reverse Vowels of a String |[Python](./345_Reverse-Vowels-of-a-String.py)|Easy|String|
