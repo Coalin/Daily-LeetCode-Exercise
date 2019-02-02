@@ -1,7 +1,7 @@
 # Daily-LeetCode-Exercise [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md) 
 LeetCode solutions and thoughts in python under random sequence.</br>
 For daily practice.</br>
-Those questions with stars at the end were faced during one or more interviews by myself during 2018.</br> 
+Those questions with stars at the end were faced during one or more interviews by myself from autumn 2018 to spring 2019.</br> 
 
 | Index | Title | Solution | Difficulty | Keywords | Star |
 |---| ----- | -------- | ---------- | ---------- | -----|
