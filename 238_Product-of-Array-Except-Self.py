@@ -34,5 +34,26 @@ class Solution:
             right = res[index]
             res[index] = (left*right)
         return res
-            
+
+# Exercise III: Feb 13, 2019
+class Solution:
+    def productExceptSelf(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        if len(nums) < 2:
+            return nums
         
+        res = [1 for _ in range(len(nums))]
+        
+        for i in reversed(range(len(nums)-1)):
+            res[i] = res[i+1]*nums[i+1]
+        
+        left = nums[0]
+        for j in range(1, len(nums)):
+            res[j] = left*res[j]
+            left = left*nums[j]
+            
+        return res
+ 
