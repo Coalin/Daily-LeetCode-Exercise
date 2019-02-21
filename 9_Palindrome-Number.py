@@ -13,3 +13,9 @@ class Solution:
         return int(res) == x
         
         
+# Exercise II:
+class Solution:
+    def isPalindrome(self, x: 'int') -> 'bool':
+        return str(x) == str(x)[::-1]
+        
+        
