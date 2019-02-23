@@ -1,3 +1,5 @@
+# Exercise I:    
+# 54.72%; 56ms.
 class Solution:
     def longestCommonPrefix(self, strs):
         """
@@ -15,5 +17,29 @@ class Solution:
                     break
             res = res[:break_point]
         return res
-    
-# 54.72%; 56ms.
+
+
+# Exercise II:
+# Feb 23, 2019
+class Solution:
+    def longestCommonPrefix(self, strs: 'List[str]') -> 'str':
+        if not strs:
+            return ""
+        if len(strs) == 1:
+            return strs[0]
+        
+        pre = strs[0]
+        for i in range(1, len(strs)):
+            j = 0
+            while j <= min(len(pre), len(strs[i]))-1:
+                if pre[j] == strs[i][j]: 
+                    j += 1
+                else:
+                    break
+            pre = pre[:j][:]
+            
+        return pre
+            
+            
+        
+        
