@@ -50,6 +50,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |82|Remove Duplicates From Sorted Lists II| [Python](./82_Remove-Duplicates-From-Sorted-Lists-II.py)|Medium|Linked List|
 |83|Remove Duplicates From Sorted Lists| [Python](./83_Remove-Duplicates-From-Sorted-Lists.py)|Easy|Linked List|
 |88|Merge Sorted Array | [Python](./88_Merge-Sorted-Array.py)|Easy|Array; Dual Pointer|
+|89|Gray Code | [Python](./89_Gray-Code.py)|Medium||
 |92|Reverse Linked List II | [Python](./92_Reverse-Linked-List-II.py)|Medium|Linked List|
 |94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Binary Tree; Stack|
 |98|Validate Binary Search Tree | [Python](./98_Validate-Binary-Search-Tree.py)|Medium|BST|
