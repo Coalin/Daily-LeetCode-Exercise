@@ -13,3 +13,8 @@ class Solution(object):
         for key in dic:
             if dic[key] == 1:
                 return key
+            
+# Exercise II:
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        return sum(set(nums))*2-sum(nums)
