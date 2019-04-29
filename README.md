@@ -152,6 +152,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |482|License Key Formatting |[Python](./482_License-Key-Formatting.py)|Easy|String|
 |485|Max Consecutive Ones |[Python](./485_Max-Consecutive-Ones.py)|Easy|Array|
 |491|Increasing Subsequences |[Python](./491_Increasing-Subsequences.py)|Medium|DFS|
+|494|Target Sum |[Python](./494_Target-Sum.py)|Medium|DFS; Dynamic Programming|
 |495|Teemo Attacking |[Python](./495_Teemo-Attacking.py)|Medium|Array|
 |496|Next Greater Element I |[Python](./496_Next-Greater-Element-I.py)|Easy|Stack|
 |500|Keyboard Row |[Python](./500_Keyboard-Row.py)|Easy||
