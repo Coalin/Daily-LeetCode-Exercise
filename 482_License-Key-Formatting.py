@@ -1,3 +1,4 @@
+# Exercise I:
 class Solution:
     def licenseKeyFormatting(self, S, K):
         """
@@ -38,8 +39,32 @@ class Solution:
         else:
             return res
             
+ 
+# Exercise II:
+class Solution:
+    def licenseKeyFormatting(self, S: str, K: int) -> str:
+        if not S:
+            return S
+        
+        S_ = "".join(S.split('-'))
+        
+        if not S_:
+            return S_
+        
+        res = ''
+        for i in range(len(S_)%K):
+            res += S_[i].upper()
             
-            
+        for j in range(len(S_)%K, len(S_)):
+            if j%K == len(S_)%K:
+                res += '-'
+            res += S_[j].upper()
+        
+        if res:
+            if res[0] == '-':
+                return res[1:]
+
+        return res           
                 
             
         
