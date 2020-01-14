@@ -64,8 +64,28 @@ class Solution:
     def match(self, s1, s2):
         return (s1==')' and s2=='(') or (s1==']' and s2=='[') or (s1=='}' and s2=='{')
     
-            
-        
-            
-        
+# Exercise III:
+# Jan 14, 2020
+class Solution(object):
+    def isValid(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        stack = []
+        for ss in s:
+            if ss in ('(', '{', '['):
+                stack.append(ss)
+            elif ss in (')', '}', ']'):
+                if len(stack) == 0:
+                    return False
+                elif ((stack[-1] == '(' and ss == ')') or (stack[-1] == '[' and ss == ']') or (stack[-1] == '{' and ss == '}')):
+                    stack.pop()
+                    continue
+                else:
+                    return False
+        if stack:
+            return False 
+        else:
+            return True
         
