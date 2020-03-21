@@ -129,6 +129,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |344|Reverse String |[Python](./344_Reverse-String.py)|Easy|String; Recursion|
 |345|Reverse Vowels of a String |[Python](./345_Reverse-Vowels-of-a-String.py)|Easy|String|
 |347|Top K Frequent Elements |[Python](./347_Top-K-Frequent-Elements.py)|Medium|Hash Table|
+|365|Water and Jug Problem |[Python](./365_water-and-jug-problem.py)|Medium|Math；DFS|
 |376|Wiggle Subsequence |[Python](./376_Wiggle-Subsequence.py)|Medium|Dynamic Programming|
 |383|Ransom Note |[Python](./383_Ransom-Note.py)|Easy|String|
 |384|Top K Frequent Elements |[Python](./384_Shuffle-an-Array.py)|Medium|Designing|
