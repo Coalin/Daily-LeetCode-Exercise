@@ -42,6 +42,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |62|Unique Paths | [Python](./62_Unique-Paths.py)|Medium|Dynamic Programming|
 |63|Unique Paths II | [Python](./63_Unique-Paths-II.py)|Medium|Dynamic Programming|\*|
 |64|Minimum Paths Sum | [Python](./64_Minimum-Paths-Sum.py)|Medium|Dynamic Programming|
+|66|Plus One | [Python](./66_Plus-One.py)|Easy|Array|
 |69|Sqrt() | [Python](./69_Sqrt.py)|Easy|Binary Search|
 |70|Climbing Stairs | [Python](./70_Climbing-Stairs.py)|Easy|Dynamic Programming|
 |74|Search a 2D Matrix | [Python](./74_Search-a-2D-Matrix.py)|Medium|Binary Search|
