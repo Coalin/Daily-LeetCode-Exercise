@@ -171,5 +171,6 @@ Those questions with stars at the end were faced during one or more interviews b
 |637|Average of Levels in Binary Tree |[Python](./637_Average-of-Levels-in-Binary-Tree.py)|Easy|Tree|
 |670|Maximum Swap |[Python](./670_Maximum-Swap.py)|Medium|Array|
 |713|Subarray Product Less Than K |[Python](./713_Subarray-Product-Less-Than-K.py)|Medium|Array; Dual Pointers|
+|746|Min Cost Climbing Stairs |[Python](./746_Min-Cost-Climbing-Stairs.py)|Easy|Dydanmic Programming|
 |851|Loud and Rich |[Python](./851_Loud-and-Rich.py)|Medium|DFS|
 |LCP3|programmable Robot |[Python](./LCP3_Programmable-Robot.py)|Medium||
