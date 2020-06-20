@@ -13,3 +13,20 @@ class Solution(object):
             return True
         else:
             return False
+
+
+import re
+
+class Solution(object):
+    def isPalindrome(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        res_list = []
+
+        for word in s:
+            if re.match( r'[a-zA-Z0-9]', word, re.I):
+                res_list.append(word.lower())
+
+        return res_list == res_list[::-1]
