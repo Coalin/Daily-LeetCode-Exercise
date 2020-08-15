@@ -88,4 +88,38 @@ class Solution(object):
             return False 
         else:
             return True
-        
+
+# Exercise IV:
+# 15 Aug, 2020 
+class Solution(object):
+    def isValid(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        res = []
+        for char in s:
+            if char in ('(', '{', '['):
+                res.append(char)
+            if char == ')':
+                if res == []:
+                    return False 
+                else:
+                    if res.pop() != '(':
+                        return False
+            if char == '}':
+                if res == []:
+                    return False
+                else:
+                    if res.pop() != '{':
+                        return False 
+            if char == ']':
+                if res == []:
+                    return False 
+                else:
+                    if res.pop() != '[':
+                        return False 
+        if res != []:
+            return False 
+        else:
+            return True        
