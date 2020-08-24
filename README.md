@@ -154,6 +154,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |451|Sort Characters By Frequency |[Python](./451_Sort-Characters-By-Frequency.py)|Medium|Hash Table; Stack|
 |452|Minimum Number of Arrows to Burst Balloons |[Python](./452_Minimum-Number-of-Arrows-to-Burst-Balloons.py)|Medium|Greedy Algorithm|
 |455|Assign Cookies |[Python](./455_Assign-Cookies.py)|Easy|Greedy Algorithm|
+|459|Repeated Substring Pattern |[Python](./459_Repeated-Substring-Pattern.py)|Easy|String|
 |461|Hamming Distance |[Python](./461_Hamming-Distance.py)|Easy|Bit|
 |482|License Key Formatting |[Python](./482_License-Key-Formatting.py)|Easy|String|
 |485|Max Consecutive Ones |[Python](./485_Max-Consecutive-Ones.py)|Easy|Array|
