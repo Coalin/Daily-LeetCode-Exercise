@@ -47,7 +47,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |70|Climbing Stairs | [Python](./70_Climbing-Stairs.py)|Easy|Dynamic Programming|
 |74|Search a 2D Matrix | [Python](./74_Search-a-2D-Matrix.py)|Medium|Binary Search|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
-|78|Subsets | [Python](./78_Subsets.py)|Medium|Array|
+|78|Subsets | [Python](./78_Subsets.py)|Medium|Array; DFS|
 |79|Word Search | [Python](./79_Word-Search.py)|Medium|Array; DFS|
 |82|Remove Duplicates From Sorted Lists II| [Python](./82_Remove-Duplicates-From-Sorted-Lists-II.py)|Medium|Linked List|
 |83|Remove Duplicates From Sorted Lists| [Python](./83_Remove-Duplicates-From-Sorted-Lists.py)|Easy|Linked List|

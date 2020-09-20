@@ -23,3 +23,23 @@ class Solution:
 # 85.66%; 52ms.
 # 注意：list的复制，用copy.deepcopy().
 # https://blog.csdn.net/u010712012/article/details/79754132
+
+
+# Method II:
+class Solution:
+    def dfs(self, res, nums, cur, index):
+        if index >= len(nums):
+            res.append(cur.copy())
+            return 
+
+        cur.append(nums[index])
+        self.dfs(res, nums, cur, index+1)
+
+        cur.pop()
+        self.dfs(res, nums, cur, index+1)
+
+    
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        res = []
+        self.dfs(res, nums, cur = [], index = 0)
+        return res 
