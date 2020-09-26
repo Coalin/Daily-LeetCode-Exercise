@@ -65,6 +65,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |108|Convert Sorted Array to Binary Search Tree | [Python](./108_Convert-Sorted-Array-to-Binary-Search-Tree.py)|Easy|Tree; Recursion|
 |110|Balanced Binary Tree | [Python](./110_Balanced-Binary-Tree.py)|Easy|Binary Tree|
 |111|Minimum Depth of Binary Tree | [Python](./111_Minimum-Depth-of-Binary-Tree.py)|Easy|Tree; Recursion|
+|113|Path Sum II | [Python](./113_Path-Sum-II.py)|Medium|Binary Tree; DFS|
 |116|Populating Next Right Pointers in Each Node | [Python](./116_Populating-Next-Right-Pointers-in-Each-Node.py)|Medium|Binary Tree|
 |117|Populating Next Right Pointers in Each Node II | [Python](./117_Populating-Next-Right-Pointers-in-Each-Node-II.py)|Medium|Binary Tree|
 |118|Pascal Triangle I | [Python](./118_Pascal-Triangle-I.py)|Easy|Array|
