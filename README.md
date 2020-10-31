@@ -139,6 +139,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |347|Top K Frequent Elements |[Python](./347_Top-K-Frequent-Elements.py)|Medium|Hash Table|
 |365|Water and Jug Problem |[Python](./365_water-and-jug-problem.py)|Medium|Math；DFS|
 |376|Wiggle Subsequence |[Python](./376_Wiggle-Subsequence.py)|Medium|Dynamic Programming|
+|381|Insert Delete Getrandom o1 Duplicates Allowed |[Python](./381_Insert-Delete-Getrandom-o1-Duplicates-Allowed.py)|Hard|Design|
 |383|Ransom Note |[Python](./383_Ransom-Note.py)|Easy|String|
 |384|Top K Frequent Elements |[Python](./384_Shuffle-an-Array.py)|Medium|Designing|
 |387|First Unique Character in a String |[Python](./387_First-Unique-Character-in-a-String.py)|Easy|Hash Table|
