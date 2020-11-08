@@ -73,7 +73,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |119|Pascal Triangle II | [Python](./119_Pascal-Triangle-II.py)|Easy|Array|
 |120|Triangle | [Python](./120_Triangle.py)|Medium|Dynamic Programming|
 |121|Best Time to Buy and Sell Stock I | [Python](./121_Best-Time-to-Buy-and-Sell-Stock-I.py)|Easy|Array; Dynamic Programming|
-|122|Best Time to Buy and Sell Stock II| [Python](./122_Best-Time-to-Buy-and-Sell-Stock-II.py)|Easy|Array; Greedy Algorithm|
+|122|Best Time to Buy and Sell Stock II| [Python](./122_Best-Time-to-Buy-and-Sell-Stock-II.py)|Easy|Array; Dynamic Programming; Greedy Algorithm|
 |125|Valid Palindrome | [Python](./125_Valid-Palindrome.py)|Easy|String|
 |130|Surrounded Regions | [Python](./130_Surrounded-Regions.py)|Medium|DFS|
 |136|Single Number | [Python](./136_Single-Number.py)|Easy|Hash Table|
