@@ -28,6 +28,33 @@ class Solution(object):
         head.next = None
         return new_head
 
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def sortList(self, head: ListNode) -> ListNode:
+        if not head:
+            return None
+
+        vec = []
+        while head:
+            vec.append(head.val)
+            head = head.next 
+
+        sorted_vec = sorted(vec)
+        new_head = ListNode(val=0)
+        cur_num = new_head
+
+        for num in sorted_vec:
+            cur_num.next = ListNode(num)
+            cur_num = cur_num.next 
+
+        return new_head.next 
+        
+
 # method II: Merge Sort
 
 # Definition for singly-linked list.
@@ -80,6 +107,7 @@ class Solution:
         if l2:
             new_head.next = l2
         return stored_head.next
+
 
 # Exercise III:
 # Definition for singly-linked list.
