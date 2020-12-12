@@ -40,13 +40,24 @@ class Solution:
                     inc[i] = max(inc[i], dec[j]+1)
                 elif nums[i] < nums[j]:
                     dec[i] = max(dec[i], inc[j]+1)
-        
-        print(inc)
-        print(dec)
                     
         return max(inc[-1], dec[-1])
                     
-    
+
+# Method III:
+class Solution:
+    def wiggleMaxLength(self, nums: List[int]) -> int:
+        if not nums:
+            return 0
+
+        asc = 1 
+        desc = 1
+
+        for i in range(1, len(nums)):
+            if nums[i] > nums[i-1]:
+                asc = desc + 1
+            elif nums[i] < nums[i-1]:
+                desc = asc + 1
+        
+        return max(asc, desc)    
                 
-            
-            
