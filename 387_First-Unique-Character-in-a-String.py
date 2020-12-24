@@ -1,19 +1,15 @@
-class Solution(object):
-    def firstUniqChar(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        if not s:
-            return -1
-        res_dic = {}
-        for i in s:
-            if i in res_dic:
-                res_dic[i] += 1
+class Solution:
+    def firstUniqChar(self, s: str) -> int:
+        alpha = {}
+        for char in s:
+            if char in alpha:
+                alpha[char] += 1
             else:
-                res_dic[i] = 1
-        for j in range(len(s)):
-            if res_dic[s[j]] == 1:
-                return j
+                alpha[char] = 1
+        
+        for i in range(len(s)):
+            if alpha[s[i]] == 1:
+                return i
+        
         return -1
         
