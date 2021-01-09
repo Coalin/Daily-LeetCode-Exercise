@@ -183,6 +183,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |670|Maximum Swap |[Python](./670_Maximum-Swap.py)|Medium|Array|
 |713|Subarray Product Less Than K |[Python](./713_Subarray-Product-Less-Than-K.py)|Medium|Array; Dual Pointers|
 |746|Min Cost Climbing Stairs |[Python](./746_Min-Cost-Climbing-Stairs.py)|Easy|Dydanmic Programming|
+|830|Positions of Large Groups |[Python](./830_Positions-of-Large-Groups.py)|Easy|Array|
 |851|Loud and Rich |[Python](./851_Loud-and-Rich.py)|Medium|DFS|
 |1024|Video Stitching |[Python](./1024_Video-Stitching.py)|Medium|Dydanmic Programming|
 |LCP3|programmable Robot |[Python](./LCP3_Programmable-Robot.py)|Medium||
