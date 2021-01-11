@@ -29,4 +29,32 @@ class Solution:
                 final_res.append(str(i[0])+'->'+str(i[-1]))
                 
         return final_res
+
+
+class Solution:
+    def summaryRanges(self, nums: List[int]) -> List[str]:
+        if not nums:
+            return []
+
+        mid_res = []
+        res = []
+        cur_res = [str(nums[0])]
+
+        for i in range(1, len(nums)):
+            if nums[i] == nums[i-1]+1:
+                cur_res.append(str(nums[i]))
+            else:
+                mid_res.append(cur_res)
+                cur_res = [str(nums[i])]
+
+        mid_res.append(cur_res)
+        print(mid_res)
+
+        for item in mid_res:
+            if len(item) == 1:
+                res.append(item[0])
+            else:
+                res.append(str(item[0])+'->'+str(item[-1]))
+
+        return res 
         
