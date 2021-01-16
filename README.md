@@ -185,5 +185,6 @@ Those questions with stars at the end were faced during one or more interviews b
 |746|Min Cost Climbing Stairs |[Python](./746_Min-Cost-Climbing-Stairs.py)|Easy|Dydanmic Programming|
 |830|Positions of Large Groups |[Python](./830_Positions-of-Large-Groups.py)|Easy|Array|
 |851|Loud and Rich |[Python](./851_Loud-and-Rich.py)|Medium|DFS|
+|1018|Binary Prefix Divisible by 5 |[Python](./1018_Binary-Prefix-Divisible-by-5.py)|Easy|Array|
 |1024|Video Stitching |[Python](./1024_Video-Stitching.py)|Medium|Dydanmic Programming|
 |LCP3|programmable Robot |[Python](./LCP3_Programmable-Robot.py)|Medium||
