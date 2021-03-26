@@ -4,24 +4,24 @@
 #         self.val = x
 #         self.next = None
 
-class Solution(object):
-    def deleteDuplicates(self, head):
-        """
-        :type head: ListNode
-        :rtype: ListNode
-        """
-        exist = []
-        pre = new_head = ListNode(0)
-        new_head.next = head
+class Solution:
+    def deleteDuplicates(self, head: ListNode) -> ListNode:
+        if not head:
+            return 
+
+        first = ListNode(0)
+        before = ListNode(0)
+        first.next = head 
+        before.next = head
+
+        exists = []
+
         while head:
-            if head.val in exist:
-                pre.next = head.next
-                head = head.next
+            if head.val in exists:
+                before.next = head.next 
             else:
-                exist.append(head.val)
-                pre = head
-                head = head.next
-        return new_head.next
-                
-                
-            
+                before = before.next 
+                exists.append(head.val)
+            head = head.next 
+        
+        return first.next
