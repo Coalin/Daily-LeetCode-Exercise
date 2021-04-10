@@ -1,20 +1,11 @@
 class Solution:
-    def isUgly(self, num):
-        """
-        :type num: int
-        :rtype: bool
-        """
-        if num < 1:
+    def isUgly(self, n: int) -> bool:
+        if n == 0:
             return False
-        if num == 1:
-            return True
-        while num%2 == 0:
-            num = num/2
-        while num%3 == 0:
-            num = num/3
-        while num%5 == 0:
-            num = num/5
-        if num == 1:
-            return True
-        else:
-            return False
+        while n%5 == 0:
+            n = n/5
+        while n%3 == 0:
+            n = n/3
+        while n%2 == 0:
+            n = n/2
+        return n == 1
