@@ -186,6 +186,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |713|Subarray Product Less Than K |[Python](./713_Subarray-Product-Less-Than-K.py)|Medium|Array; Dual Pointers|
 |724|Find Pivot Index |[Python](./724_Find-Pivot-Index.py)|Easy|Array|
 |746|Min Cost Climbing Stairs |[Python](./746_Min-Cost-Climbing-Stairs.py)|Easy|Dydanmic Programming|
+|783|Minimum Distance Between BST Nodes |[Python](./783_Minimum-Distance-Between-BST-Nodes.py)|Easy|BST|
 |830|Positions of Large Groups |[Python](./830_Positions-of-Large-Groups.py)|Easy|Array|
 |851|Loud and Rich |[Python](./851_Loud-and-Rich.py)|Medium|DFS|
 |867|Transpose Matrix|[Python](./867_Transpose-Matrix.py)|Easy|Array|
