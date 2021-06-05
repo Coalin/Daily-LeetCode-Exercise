@@ -101,6 +101,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |199|Binary Tree Right Side View | [Python](./199_Binary-Tree-Right-Side-View.py)|Mediun|Tree; BFS|
 |200|Number of Islands | [Python](./200_Number-of-Islands.py)|Medium|DFS|
 |202|Happy Number | [Python](./202_Happy-Number.py)|Easy|Hash Table|
+|203|Remove Linked List Elements| [Python](./203_Remove-Linked-List-Elements.py)|Easy|Linked List|
 |205|Isomorphic Strings | [Python](./205_Isomorphic-Strings.py)|Easy|Hash Table|
 |206|Reverse Linked List | [Python](./206_Reverse-Linked-List.py)|Easy|Linked List|\*|
 |207|course-schedule | [Python](./207_course-schedule.py)|Medium|DFS|
