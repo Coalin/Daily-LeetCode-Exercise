@@ -26,6 +26,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |31|Next Permutation | [Python](./31_Next-Permutation.py)|Medium|String|
 |33|Search in Rotated Sorted Array | [Python](./33_Search-In-Rotated-Sorted-Array.py)|Medium|Binary Search|
 |35|Search Insert Position | [Python](./35_Search-Insert-Position.py)|Easy|Binary Search|
+|JZ38|Permutation | [Python](./JZ38_Permuatition.py)|Medium|Backtrack|
 |39|Combination Sum | [Python](./39_Combination-Sum.py)|Medium|Backtrack; DFS|
 |40|Combination Sum II | [Python](./40_Combination-Sum-II.py)|Medium|Backtrack; DFS|
 |42|Trapping Rain Water | [Python](./42_Trapping-Rain-Water.py)|Hard|Array;Dual Pointer(Expected);Stack(Expected)|
