@@ -197,3 +197,4 @@ Those questions with stars at the end were faced during one or more interviews b
 |1024|Video Stitching |[Python](./1024_Video-Stitching.py)|Medium|Dydanmic Programming|
 |1047|Remove all Adjacent Duplicates in String |[Python](./1047_Remove-all-Adjacent-Duplicates-in-String.py)|Easy|Stack|
 |LCP3|programmable Robot |[Python](./LCP3_Programmable-Robot.py)|Medium||
+|MS10.02|Group Anagrams Lcci |[Python](./MS10.02_Group-Anagrams-Lcci.py)|Medium|Hash Table|
