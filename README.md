@@ -196,5 +196,6 @@ Those questions with stars at the end were faced during one or more interviews b
 |1018|Binary Prefix Divisible by 5 |[Python](./1018_Binary-Prefix-Divisible-by-5.py)|Easy|Array|
 |1024|Video Stitching |[Python](./1024_Video-Stitching.py)|Medium|Dydanmic Programming|
 |1047|Remove all Adjacent Duplicates in String |[Python](./1047_Remove-all-Adjacent-Duplicates-in-String.py)|Easy|Stack|
+|1736|Latest Time By Replacing Hidden Digits |[Python](./1736_Latest-Time-By-Replacing-Hidden-Digits.py)|Easy|String|
 |LCP3|programmable Robot |[Python](./LCP3_Programmable-Robot.py)|Medium||
 |MS10.02|Group Anagrams Lcci |[Python](./MS10.02_Group-Anagrams-Lcci.py)|Medium|Hash Table|
