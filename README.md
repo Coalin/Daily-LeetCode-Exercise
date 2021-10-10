@@ -156,8 +156,10 @@ Those questions with stars at the end were faced during one or more interviews b
 |417|Pacific Atlantic Water Flow |[Python](./417_Pacific-Atlantic-Water-Flow.py)|Medium|DFS; BFS|
 |429|N-ary Tree Level Order Traversal |[Python](./429_N-ary-Tree-Level-Order-Traversal.py)|Easy|Tree|
 |430|Flatten a Multilevel Doubly Linked List |[Python](./430_Flatten-a-Multilevel-Doubly-Linked-List.py)|Medium|DFS; Linked List|
+|434|Number of Segments in a String |[Python](./434_Number-of-Segments-in-a-String.py)|Easy|String|
 |435|Non-overlapping Intervals |[Python](./435_Non-overlapping-Intervals.py)|Medium|Greedy Algorithm|
 |437|Path Sum III |[Python](./437_Path-Sum-III.py)|Easy|Tree|
+|441|Arranging Coins|[Python](./441_Arranging-Coins/.py)|Easy|Math; Binary Search|
 |447|Number of Boomerangs |[Python](./447_Number-of-Boomerangs.py)|Easy|Hash Table|
 |448|Find All Numbers Disappeared in an Array |[Python](./448_Find-All-Numbers-Disappeared-in-an-Array.py)|Easy|Array|
 |451|Sort Characters By Frequency |[Python](./451_Sort-Characters-By-Frequency.py)|Medium|Hash Table; Stack|
