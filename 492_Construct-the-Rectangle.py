@@ -17,3 +17,11 @@ class Solution:
                 return [area//w, w]
             else:
                 w -= 1
+
+
+# 20211023 Exercise 
+class Solution:
+    def constructRectangle(self, area: int) -> List[int]:
+        for i in range(int(sqrt(area)), 0, -1):
+            if area%i == 0:
+                return [area//i, i]
