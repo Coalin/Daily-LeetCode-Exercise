@@ -183,6 +183,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |576|Out of Boundary Paths |[Python](./576_Out-of-Boundary-Paths.py)|Medium|Dynamic Programming|
 |589|N-ary Tree Preorder Traversal |[Python](./589_N-ary-Tree-Preorder-Traversal.py)|Easy|Tree|
 |590|N-ary Tree Postorder Traversal |[Python](./590_N-ary-Tree-Postorder-Traversal.py)|Easy|Tree|
+|598|Range Addition ii |[Python](./598_Range-Addition-ii.py)|Easy|Array; Maths|
 |621|Task Scheduler|[Python](./621_Task-Schedule.py)|Medium|Array|
 |637|Average of Levels in Binary Tree |[Python](./637_Average-of-Levels-in-Binary-Tree.py)|Easy|Tree|
 |657|Robot Return to Origin |[Python](./657_Robot-Return-to-Origin.py)|Easy|String|
