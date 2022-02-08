@@ -205,6 +205,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |1078|Occurrences After Bigram |[Python](./1078_Occurrences-After-Bigram.py)|Easy|String|
 |1332|Remove Palindromic Subsequences |[Python](./1332_Remove-Palindromic-Subsequences.py)|Easy|String|
 |1736|Latest Time By Replacing Hidden Digits |[Python](./1736_Latest-Time-By-Replacing-Hidden-Digits.py)|Easy|String|
+|1748|Sum of Unique Elements |[Python](./1748_Sum-of-Unique-Elements.py)|Easy|Hash Table|
 |LCP3|programmable Robot |[Python](./LCP3_Programmable-Robot.py)|Medium||
 |MS10.02|Group Anagrams Lcci |[Python](./MS10.02_Group-Anagrams-Lcci.py)|Medium|Hash Table|
 |MS17.14|Group Anagrams Lcci |[Python](./MS17.14_Smallest-k-lcci.py)|Medium|Heap|
