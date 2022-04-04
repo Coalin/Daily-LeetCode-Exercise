@@ -177,6 +177,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |500|Keyboard Row |[Python](./500_Keyboard-Row.py)|Easy||
 |501|Find Mode in Binary Search Tree |[Python](./501_Find-Mode-in-Binary-Search-Tree.py)|Easy|Tree|
 |513|Find Bottom Left Tree Value |[Python](./513_Find-Bottom-Left-Tree-Value.py)|Medium|BFS|
+|537|Complex Number Multiplication |[Python](./537_Complex-Number-Multiplication.py)|Medium|String|
 |557|Reverse Words in a String III |[Python](./557_Reverse-Words-in-a-String-III.py)|Easy|String|
 |563|Binary Tree Tilt |[Python](./563_Binary-Tree-Tilt.py)|Easy|Tree|
 |566|Reshape the Matrix |[Python](./566_Reshape-the-Matrix.py)|Easy|Array|
@@ -193,6 +194,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |709|To Lower Case |[Python](./709_To-Lower-Case.py)|Easy|String|
 |713|Subarray Product Less Than K |[Python](./713_Subarray-Product-Less-Than-K.py)|Medium|Array; Dual Pointers|
 |724|Find Pivot Index |[Python](./724_Find-Pivot-Index.py)|Easy|Array|
+|739|Daily Temperatures |[Python](./739_Daily-Temperatures.py)|Medium|Array; Stack|
 |746|Min Cost Climbing Stairs |[Python](./746_Min-Cost-Climbing-Stairs.py)|Easy|Dydanmic Programming|
 |783|Minimum Distance Between BST Nodes |[Python](./783_Minimum-Distance-Between-BST-Nodes.py)|Easy|BST|
 |830|Positions of Large Groups |[Python](./830_Positions-of-Large-Groups.py)|Easy|Array|
@@ -205,6 +207,8 @@ Those questions with stars at the end were faced during one or more interviews b
 |1078|Occurrences After Bigram |[Python](./1078_Occurrences-After-Bigram.py)|Easy|String|
 |1332|Remove Palindromic Subsequences |[Python](./1332_Remove-Palindromic-Subsequences.py)|Easy|String|
 |1736|Latest Time By Replacing Hidden Digits |[Python](./1736_Latest-Time-By-Replacing-Hidden-Digits.py)|Easy|String|
+|1748|Sum of Unique Elements |[Python](./1748_Sum-of-Unique-Elements.py)|Easy|Hash Table|
+|1791|Find Center of Star Graph |[Python](./1791_Find-Center-of-Star-Graph.py)|Easy|Hash Table|
 |LCP3|programmable Robot |[Python](./LCP3_Programmable-Robot.py)|Medium||
 |MS10.02|Group Anagrams Lcci |[Python](./MS10.02_Group-Anagrams-Lcci.py)|Medium|Hash Table|
 |MS17.14|Group Anagrams Lcci |[Python](./MS17.14_Smallest-k-lcci.py)|Medium|Heap|
