@@ -194,6 +194,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |709|To Lower Case |[Python](./709_To-Lower-Case.py)|Easy|String|
 |713|Subarray Product Less Than K |[Python](./713_Subarray-Product-Less-Than-K.py)|Medium|Array; Dual Pointers|
 |724|Find Pivot Index |[Python](./724_Find-Pivot-Index.py)|Easy|Array|
+|739|Daily Temperatures |[Python](./739_Daily-Temperatures.py)|Medium|Array; Stack|
 |746|Min Cost Climbing Stairs |[Python](./746_Min-Cost-Climbing-Stairs.py)|Easy|Dydanmic Programming|
 |783|Minimum Distance Between BST Nodes |[Python](./783_Minimum-Distance-Between-BST-Nodes.py)|Easy|BST|
 |830|Positions of Large Groups |[Python](./830_Positions-of-Large-Groups.py)|Easy|Array|
