@@ -187,6 +187,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |598|Range Addition ii |[Python](./598_Range-Addition-ii.py)|Easy|Array; Maths|
 |621|Task Scheduler|[Python](./621_Task-Schedule.py)|Medium|Array|
 |637|Average of Levels in Binary Tree |[Python](./637_Average-of-Levels-in-Binary-Tree.py)|Easy|Tree|
+|647|Palindromic Substrings |[Python](./647_Palindromic-Substrings.py)|Medium|Dual Pointer|
 |657|Robot Return to Origin |[Python](./657_Robot-Return-to-Origin.py)|Easy|String|
 |670|Maximum Swap |[Python](./670_Maximum-Swap.py)|Medium|Array|
 |697|Degree of an Array |[Python](./697_Degree-of-an-Array.py)|Easy|Array|
