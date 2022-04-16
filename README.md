@@ -178,6 +178,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |501|Find Mode in Binary Search Tree |[Python](./501_Find-Mode-in-Binary-Search-Tree.py)|Easy|Tree|
 |513|Find Bottom Left Tree Value |[Python](./513_Find-Bottom-Left-Tree-Value.py)|Medium|BFS|
 |537|Complex Number Multiplication |[Python](./537_Complex-Number-Multiplication.py)|Medium|String|
+|543|Diameter of Binary Tree |[Python](./543_Diameter_of-Binary-Tree.py)|Easy|DFS|
 |557|Reverse Words in a String III |[Python](./557_Reverse-Words-in-a-String-III.py)|Easy|String|
 |563|Binary Tree Tilt |[Python](./563_Binary-Tree-Tilt.py)|Easy|Tree|
 |566|Reshape the Matrix |[Python](./566_Reshape-the-Matrix.py)|Easy|Array|
@@ -185,6 +186,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |589|N-ary Tree Preorder Traversal |[Python](./589_N-ary-Tree-Preorder-Traversal.py)|Easy|Tree|
 |590|N-ary Tree Postorder Traversal |[Python](./590_N-ary-Tree-Postorder-Traversal.py)|Easy|Tree|
 |598|Range Addition ii |[Python](./598_Range-Addition-ii.py)|Easy|Array; Maths|
+|617|Merge Two Binary Trees |[Python](./617_Merge-Two-Binary-Trees.py)|Easy|DFS|
 |621|Task Scheduler|[Python](./621_Task-Schedule.py)|Medium|Array|
 |637|Average of Levels in Binary Tree |[Python](./637_Average-of-Levels-in-Binary-Tree.py)|Easy|Tree|
 |647|Palindromic Substrings |[Python](./647_Palindromic-Substrings.py)|Medium|Dual Pointer|
