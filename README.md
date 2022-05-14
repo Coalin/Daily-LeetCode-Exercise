@@ -180,6 +180,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |537|Complex Number Multiplication |[Python](./537_Complex-Number-Multiplication.py)|Medium|String|
 |543|Diameter of Binary Tree |[Python](./543_Diameter_of-Binary-Tree.py)|Easy|DFS|
 |557|Reverse Words in a String III |[Python](./557_Reverse-Words-in-a-String-III.py)|Easy|String|
+|560|Subarray Sum Equals K |[Python](./560_Subarray-Sum-Equals-k.py)|Medium|Presum; Hash Table|
 |563|Binary Tree Tilt |[Python](./563_Binary-Tree-Tilt.py)|Easy|Tree|
 |566|Reshape the Matrix |[Python](./566_Reshape-the-Matrix.py)|Easy|Array|
 |576|Out of Boundary Paths |[Python](./576_Out-of-Boundary-Paths.py)|Medium|Dynamic Programming|
