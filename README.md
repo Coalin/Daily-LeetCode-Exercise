@@ -184,6 +184,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |563|Binary Tree Tilt |[Python](./563_Binary-Tree-Tilt.py)|Easy|Tree|
 |566|Reshape the Matrix |[Python](./566_Reshape-the-Matrix.py)|Easy|Array|
 |576|Out of Boundary Paths |[Python](./576_Out-of-Boundary-Paths.py)|Medium|Dynamic Programming|
+|581|Shortest Unsorted Continuous Subarray |[Python](./581_Shortest-Unsorted-Continuous-Subarray.py)|Medium|Dual Pointer|
 |589|N-ary Tree Preorder Traversal |[Python](./589_N-ary-Tree-Preorder-Traversal.py)|Easy|Tree|
 |590|N-ary Tree Postorder Traversal |[Python](./590_N-ary-Tree-Postorder-Traversal.py)|Easy|Tree|
 |598|Range Addition ii |[Python](./598_Range-Addition-ii.py)|Easy|Array; Maths|
