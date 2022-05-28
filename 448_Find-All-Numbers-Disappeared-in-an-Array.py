@@ -17,3 +17,20 @@ class Solution:
         return res
         
         
+class Solution:
+    def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
+        n = len(nums)
+        res = []
+        
+        my_hash_table = dict()
+        for num in nums:
+            if num in my_hash_table:
+                my_hash_table[num] += 1
+            else:
+                my_hash_table[num] = 1
+        
+        for k in range(1, n+1):
+            if k not in my_hash_table:
+                res.append(k)
+
+        return res
