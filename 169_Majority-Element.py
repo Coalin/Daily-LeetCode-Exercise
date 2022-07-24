@@ -14,3 +14,21 @@ class Solution(object):
                     return num
             else:
                 temp[num] = 1
+
+
+# 摩尔投票
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        maj = nums[0]
+        cnt = 0
+        
+        for i in range(len(nums)):
+            if maj == nums[i]:
+                cnt += 1
+            elif maj != nums[i]:
+                cnt -= 1 
+                if cnt == 0:
+                    maj = nums[i]
+                    cnt += 1
+
+        return maj

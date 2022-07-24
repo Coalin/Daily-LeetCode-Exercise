@@ -90,7 +90,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |155|Min Stack| [Python](./155_Min-Stack.py)|Easy|Stack|
 |160|Intersection of Two Linked Lists| [Python](./160_Intersection-of-Two-Linked-Lists.py)|Easy|Linked List|
 |167|Two Sum II | [Python](./167_Two-Sum-II.py)|Easy|Dual Pointer|
-|169|Majority Element | [Python](./169_Majority-Element.py)|Easy|Hash Table|
+|169|Majority Element | [Python](./169_Majority-Element.py)|Easy|Array|
 |171|Excel Sheet Column Number | [Python](./171_Excel-Sheet-Column-Number.py)|Easy|String|
 |173|Binary Search Tree Iterator | [Python](./173_Binary-Search-Tree-Iterator.py)|Medium|BST; Stack|
 |175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
