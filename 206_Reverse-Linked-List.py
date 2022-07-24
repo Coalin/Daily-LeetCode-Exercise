@@ -30,6 +30,7 @@ class Solution(object):
             cur.next = pre
             pre = cur
         return cur
+
         
 class Solution:
     def reverseList(self, head):
@@ -47,3 +48,30 @@ class Solution:
             post = head.next            
             head.next = pre
         return head
+
+
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def reverseList(self, head: ListNode) -> ListNode:
+        if not head:
+            return head 
+        if not head.next:
+            return head
+
+        pre_node = None
+        cur_node = head
+
+        while cur_node:
+            # 保存
+            tmp_node = cur_node.next
+            # 反转
+            cur_node.next = pre_node
+            # 迭代
+            pre_node = cur_node
+            cur_node = tmp_node
+            
+        return pre_node
