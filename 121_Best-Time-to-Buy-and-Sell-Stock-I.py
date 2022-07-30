@@ -15,7 +15,7 @@ class Solution(object):
             res = max(res, curres)
         return res
 
-# Exercise II:
+
 class Solution(object):
     def maxProfit(self, prices):
         """
@@ -34,7 +34,7 @@ class Solution(object):
         
         return final_res
 
-# Solution II: DP
+
 class Solution(object):
     def maxProfit(self, prices):
         """
@@ -53,3 +53,18 @@ class Solution(object):
             dp[i][1] = max(dp[i-1][1], -prices[i])
 
         return dp[-1][0]
+
+
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        has_stock = [0 for _ in range(len(prices))]
+        has_no_stock = [0 for _ in range(len(prices))]
+
+        has_stock[0] = -prices[0]
+        has_no_stock[0] = 0
+
+        for i in range(1, len(prices)):
+            has_stock[i] = max(has_stock[i-1], -prices[i])
+            has_no_stock[i] = max(has_no_stock[i-1], has_stock[i-1]+prices[i])
+
+        return has_no_stock[-1]
