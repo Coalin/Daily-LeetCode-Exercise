@@ -33,4 +33,32 @@ class Solution:
         if root.val == sum:
             return 1+self._pathSum(root.left, 0)+self._pathSum(root.right, 0)
         return self._pathSum(root.left, sum-root.val)+self._pathSum(root.right, sum-root.val)
+
+
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def __init__(self):
+        self.res = 0
+    
+    def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
+        if not root:
+            return 0 
+        self.localSum(root, targetSum)
+        self.pathSum(root.left, targetSum)
+        self.pathSum(root.right, targetSum)
+        return self.res
+
+    def localSum(self, root, Sum):
+        if not root:
+            return 
+        Sum -= root.val
+        if Sum == 0:
+            self.res += 1
+        self.localSum(root.left, Sum)
+        self.localSum(root.right, Sum)
         
