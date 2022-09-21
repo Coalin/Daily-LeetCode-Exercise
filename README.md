@@ -132,6 +132,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |287|Find the Duplicate Number | [Python](./287_Find-the-Duplicate-Number.py)|Medium|Hash Table|
 |289|Game of Life | [Python](./289_Game-of-Life.py)|Medium|Array|
 |290|Word Pattern | [Python](./290_Word-Pattern.py)|Easy|Hash Table|
+|292|Nim Game | [Python](./292_Nim_Game.py)|Easy|Maths|
 |299|Bulls and Cows | [Python](./299_Bulls-and-Cows.py)|Medium|Hash Table|
 |300|Longest Increasing Subsequence | [Python](./300_Longest-Increasing-Subsequence.py)|Medium|Array; Dynamic Programming|
 |309|Best Time to Buy and Sell Stock with Cooldown | [Python](./309_Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.py)|Medium|Array; Dynamic Programming|
