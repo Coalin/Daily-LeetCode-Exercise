@@ -10,6 +10,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |3|Length of Longest Subsrting | [Python](./3_Length-of-Longest-Substring.py)|Medium|Hash Table|
 |4|Median of Two Sorted Arrays | [Python](./4_Median-of-Two-Sorted-Arrays.py)|Hard|Binary Search(expected)|
 |5|Longest Palindromic Substring | [Python](./5_Longest-Palindromic-Substring.py)|Medium|String|
+|6|Zigzag Conversion | [Python](./6_Zigzag-Conversion.py)|Medium|String|
 |7|Reverse Integer | [Python](./7_Reverse-Integer.py)|Easy|String|
 |9|Palindrome Number | [Python](./9_Palindrome-Number.py)|Easy|String|
 |11|Container with Most Water | [Python](./11_Container-with-Most-Water.py)|Medium|Array; Dual Pointer|
