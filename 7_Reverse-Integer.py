@@ -59,3 +59,20 @@ class Solution:
 
         return 0
 
+
+# Exercise IV:
+class Solution:
+    def reverse(self, x: int) -> int:
+        res = 0 
+        flag = -1 if x < 0 else 1
+        x = abs(x)
+
+        while x>0:
+            tmp = x%10
+            res = res*10+tmp
+            x = x//10
+        
+        if res*flag > 2**31-1 or res*flag < -2**31:
+            return 0
+        
+        return res*flag
