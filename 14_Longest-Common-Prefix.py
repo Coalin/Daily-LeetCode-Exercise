@@ -41,5 +41,24 @@ class Solution:
         return pre
             
             
+# Exercise III:
+# Dec 24, 2022
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        res = strs[0]
+
+        for i in range(1, len(strs)):
+            res = self.lcp(res, strs[i])
+
+        return res
+
+    def lcp(self, str1, str2):
+        len_min = min(len(str1), len(str2))
+        idx = 0 
+        while idx < len_min:
+            if str1[idx] != str2[idx]:
+                break 
+            idx += 1
+        return str1[:idx]
         
         

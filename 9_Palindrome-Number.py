@@ -19,3 +19,13 @@ class Solution:
         return str(x) == str(x)[::-1]
         
         
+# Exercise III:
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        origin = x
+        revert_number = 0 
+        while x > 0:
+            revert_number = revert_number*10+x%10
+            x = x//10
+
+        return revert_number == origin
