@@ -63,3 +63,39 @@ class Solution(object):
                 else:
                     right -= 1
         return res_sum 
+
+
+# Exercise 20221217
+class Solution:
+    def threeSumClosest(self, nums: List[int], target: int) -> int:
+        nums = sorted(nums)
+        n =  len(nums)
+        res = []
+        print(nums)
+        best = 2**32-1
+
+        for first in range(n):
+            if first > 0 and nums[first] == nums[first-1]:
+                continue 
+
+            second = first+1
+            third = n-1
+
+            while second < third:
+                total = nums[first]+nums[second]+nums[third] 
+                if total == target: 
+                    return target
+                if abs(total-target) < abs(best-target):
+                    best = total 
+                if total > target:
+                    third_0 = third-1 
+                    while third_0-1 > second and nums[third_0-1] == nums[third_0]:
+                        third_0 -= 1
+                    third = third_0 
+                else:
+                    second_0 = second+1
+                    while second_0+1 < third and nums[second_0+1] == nums[second+0]:
+                        second_0 += 1
+                    second = second_0
+
+        return best
