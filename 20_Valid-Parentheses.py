@@ -123,3 +123,32 @@ class Solution(object):
             return False 
         else:
             return True        
+
+
+# Exercise V:
+# 31 Dec, 2022
+class Solution:
+    def isValid(self, s: str) -> bool:
+        stack = []
+
+        if len(s)%2 == 1:
+            return False
+
+        for char in s:
+            if char in ['(', '{', '[']:
+                stack.append(char)
+            elif char in [')', '}', ']']:
+                if len(stack) == 0:
+                    return False
+                left = stack.pop()
+                if not (left == '(' and char == ')'
+                    or left == '[' and char == ']'
+                    or left == '{' and char == '}'):
+                    return False
+            else:
+                return False 
+        
+        if len(stack) == 0:
+            return True
+        else:
+            return False

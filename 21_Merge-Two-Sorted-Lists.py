@@ -28,3 +28,32 @@ class Solution:
         return new_list.next
             
 # 66.35%; 64ms.  
+
+
+# Exercise II 
+# 31 Dec, 2022
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
+        start = ListNode(0)
+        res = start
+
+        while list1 is not None and list2 is not None:
+            if list1.val < list2.val:
+                start.next = list1
+                list1 = list1.next 
+            else:
+                start.next = list2
+                list2 = list2.next 
+            start = start.next 
+
+        if list1 is not None:
+            start.next = list1 
+        if list2 is not None:
+            start.next = list2 
+
+        return res.next
