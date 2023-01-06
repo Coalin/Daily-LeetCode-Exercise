@@ -115,6 +115,18 @@ class Solution:
         sum_all = left_sum + right_sum
         return sum_all
                           
-                          
+
+# Exercise IV
+# Jan 7, 2023
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        dp = [-2**32 for _ in range(len(nums))]
+        dp[0] = nums[0]
+
+        for i in range(1, len(nums)):
+            dp[i] = max(dp[i-1]+nums[i], nums[i])
+
+        return max(dp)
+                   
                 
         
