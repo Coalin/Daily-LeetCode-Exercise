@@ -43,7 +43,7 @@ class Solution(object):
                 res.extend([nums1[i], nums2[j]])
                 i += 1
                 j += 1
-        if i == len_1:
+        if i == len_1: 
             res.extend(nums2[j:])
         if j == len_2:
             res.extend(nums1[i:])
@@ -55,4 +55,35 @@ class Solution(object):
 # Method III:
 # Target time complexity: O(logn)
 # To be continued...
+
+# Exercise IV
+# Jan 7, 2023
+class Solution:
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        i = 0 
+        j = 0 
+        res = []
+        num_len = len(nums1)+len(nums2)
+        if num_len%2 == 0:
+            target_idx = num_len//2
+        else:
+            target_idx = (num_len+1)//2
+
+        while i < len(nums1) and j < len(nums2):
+            if nums1[i] < nums2[j]:
+                res.append(nums1[i])
+                i += 1
+            else:
+                res.append(nums2[j])
+                j += 1
+
+        if i < len(nums1):
+            res.extend(nums1[i:])
+        if j < len(nums2):
+            res.extend(nums2[j:])
+
+        if num_len%2 == 0:
+            return (res[target_idx-1]+res[target_idx])/2
+        else:
+            return res[(num_len+1)//2-1]
 
