@@ -44,3 +44,30 @@ class Solution:
             nums1[:n] = nums2[:n]
             
 # 90.22%; 48ms.
+
+
+# Exercise III:
+# Feb 1, 2023
+class Solution:
+    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
+        """
+        Do not return anything, modify nums1 in-place instead.
+        """
+        ind_1 = m-1
+        ind_2 = n-1
+        idx = m+n-1
+        
+        while ind_1 >= 0 and ind_2 >= 0:
+            if nums1[ind_1] < nums2[ind_2]:
+                nums1[idx] = nums2[ind_2] 
+                ind_2 -= 1
+            else:
+                nums1[idx] = nums1[ind_1]
+                ind_1 -= 1
+            idx -= 1
+
+        if ind_1 < 0:
+            while ind_2 >= 0:
+                nums1[idx] = nums2[ind_2] 
+                ind_2 -= 1
+                idx -= 1
