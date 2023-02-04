@@ -43,3 +43,20 @@ class Solution:
         res = []
         self.dfs(res, nums, cur = [], index = 0)
         return res 
+
+
+# Exercise III:
+# Feb 4, 2023
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
+        res = [[]]
+
+        for i in range(len(nums)):
+            cur = []
+            for item in res:
+                item_copy = copy.deepcopy(item)
+                item_copy.append(nums[i])
+                cur.append(item_copy)
+            res.extend(cur) 
+
+        return res
