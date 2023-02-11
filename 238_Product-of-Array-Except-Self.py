@@ -57,3 +57,25 @@ class Solution:
             
         return res
  
+
+# Exercise IV
+# Feb 8, 2023
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        left = [1 for _ in range(len(nums))]
+        right = [1 for _ in range(len(nums))]
+        answer = [1 for _ in range(len(nums))]
+
+        if len(nums) == 1:
+            return [1]
+
+        for i in range(1, len(nums)):
+            left[i] = nums[i-1]*left[i-1]
+
+        for j in reversed(range(len(nums)-1)):
+            right[j] = nums[j+1]*right[j+1]
+
+        for k in range(len(nums)):
+            answer[k] = left[k]*right[k]
+
+        return answer
