@@ -24,3 +24,23 @@ class Solution:
                 dp[i][1] = max(dp[i-1][1], dp[i-1][0]-prices[i])
 
         return dp[-1][0]
+
+
+# Exercise III:
+# Feb 23, 2023
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        dp = [[0 for _ in range(2)] for _ in range(len(prices))]
+
+        # without stock in hand
+        dp[0][0] = 0 
+        # with stock in hand
+        dp[0][1] = -prices[0]
+
+        for i in range(1, len(prices)):
+            # without stock in hand
+            dp[i][0] = max(dp[i-1][0], dp[i-1][1]+prices[i])
+            # with stock in hand
+            dp[i][1] = max(dp[i-1][1], dp[i-1][0]-prices[i])
+
+        return dp[-1][0]
