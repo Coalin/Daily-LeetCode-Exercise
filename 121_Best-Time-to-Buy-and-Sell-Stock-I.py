@@ -68,3 +68,17 @@ class Solution:
             has_no_stock[i] = max(has_no_stock[i-1], has_stock[i-1]+prices[i])
 
         return has_no_stock[-1]
+
+
+# Exercise  V
+# Feb 23, 2023
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        min_prices = prices[0]
+        max_profit = 0
+
+        for i in range(1, len(prices)):
+            min_prices = min(min_prices, prices[i-1])
+            max_profit = max(max_profit, prices[i]-min_prices)
+            
+        return max_profit
