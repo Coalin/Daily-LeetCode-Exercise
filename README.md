@@ -78,7 +78,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |125|Valid Palindrome | [Python](./125_Valid-Palindrome.py)|Easy|String|
 |130|Surrounded Regions | [Python](./130_Surrounded-Regions.py)|Medium|DFS|
 |131|Palindrome Partitioning | [Python](./131_Palindrome-Partitioning.py)|Medium|DFS; Dynamic Programming|
-|136|Single Number | [Python](./136_Single-Number.py)|Easy|Hash Table|
+|136|Single Number | [Python](./136_Single-Number.py)|Easy|XOR; Hash Table|
 |137|Single Number II| [Python](./137_Single-Number-II.py)|Medium|Hash Table|
 |139|Word Break| [Python](./139_Word-Break.py)|Medium|Dynamic Programming|
 |141|Linked List Cycle| [Python](./141_Linked-List-Cycle.py)|Easy|Linked List; Dual Pointer|
