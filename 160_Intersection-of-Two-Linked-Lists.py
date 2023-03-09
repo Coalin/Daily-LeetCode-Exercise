@@ -37,3 +37,42 @@ class Solution(object):
         else:
             return headA
         
+
+# Exercise II:
+# Mar 9, 2023
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution:
+    def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> Optional[ListNode]:
+        p_a = headA 
+        p_b = headB 
+        len_a = len_b = 0
+
+        while p_a:
+            len_a += 1 
+            p_a = p_a.next 
+
+        while p_b:
+            len_b += 1 
+            p_b = p_b.next 
+
+        if len_a > len_b:
+            for _ in range(len_a-len_b):
+                headA = headA.next 
+        elif len_a < len_b:
+            for _ in range(len_b-len_a):
+                headB = headB.next
+
+        while headA and headB:
+            if headA == headB:
+                return headA
+            else:
+                headA = headA.next 
+                headB = headB.next  
+
+        return None
+            
