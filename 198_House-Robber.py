@@ -19,3 +19,17 @@ class Solution(object):
         return dp[-1]
             
         
+# Exercise II
+# Mar 18, 2023
+class Solution:
+    def rob(self, nums: List[int]) -> int:
+        dp = [[0 for _ in range(2)] for _ in range(len(nums))]
+        # 不选
+        dp[0][0] = 0
+        # 选
+        dp[0][1] = nums[0]
+        for i in range(1, len(nums)):
+            dp[i][0] = max(dp[i-1][0], dp[i-1][1])
+            dp[i][1] = max(dp[i-1][0]+nums[i], dp[i-1][1])
+
+        return max(dp[-1][0], dp[-1][1])
