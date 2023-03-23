@@ -12,3 +12,20 @@ class Solution:
         return reach >= len(nums)-1
 
 # 62.44%; 72ms.
+
+
+# Exercise II:
+# Mar 23, 2023
+class Solution:
+    def canJump(self, nums: List[int]) -> bool:
+        if len(nums) <= 1:
+            return True
+        max_dest = nums[0]
+
+        for i in range(1, len(nums)):
+            if i <= max_dest:
+                max_dest = max(max_dest, i+nums[i])
+                if max_dest >= len(nums)-1:
+                    return True
+
+        return False
