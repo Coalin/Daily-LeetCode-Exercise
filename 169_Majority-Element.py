@@ -32,3 +32,21 @@ class Solution:
                     cnt += 1
 
         return maj
+
+
+# Exercise II:
+# Mar 30, 2023
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        my_dict = dict()
+
+        for num in nums:
+            if num in my_dict:
+                my_dict[num] += 1
+            else:
+                my_dict[num] = 1
+
+
+        for k in my_dict:
+            if my_dict[k] > len(nums)//2:
+                return k 

@@ -23,6 +23,7 @@ class Solution(object):
                 r = j
         return [l, r]
 
+
 class Solution(object):
     def twoSum(self, nums, target):
         """
@@ -35,3 +36,15 @@ class Solution(object):
             if target-num in num_dict:
                 return [index, num_dict[target-num]]
             num_dict[num] = index
+
+
+# Exercise II:
+# Mar 30, 2023
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        my_dict = dict()
+
+        for i in range(len(nums)):
+            if target-nums[i] in my_dict:
+                return [i, my_dict[target-nums[i]]]
+            my_dict[nums[i]] = i 
