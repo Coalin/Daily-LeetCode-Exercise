@@ -15,3 +15,22 @@ class Solution(object):
                 digits[i] = 0
 
         return [1]+[0]*len(digits)
+
+
+# Exercise II:
+# Mar 25, 2023
+class Solution:
+    def plusOne(self, digits: List[int]) -> List[int]:
+        new = (digits[-1]+1)%10
+        flag = (digits[-1]+1)//10
+        res = [new]
+
+        for i in reversed(range(len(digits)-1)):
+            new = (flag+digits[i])%10
+            flag = (flag+digits[i])//10
+            res.append(new)
+
+        if flag == 1:
+            res.append(1)
+
+        return res[::-1]

@@ -44,6 +44,42 @@ class Solution:
                     self.dfs(board, i, j + 1)
 
 
-    
-            
+# Exercise III:
+# Apr 3, 2023
+class Solution:
+    def dfs(self, board, x, y):
+        if x < 0 or y < 0 or x >= len(board) or y >= len(board[0]) or board[x][y] != 'O':
+            return 
+        
+        board[x][y] = '1'
+        
+        self.dfs(board, x-1, y)
+        self.dfs(board, x+1, y)
+        self.dfs(board, x, y-1)
+        self.dfs(board, x, y+1)
+
+    def solve(self, board: List[List[str]]) -> None:
+        """
+        Do not return anything, modify board in-place instead.
+        """
+
+        for j in range(len(board[0])):
+            if board[0][j] == 'O':
+                self.dfs(board, 0, j)
+            if board[-1][j] == 'O':
+                self.dfs(board, len(board)-1, j)    
+
+        for i in range(len(board)):
+            if board[i][0] == 'O':
+                self.dfs(board, i, 0)
+            if board[i][-1] == 'O':
+                self.dfs(board, i, len(board[0])-1) 
+
+        for i in range(len(board)):
+            for j in range(len(board[0])):
+                if board[i][j] == '1':
+                    board[i][j] = 'O'
+                else:
+                    board[i][j] = 'X'
+
         

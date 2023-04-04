@@ -30,3 +30,12 @@ class Solution(object):
                 res_list.append(word.lower())
 
         return res_list == res_list[::-1]
+
+
+# Exercise III:
+# Apr 5, 2023
+import re
+
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        return re.sub('[\W_]+', '', s.lower()) == re.sub('[\W_]+', '', s.lower())[::-1]
