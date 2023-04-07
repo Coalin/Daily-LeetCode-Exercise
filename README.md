@@ -127,6 +127,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |257|Binary Tree Paths | [Python](./257_Binary-Tree-Paths.py)|Easy|Tree; DFS|
 |260|Single Number III | [Python](./260_Single-Number-III.py)|Medium|Hash Table|
 |263|Ugly Number | [Python](./263_Ugly-Number.py)|Easy|Math|
+|268|Missing Number | [Python](./268_Missing-Number.py)|Easy|Bitwise Operation|
 |278|First Bad Version | [Python](./278_First-Bad-Version.py)|Easy|Binary Search|
 |283|Move Zeros | [Python](./283_Move-Zeros.py)|Easy||
 |284|Peeking Iterator | [Python](./284_Peeking-Iterator.py)|Medium|Designing|
