@@ -152,6 +152,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |384|Top K Frequent Elements |[Python](./384_Shuffle-an-Array.py)|Medium|Designing|
 |387|First Unique Character in a String |[Python](./387_First-Unique-Character-in-a-String.py)|Easy|Hash Table|
 |389|Find the Difference |[Python](./389_Find-the-Difference.py)|Easy|Hash Table|
+|392|Is Subsequence |[Python](./392_Is-Subsequence.py)|Easy|Dual Pointer|
 |395|Longest Substring with At Least K Repeating Characters |[Python](./395_Longest-Substring-with-At-Least-K-Repeating-Characters.py)|Medium|Divide and Conquer|
 |402|Remove k Digits |[Python](./402_Remove-k-Digits.py)|Medium|Array|
 |409|Longest Palindrome |[Python](./409_Longest-Palindrome.py)|Easy|Hash Table|
