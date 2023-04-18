@@ -217,6 +217,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |1047|Remove all Adjacent Duplicates in String |[Python](./1047_Remove-all-Adjacent-Duplicates-in-String.py)|Easy|Stack|
 |1078|Occurrences After Bigram |[Python](./1078_Occurrences-After-Bigram.py)|Easy|String|
 |1332|Remove Palindromic Subsequences |[Python](./1332_Remove-Palindromic-Subsequences.py)|Easy|String|
+|1679|Max Number of K Sum Pairs |[Python](./1679_Max-Number-of-K-Sum-Pairs.py)|Medium|Dual Pointer|
 |1736|Latest Time By Replacing Hidden Digits |[Python](./1736_Latest-Time-By-Replacing-Hidden-Digits.py)|Easy|String|
 |1748|Sum of Unique Elements |[Python](./1748_Sum-of-Unique-Elements.py)|Easy|Hash Table|
 |1791|Find Center of Star Graph |[Python](./1791_Find-Center-of-Star-Graph.py)|Easy|Hash Table|
