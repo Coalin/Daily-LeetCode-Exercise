@@ -31,3 +31,22 @@ class Solution:
             right_high = max(height[i+1:])
             res += max((min(left_high, right_high)-height[i]), 0)
         return res
+
+
+# Exercise III: 
+# Apr 18, 2023
+class Solution:
+    def maxArea(self, height: List[int]) -> int:
+        left = 0 
+        right = len(height)-1
+        area_max = (right-left)*min(height[left], height[right])
+
+        while left < right:
+            area_cur = (right-left)*min(height[left], height[right])
+            area_max = max(area_cur, area_max)
+            if height[left] < height[right]:
+                left += 1
+            else:
+                right -= 1
+
+        return area_max 
