@@ -213,6 +213,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |867|Transpose Matrix|[Python](./867_Transpose-Matrix.py)|Easy|Array|
 |890|Find and Replace Pattern|[Python](./890_Find-and-Replace-Pattern.py)|Medium|Hash Table|
 |993|Cousins in Binary Tree|[Python](./993_Cousins-in-Binary-Tree.py)|Easy|Tree; DFS|
+|1004|Max Consecutive Ones III |[Python](./1004_Max-Consecutive-Ones-III.py.py)|Medium|Array|
 |1018|Binary Prefix Divisible by 5 |[Python](./1018_Binary-Prefix-Divisible-by-5.py)|Easy|Array|
 |1024|Video Stitching |[Python](./1024_Video-Stitching.py)|Medium|Dydanmic Programming|
 |1047|Remove all Adjacent Duplicates in String |[Python](./1047_Remove-all-Adjacent-Duplicates-in-String.py)|Easy|Stack|
