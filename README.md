@@ -213,12 +213,14 @@ Those questions with stars at the end were faced during one or more interviews b
 |867|Transpose Matrix|[Python](./867_Transpose-Matrix.py)|Easy|Array|
 |890|Find and Replace Pattern|[Python](./890_Find-and-Replace-Pattern.py)|Medium|Hash Table|
 |993|Cousins in Binary Tree|[Python](./993_Cousins-in-Binary-Tree.py)|Easy|Tree; DFS|
+|1004|Max Consecutive Ones III |[Python](./1004_Max-Consecutive-Ones-III.py.py)|Medium|Array|
 |1018|Binary Prefix Divisible by 5 |[Python](./1018_Binary-Prefix-Divisible-by-5.py)|Easy|Array|
 |1024|Video Stitching |[Python](./1024_Video-Stitching.py)|Medium|Dydanmic Programming|
 |1047|Remove all Adjacent Duplicates in String |[Python](./1047_Remove-all-Adjacent-Duplicates-in-String.py)|Easy|Stack|
 |1078|Occurrences After Bigram |[Python](./1078_Occurrences-After-Bigram.py)|Easy|String|
 |1332|Remove Palindromic Subsequences |[Python](./1332_Remove-Palindromic-Subsequences.py)|Easy|String|
 |1456|Maximum Number of Vowels in a Substring of Given Length |[Python](./1456_Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length.py)|Medium|Array|
+|1493|Longest Subarray of 1s After Deleting One Element |[Python](./1493_Longest-Subarray-of-1s-After-Deleting-One-Element.py)|Medium|Array|
 |1679|Max Number of K Sum Pairs |[Python](./1679_Max-Number-of-K-Sum-Pairs.py)|Medium|Dual Pointer|
 |1736|Latest Time By Replacing Hidden Digits |[Python](./1736_Latest-Time-By-Replacing-Hidden-Digits.py)|Easy|String|
 |1748|Sum of Unique Elements |[Python](./1748_Sum-of-Unique-Elements.py)|Easy|Hash Table|
