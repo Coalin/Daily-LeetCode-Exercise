@@ -204,7 +204,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |700|Search in a Binary Search Tree |[Python](./700_Search-in-a-Binary-Search-Tree.py)|Easy|BST|
 |709|To Lower Case |[Python](./709_To-Lower-Case.py)|Easy|String|
 |713|Subarray Product Less Than K |[Python](./713_Subarray-Product-Less-Than-K.py)|Medium|Array; Dual Pointers|
-|724|Find Pivot Index |[Python](./724_Find-Pivot-Index.py)|Easy|Array|
+|724|Find Pivot Index |[Python](./724_Find-Pivot-Index.py)|Easy|Array; Prefix Sum|
 |739|Daily Temperatures |[Python](./739_Daily-Temperatures.py)|Medium|Array; Stack|
 |746|Min Cost Climbing Stairs |[Python](./746_Min-Cost-Climbing-Stairs.py)|Easy|Dydanmic Programming|
 |783|Minimum Distance Between BST Nodes |[Python](./783_Minimum-Distance-Between-BST-Nodes.py)|Easy|BST|
@@ -222,6 +222,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |1456|Maximum Number of Vowels in a Substring of Given Length |[Python](./1456_Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length.py)|Medium|Array|
 |1493|Longest Subarray of 1s After Deleting One Element |[Python](./1493_Longest-Subarray-of-1s-After-Deleting-One-Element.py)|Medium|Array|
 |1679|Max Number of K Sum Pairs |[Python](./1679_Max-Number-of-K-Sum-Pairs.py)|Medium|Dual Pointer|
+|1732|Find the Highest Altitude |[Python](./1732_Find-the-Highest-Altitude.py)|Easy|Array; Prefix Sum|
 |1736|Latest Time By Replacing Hidden Digits |[Python](./1736_Latest-Time-By-Replacing-Hidden-Digits.py)|Easy|String|
 |1748|Sum of Unique Elements |[Python](./1748_Sum-of-Unique-Elements.py)|Easy|Hash Table|
 |1791|Find Center of Star Graph |[Python](./1791_Find-Center-of-Star-Graph.py)|Easy|Hash Table|
