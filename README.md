@@ -218,14 +218,18 @@ Those questions with stars at the end were faced during one or more interviews b
 |1024|Video Stitching |[Python](./1024_Video-Stitching.py)|Medium|Dydanmic Programming|
 |1047|Remove all Adjacent Duplicates in String |[Python](./1047_Remove-all-Adjacent-Duplicates-in-String.py)|Easy|Stack|
 |1078|Occurrences After Bigram |[Python](./1078_Occurrences-After-Bigram.py)|Easy|String|
+|1207|Unique Number of Occurrences |[Python](./1207_Unique-Number-of-Occurrences.py)|Easy|Hash Table|
 |1332|Remove Palindromic Subsequences |[Python](./1332_Remove-Palindromic-Subsequences.py)|Easy|String|
 |1456|Maximum Number of Vowels in a Substring of Given Length |[Python](./1456_Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length.py)|Medium|Array|
 |1493|Longest Subarray of 1s After Deleting One Element |[Python](./1493_Longest-Subarray-of-1s-After-Deleting-One-Element.py)|Medium|Array|
 |1679|Max Number of K Sum Pairs |[Python](./1679_Max-Number-of-K-Sum-Pairs.py)|Medium|Dual Pointer|
+|1701|Greatest Common Divisor of Strings |[Python](./1701_Greatest-Common-Divisor-of-Strings.py)|Easy|String|
 |1732|Find the Highest Altitude |[Python](./1732_Find-the-Highest-Altitude.py)|Easy|Array; Prefix Sum|
 |1736|Latest Time By Replacing Hidden Digits |[Python](./1736_Latest-Time-By-Replacing-Hidden-Digits.py)|Easy|String|
 |1748|Sum of Unique Elements |[Python](./1748_Sum-of-Unique-Elements.py)|Easy|Hash Table|
+|1768|Merge Strings Alternately |[Python](./1768_Merge-Strings-Alternately.py)|Easy|String|
 |1791|Find Center of Star Graph |[Python](./1791_Find-Center-of-Star-Graph.py)|Easy|Hash Table|
+|2215|Find the Difference of Two Arrays |[Python](./2215_Find-the-Difference-of-Two-Arrays.py)|Easy|Hash Table|
 |LCP3|programmable Robot |[Python](./LCP3_Programmable-Robot.py)|Medium||
 |MS10.02|Group Anagrams Lcci |[Python](./MS10.02_Group-Anagrams-Lcci.py)|Medium|Hash Table|
 |MS17.14|Group Anagrams Lcci |[Python](./MS17.14_Smallest-k-lcci.py)|Medium|Heap|
