@@ -193,6 +193,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |589|N-ary Tree Preorder Traversal |[Python](./589_N-ary-Tree-Preorder-Traversal.py)|Easy|Tree|
 |590|N-ary Tree Postorder Traversal |[Python](./590_N-ary-Tree-Postorder-Traversal.py)|Easy|Tree|
 |598|Range Addition ii |[Python](./598_Range-Addition-ii.py)|Easy|Array; Maths|
+|605|Can Place Flowers |[Python](./605_Can-Place-Flowers.py)|Easy|Array|
 |617|Merge Two Binary Trees |[Python](./617_Merge-Two-Binary-Trees.py)|Easy|DFS|
 |621|Task Scheduler|[Python](./621_Task-Schedule.py)|Medium|Array|
 |637|Average of Levels in Binary Tree |[Python](./637_Average-of-Levels-in-Binary-Tree.py)|Easy|Tree|
@@ -220,6 +221,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |1078|Occurrences After Bigram |[Python](./1078_Occurrences-After-Bigram.py)|Easy|String|
 |1207|Unique Number of Occurrences |[Python](./1207_Unique-Number-of-Occurrences.py)|Easy|Hash Table|
 |1332|Remove Palindromic Subsequences |[Python](./1332_Remove-Palindromic-Subsequences.py)|Easy|String|
+|1431|Kids With the Greatest Number of Candies |[Python](./1431_Kids-With-the-Greatest-Number-of-Candies.py)|Medium|Array|
 |1456|Maximum Number of Vowels in a Substring of Given Length |[Python](./1456_Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length.py)|Medium|Array|
 |1493|Longest Subarray of 1s After Deleting One Element |[Python](./1493_Longest-Subarray-of-1s-After-Deleting-One-Element.py)|Medium|Array|
 |1679|Max Number of K Sum Pairs |[Python](./1679_Max-Number-of-K-Sum-Pairs.py)|Medium|Dual Pointer|
