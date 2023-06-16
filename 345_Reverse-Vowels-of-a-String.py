@@ -26,3 +26,11 @@ class Solution(object):
         res = re.sub("(?i)[aeiou]", lambda m: vowel.pop(), s)
         return res
     
+
+# Exercise III:
+# June 3, 2023
+class Solution:
+    def reverseVowels(self, s: str) -> str:
+        vowel = [v for v in s if v in 'aeiouAEIOU']
+        ans = [vowel.pop() if v in 'aeiouAEIOU' else v for v in s ]
+        return ''.join(ans)

@@ -39,5 +39,17 @@ class Solution(object):
         
         return res.strip() 
 
-    
+
+# Exercise III:
+# June 2, 2023 
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        s_list = s.split(' ')
         
+        res = ''
+        for word in reversed(s_list):
+            if word != '':
+                res += word
+                res += ' ' 
+
+        return res.strip()
