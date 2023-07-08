@@ -146,6 +146,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |345|Reverse Vowels of a String |[Python](./345_Reverse-Vowels-of-a-String.py)|Easy|String|
 |347|Top K Frequent Elements |[Python](./347_Top-K-Frequent-Elements.py)|Medium|Hash Table|
 |365|Water and Jug Problem |[Python](./365_water-and-jug-problem.py)|Medium|Math；DFS|
+|374|Guess Number Higher or Lower |[Python](./374_Guess-Number-Higher-or-Lower.py)|Easy|Binary Search|
 |376|Wiggle Subsequence |[Python](./376_Wiggle-Subsequence.py)|Medium|Dynamic Programming|
 |381|Insert Delete Getrandom o1 Duplicates Allowed |[Python](./381_Insert-Delete-Getrandom-o1-Duplicates-Allowed.py)|Hard|Design|
 |383|Ransom Note |[Python](./383_Ransom-Note.py)|Easy|String|
@@ -233,6 +234,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |1768|Merge Strings Alternately |[Python](./1768_Merge-Strings-Alternately.py)|Easy|String|
 |1791|Find Center of Star Graph |[Python](./1791_Find-Center-of-Star-Graph.py)|Easy|Hash Table|
 |2215|Find the Difference of Two Arrays |[Python](./2215_Find-the-Difference-of-Two-Arrays.py)|Easy|Hash Table|
+|2300|Successful Pairs of Spells and Potions |[Python](./2300_Successful-Pairs-of-Spells-and-Potions.py)|Medium|Binary Search|
 |LCP3|programmable Robot |[Python](./LCP3_Programmable-Robot.py)|Medium||
 |MS10.02|Group Anagrams Lcci |[Python](./MS10.02_Group-Anagrams-Lcci.py)|Medium|Hash Table|
 |MS17.14|Group Anagrams Lcci |[Python](./MS17.14_Smallest-k-lcci.py)|Medium|Heap|
