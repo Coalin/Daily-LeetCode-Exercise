@@ -214,6 +214,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |830|Positions of Large Groups |[Python](./830_Positions-of-Large-Groups.py)|Easy|Array|
 |851|Loud and Rich |[Python](./851_Loud-and-Rich.py)|Medium|DFS|
 |867|Transpose Matrix|[Python](./867_Transpose-Matrix.py)|Easy|Array|
+|872|Leaf Similar Trees|[Python](./872_Leaf-Similar-Trees.py)|Easy|Binary Tree|
 |890|Find and Replace Pattern|[Python](./890_Find-and-Replace-Pattern.py)|Medium|Hash Table|
 |993|Cousins in Binary Tree|[Python](./993_Cousins-in-Binary-Tree.py)|Easy|Tree; DFS|
 |1004|Max Consecutive Ones III |[Python](./1004_Max-Consecutive-Ones-III.py.py)|Medium|Array|
