@@ -90,6 +90,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |151|Reverse Words in a String| [Python](./151_Reverse-Words-in-a-String.py)|Medium|String|
 |155|Min Stack| [Python](./155_Min-Stack.py)|Easy|Stack|
 |160|Intersection of Two Linked Lists| [Python](./160_Intersection-of-Two-Linked-Lists.py)|Easy|Linked List|
+|162|Find Peak Element| [Python](./162_Find-Peak-Element.py)|Medium|Binary Search|
 |167|Two Sum II | [Python](./167_Two-Sum-II.py)|Easy|Dual Pointer|
 |169|Majority Element | [Python](./169_Majority-Element.py)|Easy|Array|
 |171|Excel Sheet Column Number | [Python](./171_Excel-Sheet-Column-Number.py)|Easy|String|
