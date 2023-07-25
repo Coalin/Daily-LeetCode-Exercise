@@ -235,6 +235,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |1748|Sum of Unique Elements |[Python](./1748_Sum-of-Unique-Elements.py)|Easy|Hash Table|
 |1768|Merge Strings Alternately |[Python](./1768_Merge-Strings-Alternately.py)|Easy|String|
 |1791|Find Center of Star Graph |[Python](./1791_Find-Center-of-Star-Graph.py)|Easy|Hash Table|
+|2095|Delete the Middle Node of A Linked List |[Python](./2095_Delete-the-Middle-Node-of-A-Linked-List.py)|Medium|Linked List|
 |2215|Find the Difference of Two Arrays |[Python](./2215_Find-the-Difference-of-Two-Arrays.py)|Easy|Hash Table|
 |2300|Successful Pairs of Spells and Potions |[Python](./2300_Successful-Pairs-of-Spells-and-Potions.py)|Medium|Binary Search|
 |LCP3|programmable Robot |[Python](./LCP3_Programmable-Robot.py)|Medium||
