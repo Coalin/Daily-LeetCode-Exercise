@@ -202,6 +202,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |637|Average of Levels in Binary Tree |[Python](./637_Average-of-Levels-in-Binary-Tree.py)|Easy|Tree|
 |643|Maximum Average Subarray I |[Python](./643_Maximum-Average-Subarray-I.py)|Easy|Array|
 |647|Palindromic Substrings |[Python](./647_Palindromic-Substrings.py)|Medium|Dual Pointer|
+|649|Dota2 Senate |[Python](./649_Dota2-Senate.py)|Medium|Queue|
 |657|Robot Return to Origin |[Python](./657_Robot-Return-to-Origin.py)|Easy|String|
 |670|Maximum Swap |[Python](./670_Maximum-Swap.py)|Medium|Array|
 |697|Degree of an Array |[Python](./697_Degree-of-an-Array.py)|Easy|Array|
@@ -217,6 +218,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |867|Transpose Matrix|[Python](./867_Transpose-Matrix.py)|Easy|Array|
 |872|Leaf Similar Trees|[Python](./872_Leaf-Similar-Trees.py)|Easy|Binary Tree|
 |890|Find and Replace Pattern|[Python](./890_Find-and-Replace-Pattern.py)|Medium|Hash Table|
+|933|Number of Recent Calls|[Python](./933_Number-of-Recent-Calls.py)|Easy|Queue|
 |993|Cousins in Binary Tree|[Python](./993_Cousins-in-Binary-Tree.py)|Easy|Tree; DFS|
 |1004|Max Consecutive Ones III |[Python](./1004_Max-Consecutive-Ones-III.py.py)|Medium|Array|
 |1018|Binary Prefix Divisible by 5 |[Python](./1018_Binary-Prefix-Divisible-by-5.py)|Easy|Array|
