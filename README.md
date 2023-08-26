@@ -90,6 +90,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |151|Reverse Words in a String| [Python](./151_Reverse-Words-in-a-String.py)|Medium|String|
 |155|Min Stack| [Python](./155_Min-Stack.py)|Easy|Stack|
 |160|Intersection of Two Linked Lists| [Python](./160_Intersection-of-Two-Linked-Lists.py)|Easy|Linked List|
+|162|Find Peak Element| [Python](./162_Find-Peak-Element.py)|Medium|Binary Search|
 |167|Two Sum II | [Python](./167_Two-Sum-II.py)|Easy|Dual Pointer|
 |169|Majority Element | [Python](./169_Majority-Element.py)|Easy|Array|
 |171|Excel Sheet Column Number | [Python](./171_Excel-Sheet-Column-Number.py)|Easy|String|
@@ -201,6 +202,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |637|Average of Levels in Binary Tree |[Python](./637_Average-of-Levels-in-Binary-Tree.py)|Easy|Tree|
 |643|Maximum Average Subarray I |[Python](./643_Maximum-Average-Subarray-I.py)|Easy|Array|
 |647|Palindromic Substrings |[Python](./647_Palindromic-Substrings.py)|Medium|Dual Pointer|
+|649|Dota2 Senate |[Python](./649_Dota2-Senate.py)|Medium|Queue|
 |657|Robot Return to Origin |[Python](./657_Robot-Return-to-Origin.py)|Easy|String|
 |670|Maximum Swap |[Python](./670_Maximum-Swap.py)|Medium|Array|
 |697|Degree of an Array |[Python](./697_Degree-of-an-Array.py)|Easy|Array|
@@ -214,7 +216,9 @@ Those questions with stars at the end were faced during one or more interviews b
 |830|Positions of Large Groups |[Python](./830_Positions-of-Large-Groups.py)|Easy|Array|
 |851|Loud and Rich |[Python](./851_Loud-and-Rich.py)|Medium|DFS|
 |867|Transpose Matrix|[Python](./867_Transpose-Matrix.py)|Easy|Array|
+|872|Leaf Similar Trees|[Python](./872_Leaf-Similar-Trees.py)|Easy|Binary Tree|
 |890|Find and Replace Pattern|[Python](./890_Find-and-Replace-Pattern.py)|Medium|Hash Table|
+|933|Number of Recent Calls|[Python](./933_Number-of-Recent-Calls.py)|Easy|Queue|
 |993|Cousins in Binary Tree|[Python](./993_Cousins-in-Binary-Tree.py)|Easy|Tree; DFS|
 |1004|Max Consecutive Ones III |[Python](./1004_Max-Consecutive-Ones-III.py.py)|Medium|Array|
 |1018|Binary Prefix Divisible by 5 |[Python](./1018_Binary-Prefix-Divisible-by-5.py)|Easy|Array|
@@ -224,6 +228,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |1207|Unique Number of Occurrences |[Python](./1207_Unique-Number-of-Occurrences.py)|Easy|Hash Table|
 |1332|Remove Palindromic Subsequences |[Python](./1332_Remove-Palindromic-Subsequences.py)|Easy|String|
 |1431|Kids With the Greatest Number of Candies |[Python](./1431_Kids-With-the-Greatest-Number-of-Candies.py)|Medium|Array|
+|1448|Count Good Nodes in Binary Tree |[Python](./1448_Count_Good_Nodes_in_Binary_Tree.py)|Medium|Binary Tree|
 |1456|Maximum Number of Vowels in a Substring of Given Length |[Python](./1456_Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length.py)|Medium|Array|
 |1493|Longest Subarray of 1s After Deleting One Element |[Python](./1493_Longest-Subarray-of-1s-After-Deleting-One-Element.py)|Medium|Array|
 |1679|Max Number of K Sum Pairs |[Python](./1679_Max-Number-of-K-Sum-Pairs.py)|Medium|Dual Pointer|
@@ -233,6 +238,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |1748|Sum of Unique Elements |[Python](./1748_Sum-of-Unique-Elements.py)|Easy|Hash Table|
 |1768|Merge Strings Alternately |[Python](./1768_Merge-Strings-Alternately.py)|Easy|String|
 |1791|Find Center of Star Graph |[Python](./1791_Find-Center-of-Star-Graph.py)|Easy|Hash Table|
+|2095|Delete the Middle Node of A Linked List |[Python](./2095_Delete-the-Middle-Node-of-A-Linked-List.py)|Medium|Linked List|
 |2215|Find the Difference of Two Arrays |[Python](./2215_Find-the-Difference-of-Two-Arrays.py)|Easy|Hash Table|
 |2300|Successful Pairs of Spells and Potions |[Python](./2300_Successful-Pairs-of-Spells-and-Potions.py)|Medium|Binary Search|
 |LCP3|programmable Robot |[Python](./LCP3_Programmable-Robot.py)|Medium||
