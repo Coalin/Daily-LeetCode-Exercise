@@ -228,6 +228,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |1207|Unique Number of Occurrences |[Python](./1207_Unique-Number-of-Occurrences.py)|Easy|Hash Table|
 |1332|Remove Palindromic Subsequences |[Python](./1332_Remove-Palindromic-Subsequences.py)|Easy|String|
 |1431|Kids With the Greatest Number of Candies |[Python](./1431_Kids-With-the-Greatest-Number-of-Candies.py)|Medium|Array|
+|1448|Count Good Nodes in Binary Tree |[Python](./1448_Count_Good_Nodes_in_Binary_Tree.py)|Medium|Binary Tree|
 |1456|Maximum Number of Vowels in a Substring of Given Length |[Python](./1456_Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length.py)|Medium|Array|
 |1493|Longest Subarray of 1s After Deleting One Element |[Python](./1493_Longest-Subarray-of-1s-After-Deleting-One-Element.py)|Medium|Array|
 |1679|Max Number of K Sum Pairs |[Python](./1679_Max-Number-of-K-Sum-Pairs.py)|Medium|Dual Pointer|
