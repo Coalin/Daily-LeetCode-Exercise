@@ -227,6 +227,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |1078|Occurrences After Bigram |[Python](./1078_Occurrences-After-Bigram.py)|Easy|String|
 |1207|Unique Number of Occurrences |[Python](./1207_Unique-Number-of-Occurrences.py)|Easy|Hash Table|
 |1332|Remove Palindromic Subsequences |[Python](./1332_Remove-Palindromic-Subsequences.py)|Easy|String|
+|1372|Longest Zigzag Path in a Binary Tree |[Python](./1372_Longest-Zigzag-Path-in-a-Binary-Tree.py)|Medium|Binary Tree; DFS|
 |1431|Kids With the Greatest Number of Candies |[Python](./1431_Kids-With-the-Greatest-Number-of-Candies.py)|Medium|Array|
 |1448|Count Good Nodes in Binary Tree |[Python](./1448_Count_Good_Nodes_in_Binary_Tree.py)|Medium|Binary Tree|
 |1456|Maximum Number of Vowels in a Substring of Given Length |[Python](./1456_Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length.py)|Medium|Array|
