@@ -187,6 +187,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |513|Find Bottom Left Tree Value |[Python](./513_Find-Bottom-Left-Tree-Value.py)|Medium|BFS|
 |537|Complex Number Multiplication |[Python](./537_Complex-Number-Multiplication.py)|Medium|String|
 |543|Diameter of Binary Tree |[Python](./543_Diameter_of-Binary-Tree.py)|Easy|DFS|
+|547|Number of Provinces |[Python](./547_Number-of-Provinces.py)|Medium|DFS|
 |557|Reverse Words in a String III |[Python](./557_Reverse-Words-in-a-String-III.py)|Easy|String|
 |560|Subarray Sum Equals K |[Python](./560_Subarray-Sum-Equals-k.py)|Medium|Presum; Hash Table|
 |563|Binary Tree Tilt |[Python](./563_Binary-Tree-Tilt.py)|Easy|Tree|
@@ -214,6 +215,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |746|Min Cost Climbing Stairs |[Python](./746_Min-Cost-Climbing-Stairs.py)|Easy|Dydanmic Programming|
 |783|Minimum Distance Between BST Nodes |[Python](./783_Minimum-Distance-Between-BST-Nodes.py)|Easy|BST|
 |830|Positions of Large Groups |[Python](./830_Positions-of-Large-Groups.py)|Easy|Array|
+|841|Keys and Rooms |[Python](./841_Keys-and-Rooms.py)|Medium|DFS|
 |851|Loud and Rich |[Python](./851_Loud-and-Rich.py)|Medium|DFS|
 |867|Transpose Matrix|[Python](./867_Transpose-Matrix.py)|Easy|Array|
 |872|Leaf Similar Trees|[Python](./872_Leaf-Similar-Trees.py)|Easy|Binary Tree|
