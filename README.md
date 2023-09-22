@@ -227,6 +227,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |1024|Video Stitching |[Python](./1024_Video-Stitching.py)|Medium|Dydanmic Programming|
 |1047|Remove all Adjacent Duplicates in String |[Python](./1047_Remove-all-Adjacent-Duplicates-in-String.py)|Easy|Stack|
 |1078|Occurrences After Bigram |[Python](./1078_Occurrences-After-Bigram.py)|Easy|String|
+|1137|N th Tribonacci Number |[Python](./1137_N-th-Tribonacci-Number.py)|Easy|Maths|
 |1207|Unique Number of Occurrences |[Python](./1207_Unique-Number-of-Occurrences.py)|Easy|Hash Table|
 |1332|Remove Palindromic Subsequences |[Python](./1332_Remove-Palindromic-Subsequences.py)|Easy|String|
 |1372|Longest Zigzag Path in a Binary Tree |[Python](./1372_Longest-Zigzag-Path-in-a-Binary-Tree.py)|Medium|Binary Tree; DFS|
