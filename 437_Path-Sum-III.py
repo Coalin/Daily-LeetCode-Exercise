@@ -62,3 +62,31 @@ class Solution:
         self.localSum(root.left, Sum)
         self.localSum(root.right, Sum)
         
+
+# Exercise III:
+# Sep 2, 2023
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
+        if not root:
+            return 0
+        res = self.pathSumRoot(root, targetSum)
+        res += self.pathSum(root.left, targetSum)
+        res += self.pathSum(root.right, targetSum)
+        return res
+
+    def pathSumRoot(self, root, curSum):
+        res = 0
+        if not root:
+            return 0
+        curSum -= root.val
+        if curSum == 0:
+            res += 1
+        res += self.pathSumRoot(root.left, curSum)
+        res += self.pathSumRoot(root.right, curSum)
+        return res
