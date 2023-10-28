@@ -248,6 +248,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |2300|Successful Pairs of Spells and Potions |[Python](./2300_Successful-Pairs-of-Spells-and-Potions.py)|Medium|Binary Search|
 |2390|Removing Stars From a String |[Python](./2390_Removing_Stars_From_a_String.py)|Medium|Stack|
 |2520|Count the Digits That Divide a Number |[Python](./2520_Count-the-Digits-that-Divide-a-Number.py)|Easy|Maths|
+|2558|Take Gifts From the Richest Pile |[Python](./2558_Take-Gifts-From-the-Richest-Pile.py)|Easy|Heap|
 |LCP3|programmable Robot |[Python](./LCP3_Programmable-Robot.py)|Medium||
 |MS10.02|Group Anagrams Lcci |[Python](./MS10.02_Group-Anagrams-Lcci.py)|Medium|Hash Table|
 |MS17.14|Group Anagrams Lcci |[Python](./MS17.14_Smallest-k-lcci.py)|Medium|Heap|
