@@ -23,6 +23,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |23|Merge K Sorted Lists | [Python](./23_Merge-K-Sorted-Lists.py)|Hard|Linked List|
 |24|Swap Nodes In Pairs | [Python](./24_Swap-Nodes-In-Pairs.py)|Medium|Linked List|
 |26|Remove Duplicates from Sorted Array | [Python](./26_Remove-Duplicates-from-Sorted-Array.py)|Easy|Dual Pointer|
+|26|Remove Element | [Python](./27_Remove-Element.py)|Easy|Dual Pointer|
 |28|Implement strStr() | [Python](./28_Implement-strStr.py)|Easy|String|
 |31|Next Permutation | [Python](./31_Next-Permutation.py)|Medium|String|
 |33|Search in Rotated Sorted Array | [Python](./33_Search-In-Rotated-Sorted-Array.py)|Medium|Binary Search|
