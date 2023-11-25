@@ -45,3 +45,19 @@ class Solution:
             right_high = max(height[i+1:])
             res += max((min(left_high, right_high)-height[i]), 0)
         return res
+
+
+# Exercise III: 
+# Nov 25, 2023
+class Solution:
+    def trap(self, height: List[int]) -> int:
+        res = 0
+        left_highest = height[0]
+        right_highest = height[-1]
+        
+        for i in range(1, len(height)-1):
+            left_highest = max(left_highest, height[i-1])
+            right_highest = max(height[i+1:])
+            res += max(min(left_highest, right_highest)-height[i], 0)
+
+        return res
