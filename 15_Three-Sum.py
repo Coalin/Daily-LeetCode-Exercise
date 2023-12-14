@@ -74,4 +74,29 @@ class Solution:
 
         return res        
         
+
+# Exercise III:
+# Dec 14, 2023
+class Solution:
+    def threeSum(self, nums: List[int]) -> List[List[int]]:
+        final_res = []
+        nums = sorted(nums)
+        for idx in range(len(nums)):
+            if idx > 0 and nums[idx] == nums[idx-1]:
+                continue
+            if nums[idx] > 0:
+                continue
+            residual_list = nums[:idx]+nums[idx+1:]
+            left = 0 
+            right = len(residual_list)-1
+            while left < right:
+                if residual_list[left]+residual_list[right] == -nums[idx]:
+                    if sorted([residual_list[left], residual_list[right], nums[idx]]) not in final_res:
+                        final_res.append(sorted([residual_list[left], residual_list[right], nums[idx]]))
+                    left += 1
+                elif residual_list[left]+residual_list[right] < -nums[idx]:
+                    left += 1
+                else:
+                    right -= 1
         
+        return final_res
