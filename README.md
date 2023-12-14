@@ -23,10 +23,12 @@ Those questions with stars at the end were faced during one or more interviews b
 |23|Merge K Sorted Lists | [Python](./23_Merge-K-Sorted-Lists.py)|Hard|Linked List|
 |24|Swap Nodes In Pairs | [Python](./24_Swap-Nodes-In-Pairs.py)|Medium|Linked List|
 |26|Remove Duplicates from Sorted Array | [Python](./26_Remove-Duplicates-from-Sorted-Array.py)|Easy|Dual Pointer|
+|26|Remove Element | [Python](./27_Remove-Element.py)|Easy|Dual Pointer|
 |28|Implement strStr() | [Python](./28_Implement-strStr.py)|Easy|String|
 |31|Next Permutation | [Python](./31_Next-Permutation.py)|Medium|String|
 |33|Search in Rotated Sorted Array | [Python](./33_Search-In-Rotated-Sorted-Array.py)|Medium|Binary Search|
 |35|Search Insert Position | [Python](./35_Search-Insert-Position.py)|Easy|Binary Search|
+|36|Valid Sudoku | [Python](./36_Valid-Sudoku.py)|Medium|Array|
 |39|Combination Sum | [Python](./39_Combination-Sum.py)|Medium|Backtrack; DFS|
 |40|Combination Sum II | [Python](./40_Combination-Sum-II.py)|Medium|Backtrack; DFS|
 |42|Trapping Rain Water | [Python](./42_Trapping-Rain-Water.py)|Hard|Array;Dual Pointer(Expected);Stack(Expected)|
@@ -228,6 +230,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |1047|Remove all Adjacent Duplicates in String |[Python](./1047_Remove-all-Adjacent-Duplicates-in-String.py)|Easy|Stack|
 |1078|Occurrences After Bigram |[Python](./1078_Occurrences-After-Bigram.py)|Easy|String|
 |1137|N th Tribonacci Number |[Python](./1137_N-th-Tribonacci-Number.py)|Easy|Maths|
+|1143|Longest Common Subsequence |[Python](./1143_Longest-Common-Subsequence.py)|Medium|Dydanmic Programming|
 |1207|Unique Number of Occurrences |[Python](./1207_Unique-Number-of-Occurrences.py)|Easy|Hash Table|
 |1332|Remove Palindromic Subsequences |[Python](./1332_Remove-Palindromic-Subsequences.py)|Easy|String|
 |1372|Longest Zigzag Path in a Binary Tree |[Python](./1372_Longest-Zigzag-Path-in-a-Binary-Tree.py)|Medium|Binary Tree; DFS|
@@ -246,6 +249,8 @@ Those questions with stars at the end were faced during one or more interviews b
 |2215|Find the Difference of Two Arrays |[Python](./2215_Find-the-Difference-of-Two-Arrays.py)|Easy|Hash Table|
 |2300|Successful Pairs of Spells and Potions |[Python](./2300_Successful-Pairs-of-Spells-and-Potions.py)|Medium|Binary Search|
 |2390|Removing Stars From a String |[Python](./2390_Removing_Stars_From_a_String.py)|Medium|Stack|
+|2520|Count the Digits That Divide a Number |[Python](./2520_Count-the-Digits-that-Divide-a-Number.py)|Easy|Maths|
+|2558|Take Gifts From the Richest Pile |[Python](./2558_Take-Gifts-From-the-Richest-Pile.py)|Easy|Heap|
 |LCP3|programmable Robot |[Python](./LCP3_Programmable-Robot.py)|Medium||
 |MS10.02|Group Anagrams Lcci |[Python](./MS10.02_Group-Anagrams-Lcci.py)|Medium|Hash Table|
 |MS17.14|Group Anagrams Lcci |[Python](./MS17.14_Smallest-k-lcci.py)|Medium|Heap|

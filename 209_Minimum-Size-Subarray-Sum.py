@@ -59,7 +59,23 @@ class Solution(object):
                 return True
         return False
         
+
+# Exercise III:
+# Dec 2, 2023
+class Solution:
+    def minSubArrayLen(self, target: int, nums: List[int]) -> int:
+        final_res_len = len(nums)+1
+        left = 0  
+        cur_sum = 0
+
+        for right in range(len(nums)):
+            cur_sum += nums[right]
+            while cur_sum >= target:
+                final_res_len = min(final_res_len, right-left+1)
+                cur_sum -= nums[left]
+                left += 1
+
+        if final_res_len <= len(nums):
+            return final_res_len
         
-            
-                    
-        
+        return 0          

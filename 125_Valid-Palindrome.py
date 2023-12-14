@@ -39,3 +39,23 @@ import re
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         return re.sub('[\W_]+', '', s.lower()) == re.sub('[\W_]+', '', s.lower())[::-1]
+
+
+# Exercise IV:
+# Dec 13, 2023
+import re
+
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        s = re.sub(r'[^A-Za-z0-9]', '', s.lower())
+        left = 0 
+        right = len(s)-1
+
+        while left < right:
+            if s[left] != s[right]:
+                return False
+            left += 1 
+            right -=1
+        
+        return True
+

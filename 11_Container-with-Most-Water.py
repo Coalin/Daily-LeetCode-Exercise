@@ -50,3 +50,21 @@ class Solution:
                 right -= 1
 
         return area_max 
+
+
+# Exercise IV:
+# Dec 14, 2023
+class Solution:
+    def maxArea(self, height: List[int]) -> int:
+        left = 0 
+        right = len(height)-1
+        res = (right-left)*min(height[left], height[right])
+
+        while left < right:
+            if height[left] < height[right]:
+                left += 1
+            else:
+                right -= 1
+            res = max(res, (right-left)*min(height[left], height[right]))
+
+        return res
