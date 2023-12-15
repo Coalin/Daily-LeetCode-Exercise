@@ -17,3 +17,10 @@ class Solution(object):
         return length
         
    # 注意会有形如“a "的测试用例。
+
+
+# Exercise II:
+# Dec 15, 2023
+class Solution:
+    def lengthOfLastWord(self, s: str) -> int:
+        return len(s.strip().split(' ')[-1])
