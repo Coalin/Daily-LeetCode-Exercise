@@ -62,3 +62,18 @@ class Solution:
         return str1[:idx]
         
         
+# Exercise IV:
+# Dec 15, 2023
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        res = strs[0]
+
+        for i in range(1, len(strs)):
+            j = 0 
+            while j < min(len(res), len(strs[i])):
+                if res[j] == strs[i][j]:
+                    j += 1
+                else:
+                    break
+            res = res[:j]
+        return res
