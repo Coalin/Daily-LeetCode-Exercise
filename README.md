@@ -35,6 +35,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |42|Trapping Rain Water | [Python](./42_Trapping-Rain-Water.py)|Hard|Array;Dual Pointer(Expected);Stack(Expected)|
 |46|Permutation | [Python](./46_Permutation.py)|Medium|Recursion|
 |47|Permutation II | [Python](./47_Permutation-II.py)|Medium|Recursion|
+|48|Rotate Image | [Python](./48_Rotate-Image.py)|Medium|Matrix|
 |50|Pow(x,n) | [Python](./50_Pow.py)|Medium|Binary Search; Recursion|
 |52|N Queens ii | [Python](./52_N-Queens-ii.py)|Hard|Backtrack|
 |53|Maximum Subarray | [Python](./53_Maximum-Subarray.py)|Easy|Dynamic Programming; Divide and Conquer|\*|
