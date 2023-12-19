@@ -35,6 +35,8 @@ Those questions with stars at the end were faced during one or more interviews b
 |42|Trapping Rain Water | [Python](./42_Trapping-Rain-Water.py)|Hard|Array;Dual Pointer(Expected);Stack(Expected)|
 |46|Permutation | [Python](./46_Permutation.py)|Medium|Recursion|
 |47|Permutation II | [Python](./47_Permutation-II.py)|Medium|Recursion|
+|48|Rotate Image | [Python](./48_Rotate-Image.py)|Medium|Matrix|
+|49|Group Anagrams | [Python](./49_Group-Anagrams.py)|Medium|Hash Table|
 |50|Pow(x,n) | [Python](./50_Pow.py)|Medium|Binary Search; Recursion|
 |52|N Queens ii | [Python](./52_N-Queens-ii.py)|Hard|Backtrack|
 |53|Maximum Subarray | [Python](./53_Maximum-Subarray.py)|Easy|Dynamic Programming; Divide and Conquer|\*|
@@ -50,6 +52,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |66|Plus One | [Python](./66_Plus-One.py)|Easy|Array|
 |69|Sqrt() | [Python](./69_Sqrt.py)|Easy|Binary Search|
 |70|Climbing Stairs | [Python](./70_Climbing-Stairs.py)|Easy|Dynamic Programming|
+|73|Set Matrix Zeroes | [Python](./73_Set-Matrix-Zeroes.py)|Medium|Matrix|
 |74|Search a 2D Matrix | [Python](./74_Search-a-2D-Matrix.py)|Medium|Binary Search|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
 |78|Subsets | [Python](./78_Subsets.py)|Medium|Array; DFS|
@@ -128,6 +131,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |237|Delete Node in a Linked List | [Python](./237_Delete-Node-in-a-Linked-List.py)|Easy|Linked List|
 |238|Product of Array Except Self | [Python](./238_Product-of-Array-Except-Self.py)|Medium|Array|\*|
 |240|Search a 2D Matrix II | [Python](./240_Search-a-2D-Matrix-II.py)|Medium|Two Pointers; Binary Search(Expected)|
+|242|Valid Anagram | [Python](./242_Valid-Anagram.py)|Easy|Hash Table|
 |257|Binary Tree Paths | [Python](./257_Binary-Tree-Paths.py)|Easy|Tree; DFS|
 |260|Single Number III | [Python](./260_Single-Number-III.py)|Medium|Hash Table|
 |263|Ugly Number | [Python](./263_Ugly-Number.py)|Easy|Math|

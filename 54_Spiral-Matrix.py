@@ -113,7 +113,57 @@ class Solution:
         return res
         
 
-                
-                
-            
-        
+# Exercise III:
+# Dec 17, 2023
+class Solution:
+    def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
+        res = []
+
+        m = len(matrix)
+        n = len(matrix[0])
+
+        row_begin = 0 
+        row_end = m-1 
+        col_begin = 0 
+        col_end = n-1
+
+        number = 0
+
+        while number < m*n:
+            for j in range(col_begin, col_end+1):
+                res.append(matrix[row_begin][j])
+                number += 1
+                if number >= m*n:
+                    break
+            if number >= m*n:
+                break
+            row_begin += 1
+
+            for i in range(row_begin, row_end+1):
+                res.append(matrix[i][col_end])
+                number += 1
+                if number >= m*n:
+                    break
+            if number >= m*n:
+                break
+            col_end -= 1
+
+            for p in reversed(range(col_begin, col_end+1)):
+                res.append(matrix[row_end][p])
+                number += 1
+                if number >= m*n:
+                    break
+            if number >= m*n:
+                break
+            row_end -= 1
+
+            for q in reversed(range(row_begin, row_end+1)):
+                res.append(matrix[q][col_begin])  
+                number += 1 
+                if number >= m*n:
+                    break
+            if number >= m*n:
+                break
+            col_begin += 1
+
+        return res

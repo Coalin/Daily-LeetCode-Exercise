@@ -30,5 +30,33 @@ class Solution:
             
         return res_s == res_t
         
+
+# Exercise II:
+# Dec 18, 2023
+class Solution:
+    def isIsomorphic(self, s: str, t: str) -> bool:
+        s_dict = {}
+        t_dict = {}
+
+        for i in range(len(s)):
+            if s[i] not in s_dict:
+                s_dict[s[i]] = [i]
+            else:
+                s_dict[s[i]].append(i)
+
+        for j in range(len(t)):
+            if t[j] not in t_dict:
+                t_dict[t[j]] = [j]
+            else:
+                t_dict[t[j]].append(j)
+
+        res_s = []
+        res_t = []
+
+        for m in s_dict:
+            res_s.append(s_dict[m])
         
-        
+        for n in t_dict:
+            res_t.append(t_dict[n])
+
+        return res_s == res_t      
