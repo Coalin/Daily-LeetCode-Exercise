@@ -42,7 +42,8 @@ Those questions with stars at the end were faced during one or more interviews b
 |53|Maximum Subarray | [Python](./53_Maximum-Subarray.py)|Easy|Dynamic Programming; Divide and Conquer|\*|
 |54|Spiral Matrix| [Python](./54_Spiral-Matrix.py)|Medium|Array|
 |55|Jump Game | [Python](./55_Jump-Game.py)|Medium|Greedy Algorithm|
-|56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium| |
+|56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium|Array|
+|57|Insert Intervals | [Python](./57_Insert-Intervals.py)|Medium|Array|
 |58|Length of Last Word | [Python](./58_Length-of-Last-Word.py)|Easy|String|
 |59|Spiral Matrix II | [Python](./59_Spiral-Matrix-II.py)|Medium|Array|
 |61|Rotate List | [Python](./61_Rotate-List.py)|Medium|Linked List; Dual Pointer|
