@@ -42,7 +42,8 @@ Those questions with stars at the end were faced during one or more interviews b
 |53|Maximum Subarray | [Python](./53_Maximum-Subarray.py)|Easy|Dynamic Programming; Divide and Conquer|\*|
 |54|Spiral Matrix| [Python](./54_Spiral-Matrix.py)|Medium|Array|
 |55|Jump Game | [Python](./55_Jump-Game.py)|Medium|Greedy Algorithm|
-|56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium| |
+|56|Merge Intervals | [Python](./56_Merge-Intervals.py)|Medium|Array|
+|57|Insert Intervals | [Python](./57_Insert-Intervals.py)|Medium|Array|
 |58|Length of Last Word | [Python](./58_Length-of-Last-Word.py)|Easy|String|
 |59|Spiral Matrix II | [Python](./59_Spiral-Matrix-II.py)|Medium|Array|
 |61|Rotate List | [Python](./61_Rotate-List.py)|Medium|Linked List; Dual Pointer|
@@ -52,6 +53,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |66|Plus One | [Python](./66_Plus-One.py)|Easy|Array|
 |69|Sqrt() | [Python](./69_Sqrt.py)|Easy|Binary Search|
 |70|Climbing Stairs | [Python](./70_Climbing-Stairs.py)|Easy|Dynamic Programming|
+|71|Simplify Path | [Python](./71_Simplify-Path.py)|Medium|Stack|
 |73|Set Matrix Zeroes | [Python](./73_Set-Matrix-Zeroes.py)|Medium|Matrix|
 |74|Search a 2D Matrix | [Python](./74_Search-a-2D-Matrix.py)|Medium|Binary Search|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
@@ -82,6 +84,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |121|Best Time to Buy and Sell Stock I | [Python](./121_Best-Time-to-Buy-and-Sell-Stock-I.py)|Easy|Array; Dynamic Programming|
 |122|Best Time to Buy and Sell Stock II| [Python](./122_Best-Time-to-Buy-and-Sell-Stock-II.py)|Easy|Array; Dynamic Programming; Greedy Algorithm|
 |125|Valid Palindrome | [Python](./125_Valid-Palindrome.py)|Easy|String|
+|128|Longest Consecutive Sequence | [Python](./128_Longest-Consecutive-Sequence.py)|Medium|Array|
 |130|Surrounded Regions | [Python](./130_Surrounded-Regions.py)|Medium|DFS|
 |131|Palindrome Partitioning | [Python](./131_Palindrome-Partitioning.py)|Medium|DFS; Dynamic Programming|
 |136|Single Number | [Python](./136_Single-Number.py)|Easy|XOR; Hash Table|
