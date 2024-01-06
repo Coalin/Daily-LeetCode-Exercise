@@ -124,6 +124,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |219|Contains Duplicate II | [Python](./219_Contains-Duplicate-II.py)|Easy|Array|
 |220|Contains Duplicate III | [Python](./220_Contains-Duplicate-III.py)|Medium|BST|
 |222|Count Complete Tree Nodes | [Python](./222_Count-Complete-Tree-Nodes.py)|Medium|Tree|
+|226|Invert Binary Tree | [Python](./226_Invert-Binary-Tree.py)|Easy|Tree|
 |228|Summary Ranges | [Python](./228_Summary-Ranges.py)|Medium|Array; Dual Pointer|
 |229|Majority Element II | [Python](./229_Majority-Element-II.py)|Medium|Hash Table|
 |230|Kth Smallest Element in a BST | [Python](./230_Kth-Smallest-Element-in-a-BST.py)|Medium|BST|

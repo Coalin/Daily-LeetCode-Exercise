@@ -25,3 +25,32 @@ class Solution(object):
 
 # 定义双指针Fast与Slow，Fast先走
 # 定义一个新的head
+
+
+# Exercise II:
+# Jan 6, 2024
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
+        start = ListNode(0)
+        start.next = head 
+        res = start
+        fast = head 
+        idx = 0
+        cnt = 0
+
+        while fast:
+            cnt += 1
+            fast = fast.next
+
+        while start:
+            if idx == cnt-n:
+                start.next = start.next.next  
+            start = start.next
+            idx += 1 
+
+        return res.next

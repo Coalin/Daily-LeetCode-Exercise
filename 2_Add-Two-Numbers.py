@@ -37,3 +37,47 @@ class Solution(object):
         res = temp.next
         del temp
         return res
+
+
+# Exercise II:
+# Dec 28, 2023
+# Definition for singly-linked list.
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+class Solution:
+    def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        cur_flag = 0 
+        left = l1
+        right = l2 
+        res_head = ListNode(0)
+        res = res_head
+
+        while left and right:
+            cur_num = (left.val+right.val+cur_flag)%10
+            cur_flag = (left.val+right.val+cur_flag)//10
+            res.next = ListNode(cur_num)
+            left = left.next
+            right = right.next
+            res = res.next
+
+        while left:
+            cur_num = (left.val+cur_flag)%10
+            cur_flag = (left.val+cur_flag)//10
+            res.next = ListNode(cur_num)
+            left = left.next
+            res = res.next
+
+        while right:
+            cur_num = (right.val+cur_flag)%10
+            cur_flag = (right.val+cur_flag)//10
+            res.next = ListNode(cur_num)
+            right = right.next
+            res = res.next
+
+        if cur_flag == 1:
+            res.next = ListNode(1)
+            res = res.next
+
+        return res_head.next
