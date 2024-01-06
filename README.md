@@ -104,8 +104,9 @@ Those questions with stars at the end were faced during one or more interviews b
 |169|Majority Element | [Python](./169_Majority-Element.py)|Easy|Array|
 |171|Excel Sheet Column Number | [Python](./171_Excel-Sheet-Column-Number.py)|Easy|String|
 |173|Binary Search Tree Iterator | [Python](./173_Binary-Search-Tree-Iterator.py)|Medium|BST; Stack|
-|175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
-|176|Second Highest Salary | [SQL](./176_Second-Highest-Salary.sql)|Easy|SQL|
+|175|Combine Two Tables | [Python](./175_Combine-Two-Tables.py)|Easy|SQL; Pandas|
+|176|Second Highest Salary | [Python](./176_Second-Highest-Salary.py)|Medium|SQL; Pandas|
+|176|Nth Highest Salary | [Python](./177_Nth-Highest-Salary.py)|Medium|SQL; Pandas|
 |179|Largest Number | [Python](./179_Largest-Number.py)|Medium|Sorting|
 |187|Repeated DNA Sequences | [Python](./187_Repeated-DNA-Sequences.py)|Medium|String; Hash Table|
 |189|Rotate Array | [Python](./189_Rotate-Array.py)|Easy|Array|
