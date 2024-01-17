@@ -197,6 +197,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |500|Keyboard Row |[Python](./500_Keyboard-Row.py)|Easy||
 |501|Find Mode in Binary Search Tree |[Python](./501_Find-Mode-in-Binary-Search-Tree.py)|Easy|Tree|
 |513|Find Bottom Left Tree Value |[Python](./513_Find-Bottom-Left-Tree-Value.py)|Medium|BFS|
+|530|Minimum Absolute Difference in BST |[Python](./530_Minimum-Absolute-Difference-in-Bst.py)|Medium|BFS|
 |537|Complex Number Multiplication |[Python](./537_Complex-Number-Multiplication.py)|Medium|String|
 |543|Diameter of Binary Tree |[Python](./543_Diameter_of-Binary-Tree.py)|Easy|DFS|
 |547|Number of Provinces |[Python](./547_Number-of-Provinces.py)|Medium|DFS|
