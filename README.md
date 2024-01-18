@@ -233,6 +233,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |867|Transpose Matrix|[Python](./867_Transpose-Matrix.py)|Easy|Array|
 |872|Leaf Similar Trees|[Python](./872_Leaf-Similar-Trees.py)|Easy|Binary Tree|
 |890|Find and Replace Pattern|[Python](./890_Find-and-Replace-Pattern.py)|Medium|Hash Table|
+|918|Maximum Sum Circular Subarray|[Python](./918_Maximum-Sum-Circular-Subarray.py)|Medium|Kadane|
 |933|Number of Recent Calls|[Python](./933_Number-of-Recent-Calls.py)|Easy|Queue|
 |993|Cousins in Binary Tree|[Python](./993_Cousins-in-Binary-Tree.py)|Easy|Tree; DFS|
 |1004|Max Consecutive Ones III |[Python](./1004_Max-Consecutive-Ones-III.py.py)|Medium|Array|
