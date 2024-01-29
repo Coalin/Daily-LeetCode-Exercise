@@ -105,6 +105,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |167|Two Sum II | [Python](./167_Two-Sum-II.py)|Easy|Dual Pointer|
 |169|Majority Element | [Python](./169_Majority-Element.py)|Easy|Array|
 |171|Excel Sheet Column Number | [Python](./171_Excel-Sheet-Column-Number.py)|Easy|String|
+|172|Factorial Trailing Zeroes | [Python](./172_Factorial-Trailing-Zeroes.py)|Medium|Maths|
 |173|Binary Search Tree Iterator | [Python](./173_Binary-Search-Tree-Iterator.py)|Medium|BST; Stack|
 |175|Combine Two Tables | [Python](./175_Combine-Two-Tables.py)|Easy|SQL; Pandas|
 |176|Second Highest Salary | [Python](./176_Second-Highest-Salary.py)|Medium|SQL; Pandas|
@@ -154,6 +155,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |300|Longest Increasing Subsequence | [Python](./300_Longest-Increasing-Subsequence.py)|Medium|Array; Dynamic Programming|
 |309|Best Time to Buy and Sell Stock with Cooldown | [Python](./309_Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.py)|Medium|Array; Dynamic Programming|
 |316|Remove Duplicate Letters | [Python](./316_Remove-Duplicate-Letters.py)|Medium|Stack; Hash Table|
+|322|Coin Change | [Python](./322_Coin-Change.py)|Medium|Dynamic Programming|
 |328|Odd Even Linked List | [Python](./328_Odd-Even-Linked-List.py)|Medium|Linked List|
 |334|Increasing Triplet Subsequence | [Python](./334_Increasing-Triplet-Subsequence.py)|Medium|Dynamic Programming(not expected)|
 |337|House Robber III | [Python](./337_House-Robber-III.py)|Medium|Dynamic Programming; Binary Tree; DFS(Expected)|
