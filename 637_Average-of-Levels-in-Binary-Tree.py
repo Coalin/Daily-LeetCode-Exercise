@@ -104,6 +104,30 @@ class Solution:
         return [sums[i]/cnt[i] for i in range(len(cnt))]
         
         
+# Exercise IV:
+# Feb 9, 2024
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
+        result = []
         
-        
-        
+        queue = [root]
+        while queue:
+            cur_sum = 0 
+            cur_cnt = 0 
+            for i in range(len(queue)):
+                cur_node = queue.pop(0)
+                cur_cnt += 1
+                cur_sum += cur_node.val 
+                if cur_node.left:
+                    queue.append(cur_node.left)
+                if cur_node.right:
+                    queue.append(cur_node.right)
+            result.append(round(cur_sum/cur_cnt, 5))
+
+        return result
