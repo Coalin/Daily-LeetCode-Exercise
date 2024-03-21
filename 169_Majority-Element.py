@@ -50,3 +50,21 @@ class Solution:
         for k in my_dict:
             if my_dict[k] > len(nums)//2:
                 return k 
+
+
+# Exercise III:
+# Mar 21, 2024
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        cnt = 0 
+        candidate = None 
+
+        for num in nums:
+            if cnt == 0:
+                candidate = num 
+            if candidate == num:
+                cnt += 1
+            else:
+                cnt -= 1
+
+        return candidate
