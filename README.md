@@ -92,6 +92,8 @@ Those questions with stars at the end were faced during one or more interviews b
 |128|Longest Consecutive Sequence | [Python](./128_Longest-Consecutive-Sequence.py)|Medium|Array|
 |130|Surrounded Regions | [Python](./130_Surrounded-Regions.py)|Medium|DFS|
 |131|Palindrome Partitioning | [Python](./131_Palindrome-Partitioning.py)|Medium|DFS; Dynamic Programming|
+|134|Gas Station | [Python](./134_Gas-Station.py)|Medium|Greedy|
+|135|Candy | [Python](./135_Candy.py)|Hard|Greedy|
 |136|Single Number | [Python](./136_Single-Number.py)|Easy|XOR; Hash Table|
 |137|Single Number II| [Python](./137_Single-Number-II.py)|Medium|Hash Table|
 |139|Word Break| [Python](./139_Word-Break.py)|Medium|Dynamic Programming|
