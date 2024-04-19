@@ -96,3 +96,33 @@ class Solution:
                 right = r-1
 
         return s[left:right+1]            
+
+
+# Exercise IV:
+# Apr 19, 2024
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        res = s[0]
+
+        for i in range(len(s)):
+            l, r = i, i
+            while l >= 0 and r <= len(s)-1 and s[l] == s[r]:
+                l -= 1 
+                r += 1
+            cur_res_1 = s[l+1:r]
+
+            m, n = i, i+1
+            while m >= 0 and n <= len(s)-1 and s[m] == s[n]:
+                m -= 1 
+                n += 1
+            cur_res_2 = s[m+1:n]
+            
+            if len(cur_res_1) >= len(cur_res_2):
+                cur_res = cur_res_1 
+            else:
+                cur_res = cur_res_2 
+            
+            if len(cur_res) >= len(res):
+                res = cur_res 
+
+        return res
