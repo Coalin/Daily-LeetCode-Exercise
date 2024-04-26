@@ -53,3 +53,17 @@ class Solution:
                 res += ' ' 
 
         return res.strip()
+
+
+# Exercise IV:
+# Apr 26, 2024
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        s_lst = s.split(' ')
+        res = ''
+
+        for i in reversed(range(len(s_lst))):
+            if s_lst[i]:
+                res += (s_lst[i]+' ')
+
+        return res.strip()
