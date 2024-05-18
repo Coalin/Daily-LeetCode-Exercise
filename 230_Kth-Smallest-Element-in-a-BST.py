@@ -44,3 +44,28 @@ class Solution:
         self.res.append(root.val)
         self.inorder(root.right)
 
+
+# Exercise III:
+# Jan 17, 2024
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
+        self.res = None
+        self.k = k 
+        self.inorder(root)
+        return self.res
+
+    def inorder(self, root):
+        if not root:
+            return 
+        self.inorder(root.left) 
+        self.k -= 1
+        if self.k == 0:
+            self.res = root.val 
+            return
+        self.inorder(root.right)

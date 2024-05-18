@@ -1,0 +1,11 @@
+# Exercise I:
+# Jan 29, 2024
+class Solution:
+    def trailingZeroes(self, n: int) -> int:
+        cnt = 0 
+
+        while n:
+            n = n // 5
+            cnt += n
+
+        return cnt

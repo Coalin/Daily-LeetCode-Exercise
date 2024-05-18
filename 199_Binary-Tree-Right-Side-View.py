@@ -36,5 +36,34 @@ class Solution:
         
         return final_res
             
-            
-        
+
+# Exercise II:
+# Feb 12, 2024
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        if not root:
+            return []
+
+        queue = [root]
+        res = []
+
+        while queue:
+            # 由于在循环中使用了 queue.pop(0)，这会导致 len(queue) 的值在循环过程中发生变化，从而导致判断条件不准确。
+            # 正确的做法是在进入循环之前获取当前队列的长度，并在循环中使用这个固定的长度值。
+            queue_len = len(queue)
+            for i in range(queue_len):
+                cur_node = queue.pop(0)
+                if cur_node.left:
+                    queue.append(cur_node.left)
+                if cur_node.right:
+                    queue.append(cur_node.right)
+                if i == queue_len - 1:
+                    res.append(cur_node.val)
+
+        return res 

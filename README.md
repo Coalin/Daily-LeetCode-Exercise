@@ -17,6 +17,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |14|Longest Common Prefix |[Python](./14_Longest-Common-Prefix.py)|Easy|String|
 |15|Three Sum | [Python](./15_Three-Sum.py)|Medium|Array; Dual Pointer|
 |16|3Sum Closest | [Python](./16_3Sum-Closest.py)|Medium|Array; Dual Pointer|
+|17|Letter Combinations of a Phone Number | [Python](./17_Letter-Combinations-of-a-Phone-Number.py)|Medium|Backtrack|
 |19|Remove Nth Node from End of List | [Python](./19_Remove-Nth-Node-From-End-Of-List.py)|Medium|Linked List; Dual Pointer|
 |20|Valid Parentheses | [Python](./20_Valid-Parentheses.py)|Easy|Stack|
 |21|Merge Two Sorted Lists | [Python](./21_Merge-Two-Sorted-Lists.py)|Easy|Linked List|
@@ -28,6 +29,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |30|Substring With Concatenation of All Words | [Python](./30_Substring_With_Concatenation_of_All_Words.py)|Hard|Sliding Window; Hash Table|
 |31|Next Permutation | [Python](./31_Next-Permutation.py)|Medium|String|
 |33|Search in Rotated Sorted Array | [Python](./33_Search-In-Rotated-Sorted-Array.py)|Medium|Binary Search|
+|34|Find First and Last Position of Element in Sorted Array | [Python](./34_Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)|Medium|Binary Search|
 |35|Search Insert Position | [Python](./35_Search-Insert-Position.py)|Easy|Binary Search|
 |36|Valid Sudoku | [Python](./36_Valid-Sudoku.py)|Medium|Array|
 |39|Combination Sum | [Python](./39_Combination-Sum.py)|Medium|Backtrack; DFS|
@@ -59,6 +61,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
 |78|Subsets | [Python](./78_Subsets.py)|Medium|Array; DFS|
 |79|Word Search | [Python](./79_Word-Search.py)|Medium|Array; DFS|
+|80|Remove Duplicates From Sorted Array II| [Python](./80_Remove-Duplicates-From-Sorted-Array-II.py)|Medium|Array; Dual Pointer|
 |82|Remove Duplicates From Sorted Lists II| [Python](./82_Remove-Duplicates-From-Sorted-Lists-II.py)|Medium|Linked List|
 |83|Remove Duplicates From Sorted Lists| [Python](./83_Remove-Duplicates-From-Sorted-Lists.py)|Easy|Linked List|
 |88|Merge Sorted Array | [Python](./88_Merge-Sorted-Array.py)|Easy|Array; Dual Pointer|
@@ -69,13 +72,16 @@ Those questions with stars at the end were faced during one or more interviews b
 |100|Same Tree | [Python](./100_Same-Tree.py)|Easy|Tree|
 |101|Symmetric Tree | [Python](./101_Symmetric-Tree.py)|Easy|Tree|
 |102|Binary Tree Level Order Traversal | [Python](./102_Binary-Tree-Level-Order-Traversal.py)|Medium|Tree|
+|103|Binary Tree Zigzag Level Order Traversal | [Python](./103_Binary-Tree-Zigzag-Level-Order-Traversal.py)|Medium|Tree; DFS|
 |104|Maximum Depth of Binary Tree | [Python](./104_Maximum-Depth-of-Binary-Tree.py)|Easy|Tree; Recursion|
 |105|Construct Binary Tree from Preorder and Inorder Traversal | [Python](./105_Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.py)|Medium|Tree; Recursion|
 |106|Construct Binary Tree from Inorder and Postorder Traversal | [Python](./106_Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal.py)|Medium|Tree; Recursion|
 |108|Convert Sorted Array to Binary Search Tree | [Python](./108_Convert-Sorted-Array-to-Binary-Search-Tree.py)|Easy|Tree; Recursion|
 |110|Balanced Binary Tree | [Python](./110_Balanced-Binary-Tree.py)|Easy|Binary Tree|
 |111|Minimum Depth of Binary Tree | [Python](./111_Minimum-Depth-of-Binary-Tree.py)|Easy|Tree; Recursion|
+|112|Path Sum | [Python](./112_Path-Sum.py)|Easy|DFS|
 |113|Path Sum II | [Python](./113_Path-Sum-II.py)|Medium|Binary Tree; DFS|
+|114|Flatten Binary Tree to Linked List | [Python](./114_Flatten-Binary-Tree-to-Linked-List.py)|Medium|Binary Tree|
 |116|Populating Next Right Pointers in Each Node | [Python](./116_Populating-Next-Right-Pointers-in-Each-Node.py)|Medium|Binary Tree|
 |117|Populating Next Right Pointers in Each Node II | [Python](./117_Populating-Next-Right-Pointers-in-Each-Node-II.py)|Medium|Binary Tree|
 |118|Pascal Triangle I | [Python](./118_Pascal-Triangle-I.py)|Easy|Array|
@@ -83,10 +89,14 @@ Those questions with stars at the end were faced during one or more interviews b
 |120|Triangle | [Python](./120_Triangle.py)|Medium|Dynamic Programming|
 |121|Best Time to Buy and Sell Stock I | [Python](./121_Best-Time-to-Buy-and-Sell-Stock-I.py)|Easy|Array; Dynamic Programming|
 |122|Best Time to Buy and Sell Stock II| [Python](./122_Best-Time-to-Buy-and-Sell-Stock-II.py)|Easy|Array; Dynamic Programming; Greedy Algorithm|
+|124|binary-tree-maximum-path-sum| [Python](./124_Binary-Tree-Maximum-Path-Sum.py)|Hard|Tree; DFS|
 |125|Valid Palindrome | [Python](./125_Valid-Palindrome.py)|Easy|String|
 |128|Longest Consecutive Sequence | [Python](./128_Longest-Consecutive-Sequence.py)|Medium|Array|
+|129|Sum Root to Leaf Numbers | [Python](./129_Sum-Root-to-Leaf-Numbers.py)|Medium|DFS|
 |130|Surrounded Regions | [Python](./130_Surrounded-Regions.py)|Medium|DFS|
 |131|Palindrome Partitioning | [Python](./131_Palindrome-Partitioning.py)|Medium|DFS; Dynamic Programming|
+|134|Gas Station | [Python](./134_Gas-Station.py)|Medium|Greedy|
+|135|Candy | [Python](./135_Candy.py)|Hard|Greedy|
 |136|Single Number | [Python](./136_Single-Number.py)|Easy|XOR; Hash Table|
 |137|Single Number II| [Python](./137_Single-Number-II.py)|Medium|Hash Table|
 |139|Word Break| [Python](./139_Word-Break.py)|Medium|Dynamic Programming|
@@ -97,15 +107,18 @@ Those questions with stars at the end were faced during one or more interviews b
 |148|Sort List| [Python](./148_Sort-List.py)|Medium|Linked List; Merge Sort|
 |149|Max Points on a Line| [Python](./149_Max-Points-on-a-Line.py)|Hard|Hash Table|
 |151|Reverse Words in a String| [Python](./151_Reverse-Words-in-a-String.py)|Medium|String|
+|153|Find Minimum in Rotated Sorted Array| [Python](./153_Find-Minimum-in-Rotated-Sorted-Array.py)|Medium|Binary Search|
 |155|Min Stack| [Python](./155_Min-Stack.py)|Easy|Stack|
 |160|Intersection of Two Linked Lists| [Python](./160_Intersection-of-Two-Linked-Lists.py)|Easy|Linked List|
 |162|Find Peak Element| [Python](./162_Find-Peak-Element.py)|Medium|Binary Search|
 |167|Two Sum II | [Python](./167_Two-Sum-II.py)|Easy|Dual Pointer|
 |169|Majority Element | [Python](./169_Majority-Element.py)|Easy|Array|
 |171|Excel Sheet Column Number | [Python](./171_Excel-Sheet-Column-Number.py)|Easy|String|
+|172|Factorial Trailing Zeroes | [Python](./172_Factorial-Trailing-Zeroes.py)|Medium|Maths|
 |173|Binary Search Tree Iterator | [Python](./173_Binary-Search-Tree-Iterator.py)|Medium|BST; Stack|
-|175|Combine Two Tables | [SQL](./175_Combine-Two-Tables.sql)|Easy|SQL|
-|176|Second Highest Salary | [SQL](./176_Second-Highest-Salary.sql)|Easy|SQL|
+|175|Combine Two Tables | [Python](./175_Combine-Two-Tables.py)|Easy|SQL; Pandas|
+|176|Second Highest Salary | [Python](./176_Second-Highest-Salary.py)|Medium|SQL; Pandas|
+|176|Nth Highest Salary | [Python](./177_Nth-Highest-Salary.py)|Medium|SQL; Pandas|
 |179|Largest Number | [Python](./179_Largest-Number.py)|Medium|Sorting|
 |187|Repeated DNA Sequences | [Python](./187_Repeated-DNA-Sequences.py)|Medium|String; Hash Table|
 |189|Rotate Array | [Python](./189_Rotate-Array.py)|Easy|Array|
@@ -151,6 +164,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |300|Longest Increasing Subsequence | [Python](./300_Longest-Increasing-Subsequence.py)|Medium|Array; Dynamic Programming|
 |309|Best Time to Buy and Sell Stock with Cooldown | [Python](./309_Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.py)|Medium|Array; Dynamic Programming|
 |316|Remove Duplicate Letters | [Python](./316_Remove-Duplicate-Letters.py)|Medium|Stack; Hash Table|
+|322|Coin Change | [Python](./322_Coin-Change.py)|Medium|Dynamic Programming|
 |328|Odd Even Linked List | [Python](./328_Odd-Even-Linked-List.py)|Medium|Linked List|
 |334|Increasing Triplet Subsequence | [Python](./334_Increasing-Triplet-Subsequence.py)|Medium|Dynamic Programming(not expected)|
 |337|House Robber III | [Python](./337_House-Robber-III.py)|Medium|Dynamic Programming; Binary Tree; DFS(Expected)|
@@ -196,6 +210,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |500|Keyboard Row |[Python](./500_Keyboard-Row.py)|Easy||
 |501|Find Mode in Binary Search Tree |[Python](./501_Find-Mode-in-Binary-Search-Tree.py)|Easy|Tree|
 |513|Find Bottom Left Tree Value |[Python](./513_Find-Bottom-Left-Tree-Value.py)|Medium|BFS|
+|530|Minimum Absolute Difference in BST |[Python](./530_Minimum-Absolute-Difference-in-Bst.py)|Medium|BFS|
 |537|Complex Number Multiplication |[Python](./537_Complex-Number-Multiplication.py)|Medium|String|
 |543|Diameter of Binary Tree |[Python](./543_Diameter_of-Binary-Tree.py)|Easy|DFS|
 |547|Number of Provinces |[Python](./547_Number-of-Provinces.py)|Medium|DFS|
@@ -231,6 +246,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |867|Transpose Matrix|[Python](./867_Transpose-Matrix.py)|Easy|Array|
 |872|Leaf Similar Trees|[Python](./872_Leaf-Similar-Trees.py)|Easy|Binary Tree|
 |890|Find and Replace Pattern|[Python](./890_Find-and-Replace-Pattern.py)|Medium|Hash Table|
+|918|Maximum Sum Circular Subarray|[Python](./918_Maximum-Sum-Circular-Subarray.py)|Medium|Kadane|
 |933|Number of Recent Calls|[Python](./933_Number-of-Recent-Calls.py)|Easy|Queue|
 |993|Cousins in Binary Tree|[Python](./993_Cousins-in-Binary-Tree.py)|Easy|Tree; DFS|
 |1004|Max Consecutive Ones III |[Python](./1004_Max-Consecutive-Ones-III.py.py)|Medium|Array|

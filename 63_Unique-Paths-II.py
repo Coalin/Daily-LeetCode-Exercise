@@ -62,3 +62,33 @@ class Solution:
 
         return dp[-1][-1]
     
+
+# Exercise III:
+# Apr 9, 2024
+class Solution:
+    def uniquePathsWithObstacles(self, obstacleGrid: List[List[int]]) -> int:
+        if obstacleGrid[0][0] == 1:
+            return 0
+
+        m = len(obstacleGrid)
+        n = len(obstacleGrid[0])
+        dp = [[1 for _ in range(n)] for _ in range(m)]
+
+        for x in range(1, m):
+            dp[x][0] = dp[x-1][0]
+            if obstacleGrid[x][0] == 1:
+                dp[x][0] = 0 
+
+        for y in range(1, n):
+            dp[0][y] = dp[0][y-1]
+            if obstacleGrid[0][y] == 1:
+                dp[0][y] = 0 
+
+        for i in range(1, m):
+            for j in range(1, n):
+                if obstacleGrid[i][j] != 1:
+                    dp[i][j] = dp[i-1][j] + dp[i][j-1]
+                else:
+                    dp[i][j] = 0
+
+        return dp[-1][-1]

@@ -36,4 +36,34 @@ class Solution:
         return final_res
         
         
-        
+# Exercise II:
+# Feb 12, 2024
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        if not root:
+            return []
+
+        res = []
+        queue = [root]
+
+        while queue:
+            cur_list = []
+            queue_len = len(queue)
+            for i in range(queue_len):
+                cur_node = queue.pop(0)
+                cur_list.append(cur_node.val)
+                if cur_node.left:
+                    queue.append(cur_node.left)
+                if cur_node.right:
+                    queue.append(cur_node.right)
+                if i == queue_len-1:
+                    res.append(cur_list)
+                    cur_list = []
+
+        return res

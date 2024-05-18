@@ -48,3 +48,25 @@ class Solution:
         if root1.val != root2.val:
             return False
         return self.isTwoSymmetric(root1.left, root2.right) and self.isTwoSymmetric(root1.right, root2.left)
+
+
+# Exercise III:
+# Jan 28, 2024
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def isSymmetric(self, root: Optional[TreeNode]) -> bool:
+        def isTwoSymmetric(root1, root2):
+            if not root1 and not root2:
+                return True 
+            if (root1 and not root2) or (root2 and not root1):
+                return False
+            if root1.val != root2.val:
+                return False 
+            return isTwoSymmetric(root1.left, root2.right) and isTwoSymmetric(root2.left, root1.right)
+
+        return isTwoSymmetric(root.left, root.right)

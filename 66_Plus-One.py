@@ -34,3 +34,22 @@ class Solution:
             res.append(1)
 
         return res[::-1]
+
+
+# Exercise III:
+# Jan 29, 2024
+class Solution:
+    def plusOne(self, digits: List[int]) -> List[int]:
+        num = (digits[-1]+1)%10
+        flag = (digits[-1]+1)//10
+        res = [num]
+
+        for i in reversed(range(len(digits)-1)):
+            num = (flag+digits[i])%10
+            flag = (flag+digits[i])//10
+            res.append(num)
+
+        if flag:
+            res.append(1)
+
+        return res[::-1]
