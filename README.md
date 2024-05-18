@@ -79,6 +79,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |108|Convert Sorted Array to Binary Search Tree | [Python](./108_Convert-Sorted-Array-to-Binary-Search-Tree.py)|Easy|Tree; Recursion|
 |110|Balanced Binary Tree | [Python](./110_Balanced-Binary-Tree.py)|Easy|Binary Tree|
 |111|Minimum Depth of Binary Tree | [Python](./111_Minimum-Depth-of-Binary-Tree.py)|Easy|Tree; Recursion|
+|112|Path Sum | [Python](./112_Path-Sum.py)|Easy|DFS|
 |113|Path Sum II | [Python](./113_Path-Sum-II.py)|Medium|Binary Tree; DFS|
 |114|Flatten Binary Tree to Linked List | [Python](./114_Flatten-Binary-Tree-to-Linked-List.py)|Medium|Binary Tree|
 |116|Populating Next Right Pointers in Each Node | [Python](./116_Populating-Next-Right-Pointers-in-Each-Node.py)|Medium|Binary Tree|
@@ -88,8 +89,10 @@ Those questions with stars at the end were faced during one or more interviews b
 |120|Triangle | [Python](./120_Triangle.py)|Medium|Dynamic Programming|
 |121|Best Time to Buy and Sell Stock I | [Python](./121_Best-Time-to-Buy-and-Sell-Stock-I.py)|Easy|Array; Dynamic Programming|
 |122|Best Time to Buy and Sell Stock II| [Python](./122_Best-Time-to-Buy-and-Sell-Stock-II.py)|Easy|Array; Dynamic Programming; Greedy Algorithm|
+|124|binary-tree-maximum-path-sum| [Python](./124_Binary-Tree-Maximum-Path-Sum.py)|Hard|Tree; DFS|
 |125|Valid Palindrome | [Python](./125_Valid-Palindrome.py)|Easy|String|
 |128|Longest Consecutive Sequence | [Python](./128_Longest-Consecutive-Sequence.py)|Medium|Array|
+|129|Sum Root to Leaf Numbers | [Python](./129_Sum-Root-to-Leaf-Numbers.py)|Medium|DFS|
 |130|Surrounded Regions | [Python](./130_Surrounded-Regions.py)|Medium|DFS|
 |131|Palindrome Partitioning | [Python](./131_Palindrome-Partitioning.py)|Medium|DFS; Dynamic Programming|
 |134|Gas Station | [Python](./134_Gas-Station.py)|Medium|Greedy|

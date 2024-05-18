@@ -73,3 +73,31 @@ class BSTIterator(object):
             self.stack.append(right)
             right = right.left
         return node.val
+
+
+# Exercise III:
+# May 18, 2024
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class BSTIterator:
+
+    def __init__(self, root: Optional[TreeNode]):
+        self.node_stack = []
+        self.pushLeftBranch(root)
+
+    def next(self) -> int:
+        node = self.node_stack.pop()
+        self.pushLeftBranch(node.right)
+        return node.val
+
+    def hasNext(self) -> bool:
+        return len(self.node_stack) > 0
+
+    def pushLeftBranch(self, node):
+        while node:
+            self.node_stack.append(node)
+            node = node.left
