@@ -56,6 +56,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |69|Sqrt() | [Python](./69_Sqrt.py)|Easy|Binary Search|
 |70|Climbing Stairs | [Python](./70_Climbing-Stairs.py)|Easy|Dynamic Programming|
 |71|Simplify Path | [Python](./71_Simplify-Path.py)|Medium|Stack|
+|72|Edit Distance | [Python](./72_Edit-Distance.py)|Easy|Dynamic Programming|
 |73|Set Matrix Zeroes | [Python](./73_Set-Matrix-Zeroes.py)|Medium|Matrix|
 |74|Search a 2D Matrix | [Python](./74_Search-a-2D-Matrix.py)|Medium|Binary Search|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
