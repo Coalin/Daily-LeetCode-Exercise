@@ -83,3 +83,39 @@ class Solution:
                     board[i][j] = 'X'
 
         
+# Exercise IV:
+# June 23, 2024
+class Solution:
+    def solve(self, board: List[List[str]]) -> None:
+        """
+        Do not return anything, modify board in-place instead.
+        """
+        def dfs(board, x, y):
+            if x < 0 or y < 0 or x >= len(board) or y >= len(board[0]) or board[x][y] != 'O':
+                return 
+            
+            board[x][y] = '1'
+            
+            dfs(board, x-1, y)
+            dfs(board, x+1, y)
+            dfs(board, x, y-1)
+            dfs(board, x, y+1)
+
+        for i in range(len(board)):
+            if board[i][0] == 'O':
+                dfs(board, i, 0)
+            if board[i][-1] == 'O':
+                dfs(board, i, len(board[0])-1) 
+
+        for j in range(len(board[0])):
+            if board[0][j] == 'O':
+                dfs(board, 0, j)
+            if board[-1][j] == 'O':
+                dfs(board, len(board)-1, j)    
+
+        for i in range(len(board)):
+            for j in range(len(board[0])):
+                if board[i][j] == '1':
+                    board[i][j] = 'O'
+                else:
+                    board[i][j] = 'X'

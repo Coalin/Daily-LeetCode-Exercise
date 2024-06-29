@@ -56,6 +56,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |69|Sqrt() | [Python](./69_Sqrt.py)|Easy|Binary Search|
 |70|Climbing Stairs | [Python](./70_Climbing-Stairs.py)|Easy|Dynamic Programming|
 |71|Simplify Path | [Python](./71_Simplify-Path.py)|Medium|Stack|
+|72|Edit Distance | [Python](./72_Edit-Distance.py)|Easy|Dynamic Programming|
 |73|Set Matrix Zeroes | [Python](./73_Set-Matrix-Zeroes.py)|Medium|Matrix|
 |74|Search a 2D Matrix | [Python](./74_Search-a-2D-Matrix.py)|Medium|Binary Search|
 |75|Sort Colors | [Python](./75_Sort-Colors.py)|Medium| |
@@ -68,6 +69,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |89|Gray Code | [Python](./89_Gray-Code.py)|Medium||
 |92|Reverse Linked List II | [Python](./92_Reverse-Linked-List-II.py)|Medium|Linked List|
 |94|Binary Tree Inorder Traversal | [Python](./94_Binary-Tree-Inorder-Traversal.py)|Medium|Binary Tree; Stack|
+|97|Interleaving String | [Python](./97_Interleaving-String.py)|Medium|DP|
 |98|Validate Binary Search Tree | [Python](./98_Validate-Binary-Search-Tree.py)|Medium|BST|
 |100|Same Tree | [Python](./100_Same-Tree.py)|Easy|Tree|
 |101|Symmetric Tree | [Python](./101_Symmetric-Tree.py)|Easy|Tree|
