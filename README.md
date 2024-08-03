@@ -265,6 +265,7 @@ Those questions with stars at the end were faced during one or more interviews b
 |1448|Count Good Nodes in Binary Tree |[Python](./1448_Count_Good_Nodes_in_Binary_Tree.py)|Medium|Binary Tree|
 |1456|Maximum Number of Vowels in a Substring of Given Length |[Python](./1456_Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length.py)|Medium|Array|
 |1493|Longest Subarray of 1s After Deleting One Element |[Python](./1493_Longest-Subarray-of-1s-After-Deleting-One-Element.py)|Medium|Array|
+|1496|Path Crossing |[Python](./1496_Path-Crossing.py)|Easy|String|
 |1679|Max Number of K Sum Pairs |[Python](./1679_Max-Number-of-K-Sum-Pairs.py)|Medium|Dual Pointer|
 |1701|Greatest Common Divisor of Strings |[Python](./1701_Greatest-Common-Divisor-of-Strings.py)|Easy|String|
 |1732|Find the Highest Altitude |[Python](./1732_Find-the-Highest-Altitude.py)|Easy|Array; Prefix Sum|
